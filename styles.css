@@ -1823,8 +1823,9 @@ button {
     }
 
     .service-card.active .service-card__content {
-        transform: translateY(-240px);
+        transform: translateY(-100px);
         transition: transform 0.5s ease;
+        height: auto;
     }
 
     .service-card.active .service-card__image img {
