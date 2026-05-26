@@ -1764,7 +1764,6 @@ button {
 /* PEGAR ACA TODO EL CSS FAQ */
 
 .faq {
-   ...
 }
 .faq__item {
     margin-bottom: 1.2rem;
@@ -1787,13 +1786,25 @@ button {
 }
 @media screen and (max-width: 768px) {
 
-.service-card {
-    height: auto !important;
-    overflow: visible !important;
-}
+./* TODO TU CSS MOBILE */
 
-.service-card__content {
-    overflow: visible !important;
-}
+    .service-card {
+        margin-bottom: 40px;
+    }
+
+    .service-card:hover .service-card__content {
+        transform: translateY(-300px);
+    }
+
+    /* PEGÁ ESTO ACÁ ABAJO */
+
+    .service-card:hover .service-card__content {
+        transform: none !important;
+    }
+
+    .service-card__list {
+        max-height: 1000px !important;
+        opacity: 1 !important;
+    }
 
 }
