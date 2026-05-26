@@ -373,5 +373,21 @@ document.querySelectorAll('.btn--primary').forEach(btn => {
         trackEvent('Button', 'Click', btn.textContent.trim());
     });
 });
+// =============== SERVICIOS EXPANDIBLES MOBILE ===============
+const serviceCards = document.querySelectorAll('.service-card');
 
+serviceCards.forEach(card => {
+    card.addEventListener('click', () => {
+
+        // Cierra las demás tarjetas
+        serviceCards.forEach(otherCard => {
+            if (otherCard !== card) {
+                otherCard.classList.remove('active');
+            }
+        });
+
+        // Abre/cierra la actual
+        card.classList.toggle('active');
+    });
+});
 
