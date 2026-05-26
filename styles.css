@@ -1785,3 +1785,7 @@ button {
     margin-top: 1rem;
     line-height: 1.8;
 }
+@font-face {
+  font-family: 'Font Awesome 6 Free';
+  font-display: swap;
+}
