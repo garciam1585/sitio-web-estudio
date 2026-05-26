@@ -1785,3 +1785,15 @@ button {
     margin-top: 1rem;
     line-height: 1.8;
 }
+@media screen and (max-width: 768px) {
+
+.service-card {
+    height: auto !important;
+    overflow: visible !important;
+}
+
+.service-card__content {
+    overflow: visible !important;
+}
+
+}
