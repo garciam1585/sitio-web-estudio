@@ -1817,3 +1817,20 @@ button {
     }
 
 }
+.service-card:hover .service-card__list {
+    max-height: 0;
+    opacity: 0;
+}
+
+.service-card.active .service-card__content {
+    transform: translateY(-240px);
+}
+
+.service-card.active .service-card__image img {
+    display: none;
+}
+
+.service-card.active .service-card__overlay {
+    opacity: 0;
+    display: none;
+}
