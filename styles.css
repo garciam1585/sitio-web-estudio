@@ -675,10 +675,7 @@ button {
     transition: none;
 }
 
-.service-card:hover .service-card__content {
-    transform: translateY(-250px);
-    transition: transform 0.5s ease-in;
-}
+
 
 .service-card__title {
     font-size: var(--font-size-2xl);
@@ -1672,9 +1669,7 @@ button {
     .service-card:hover{
         max-height: 550px;
     }
-    .service-card:hover .service-card__content {
-    transform: translateY(-240px);
-    }
+
     .service-card__title {
         font-size: 1.3rem;
     }
@@ -1823,10 +1818,10 @@ button {
     }
 
     .service-card.active .service-card__content {
-        transform: translateY(-100px);
-        transition: transform 0.5s ease;
-        height: auto;
-    }
+    transform: translateY(-170px);
+    transition: transform 0.5s ease;
+    height: auto;
+}
 
     .service-card.active .service-card__image img {
         display: none;
