@@ -1788,7 +1788,7 @@ button {
         margin-bottom: 40px;
     }
 
-    /* DESACTIVA EL HOVER EN MOBILE */
+    /* DESACTIVA EFECTOS HOVER */
     .service-card:hover .service-card__content {
         transform: none;
     }
@@ -1802,7 +1802,12 @@ button {
         display: flex;
     }
 
-    /* LISTA CERRADA POR DEFECTO */
+    .service-card:hover .service-card__list {
+        max-height: 0;
+        opacity: 0;
+    }
+
+    /* ESTADO NORMAL */
     .service-card__list {
         max-height: 0;
         opacity: 0;
@@ -1810,27 +1815,24 @@ button {
         transition: all 0.4s ease;
     }
 
-    /* CUANDO HACÉS CLICK */
+    /* CUANDO SE ABRE */
     .service-card.active .service-card__list {
         max-height: 1000px;
         opacity: 1;
+        margin-top: 20px;
     }
 
-}
-.service-card:hover .service-card__list {
-    max-height: 0;
-    opacity: 0;
-}
+    .service-card.active .service-card__content {
+        transform: translateY(-240px);
+        transition: transform 0.5s ease;
+    }
 
-.service-card.active .service-card__content {
-    transform: translateY(-240px);
-}
+    .service-card.active .service-card__image img {
+        display: none;
+    }
 
-.service-card.active .service-card__image img {
-    display: none;
-}
-
-.service-card.active .service-card__overlay {
-    opacity: 0;
-    display: none;
+    .service-card.active .service-card__overlay {
+        opacity: 0;
+        display: none;
+    }
 }
