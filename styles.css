@@ -1788,15 +1788,32 @@ button {
         margin-bottom: 40px;
     }
 
-    /* DESACTIVA EL MOVIMIENTO EN MOBILE */
+    /* DESACTIVA EL HOVER EN MOBILE */
     .service-card:hover .service-card__content {
-        transform: none !important;
+        transform: none;
     }
 
-    /* MUESTRA SIEMPRE LA LISTA EN MOBILE */
+    .service-card:hover .service-card__image img {
+        display: block;
+    }
+
+    .service-card:hover .service-card__overlay {
+        opacity: 1;
+        display: flex;
+    }
+
+    /* LISTA CERRADA POR DEFECTO */
     .service-card__list {
-        max-height: 1000px !important;
-        opacity: 1 !important;
+        max-height: 0;
+        opacity: 0;
+        overflow: hidden;
+        transition: all 0.4s ease;
+    }
+
+    /* CUANDO HACÉS CLICK */
+    .service-card.active .service-card__list {
+        max-height: 1000px;
+        opacity: 1;
     }
 
 }
