@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Página principal -->
+  <url>
+    <loc>https://www.mgabogado.com.ar/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
 
-<url>
-  <loc>https://www.mgabogado.com.ar/</loc>
-  <lastmod>2026-05-29</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
+  <!-- Blog -->
+  <url>
+    <loc>https://blog.mgabogado.com.ar/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-<url>
-  <loc>https://blog.mgabogado.com.ar/</loc>
-  <lastmod>2026-05-29</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.8</priority>
-</url>
+  <!-- Servicios (según tus archivos reales) -->
+  <url>
+    <loc>https://mgabogado.com.ar/amparos-de-salud.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgabogado.com.ar/gestion-jubilaciones.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgabogado.com.ar/otros-servicios-previsionales.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgabogado.com.ar/pensiones-por-fallecimiento.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgabogado.com.ar/planificacion-previsional.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgabogado.com.ar/reajuste-de-haberes.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mgabogado.com.ar/retiro-por-invalidez.html</loc>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>

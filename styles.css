@@ -611,12 +611,11 @@ button {
     transition: none;
 }
 
-.service-card:nth-child(7) {
+.services__grid > .service-card-link:last-child {
     grid-column: 1 / -1;
-    max-width: 50%;
-    margin: 0 auto;
+    justify-self: center;
+    width: 50%;
 }
-
 .service-card:hover {
     box-shadow: var(--shadow-xl);
     max-height: 500px;
@@ -1788,4 +1787,19 @@ button {
 @font-face {
   font-family: 'Font Awesome 6 Free';
   font-display: swap;
+}
+.service-card{
+    text-decoration:none;
+    color:inherit;
+    cursor:pointer;
+
+.service-card-link {
+    display: block;
+}
+
+.services__grid > .service-card-link:last-child {
+    grid-column: 1 / -1;
+    max-width: 50%;
+    width: 100%;
+    margin: 0 auto;
 }
