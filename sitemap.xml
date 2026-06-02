@@ -19,31 +19,31 @@
 
   <!-- Servicios (según tus archivos reales) -->
   <url>
-    <loc>https://mgabogado.com.ar/amparos-de-salud.html</loc>
+    <loc>https://mgabogado.com.ar/amparos-de-salud</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mgabogado.com.ar/gestion-jubilaciones.html</loc>
+    <loc>https://mgabogado.com.ar/gestion-jubilaciones</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mgabogado.com.ar/otros-servicios-previsionales.html</loc>
+    <loc>https://mgabogado.com.ar/otros-servicios-previsionales</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mgabogado.com.ar/pensiones-por-fallecimiento.html</loc>
+    <loc>https://mgabogado.com.ar/pensiones-por-fallecimiento</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mgabogado.com.ar/planificacion-previsional.html</loc>
+    <loc>https://mgabogado.com.ar/planificacion-previsional</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mgabogado.com.ar/reajuste-de-haberes.html</loc>
+    <loc>https://mgabogado.com.ar/reajuste-de-haberes</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mgabogado.com.ar/retiro-por-invalidez.html</loc>
+    <loc>https://mgabogado.com.ar/retiro-por-invalidez</loc>
     <priority>0.8</priority>
   </url>
 
