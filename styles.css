@@ -1862,3 +1862,12 @@ button {
         max-width: 100% !important;
     }
 }
+/* --- Ajuste específico para la tarjeta final --- */
+@media screen and (min-width: 769px) {
+    .services__grid > .service-card-link:last-child {
+        grid-column: span 1 !important; 
+        max-width: 100% !important;
+        width: 100% !important;
+        margin: 0;
+    }
+}
