@@ -1758,48 +1758,107 @@ button {
     }
 }
 
-/* ULTIMA LINEA DE TU CSS */
+/* --- CONFIGURACIÓN MÓVIL OPTIMIZADA --- */
 
-/* PEGAR ACA TODO EL CSS FAQ */
+@media screen and (max-width: 768px) {
+    /* 1. Ocultar sección de Logros (Why Us) */
+    .why-us {
+        display: none !important;
+    }
 
+    /* 2. Ocultar listas de servicios para acortar tarjetas */
+    .service-card__list {
+        display: none !important;
+    }
+
+    /* 3. Asegurar que las tarjetas ocupen el ancho total y no tengan efectos molestos en móvil */
+    .service-card {
+        width: 100% !important;
+        transform: none !important;
+        padding-bottom: 15px !important;
+    }
+    
+    .service-card:hover {
+        transform: none !important;
+        box-shadow: var(--shadow-md) !important;
+    }
+
+    .service-card:hover .service-card__content {
+        transform: translateY(0) !important;
+    }
+    
+    /* 4. Ajustar el grid de servicios para que no quede fino */
+    .services__grid {
+        grid-template-columns: 1fr !important;
+        gap: 20px !important;
+        padding: 0 15px !important;
+    }
+}
+/* --- CORRECCION SERVICIOS FINOS --- */
+.services__grid > .service-card-link:last-child {
+    grid-column: 1 / -1 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 auto;
+}
+/* --- FAQ CON ESTILO --- */
 .faq {
-   ...
+    margin-top: 60px;
+    padding: 0 15px;
 }
 .faq__item {
-    margin-bottom: 1.2rem;
-    padding: 1rem 1.2rem;
+    margin-bottom: 1.5rem !important; /* Espacio entre preguntas */
+    padding: 1.5rem !important;        /* Espacio interno */
     border-radius: 12px;
-    background: #fff;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    background: #ffffff;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--color-border);
 }
-
 .faq__item summary {
     cursor: pointer;
     font-weight: 700;
-    font-size: 1.05rem;
-    line-height: 1.5;
+    font-size: 1.1rem;
+    color: var(--color-primary);
+    list-style: none; /* Quita el triángulo por defecto si molesta */
 }
-
 .faq__item p {
     margin-top: 1rem;
     line-height: 1.8;
-}
-@font-face {
-  font-family: 'Font Awesome 6 Free';
-  font-display: swap;
-}
-.service-card{
-    text-decoration:none;
-    color:inherit;
-    cursor:pointer;
-
-.service-card-link {
-    display: block;
+    color: var(--color-text-light);
 }
 
-.services__grid > .service-card-link:last-child {
-    grid-column: 1 / -1;
-    max-width: 50%;
-    width: 100%;
-    margin: 0 auto;
+/* --- CORRECCIONES MÓVIL (Logros, Listas, Tarjetas) --- */
+@media screen and (max-width: 768px) {
+    /* Ocultar secciones innecesarias en móvil */
+    .why-us, .service-card__list {
+        display: none !important;
+    }
+
+    /* Arreglar tarjetas de servicios */
+    .services__grid {
+        grid-template-columns: 1fr !important;
+        gap: 20px !important;
+        padding: 0 15px !important;
+    }
+
+    .service-card {
+        width: 100% !important;
+        transform: none !important;
+        padding-bottom: 15px !important;
+    }
+    
+    .service-card:hover {
+        transform: none !important;
+        box-shadow: var(--shadow-md) !important;
+    }
+
+    .service-card:hover .service-card__content {
+        transform: translateY(0) !important;
+    }
+    
+    /* Arreglar la tarjeta finita */
+    .services__grid > .service-card-link:last-child {
+        grid-column: 1 / -1 !important;
+        max-width: 100% !important;
+    }
 }
