@@ -111,49 +111,131 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script type="application/ld+json">
 {
-  "@context":"https://schema.org",
-  "@type": ["LegalService","Attorney","LocalBusiness"],
-  "name": "Dr. Martín García - Abogado Previsional",
-    "description": "Estudio jurídico previsional especializado en jubilaciones, pensiones, reajustes de haberes y trámites ANSES en Buenos Aires y atención online para toda Argentina.",
-  "image": "https://mgabogado.com.ar/images/Logos/Martin Garcia Servicios Legales - Isotipo.jpg",
-  "@id": "https://mgabogado.com.ar/",
-  "url": "https://mgabogado.com.ar/",
-"telephone": "+541130082030",
-"email": "contacto@mgabogado.com.ar",
-"founder": "Dr. Martín García",
-"openingHours": "Mo-Fr 09:00-18:00",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Buenos Aires",
-    "addressRegion": "CABA",
-    "addressCountry": "AR"
-  },
-"geo": {
-  "@type": "GeoCoordinates",
-  "latitude": -34.6174548,
-  "longitude": -58.4005626
-},
- "areaServed": {
-  "@type": "Country",
-  "name": "Argentina"
-},
-  "priceRange": "$$",
- "serviceType": [
-  "Jubilaciones",
-  "Pensiones",
-  "Retiro por Invalidez",
-  "Reajuste de Haberes",
-  "Amparos de Salud",
-  "Derecho Previsional"
-],
-
-"sameAs": [
-  "https://www.instagram.com/ab.martingarcia/",
-  "https://www.facebook.com/AbogadoGarciaMartin/"
-]
-
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://mgabogado.com.ar/#person",
+      "name": "Dr. Martín García",
+      "jobTitle": "Abogado Previsional",
+      "worksFor": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "sameAs": [
+        "https://www.instagram.com/ab.martingarcia/",
+        "https://www.facebook.com/AbogadoGarciaMartin/"
+      ]
+    },
+    {
+      "@type": ["LegalService", "Attorney", "LocalBusiness"],
+      "@id": "https://mgabogado.com.ar/#organization",
+      "name": "Dr. Martín García - Abogado Previsional",
+      "description": "Estudio jurídico previsional especializado en jubilaciones, pensiones, reajustes de haberes y trámites ANSES en Buenos Aires y atención online para toda Argentina.",
+      "image": "https://mgabogado.com.ar/images/Logos/Martin Garcia Servicios Legales - Isotipo.jpg",
+      "url": "https://mgabogado.com.ar/",
+      "telephone": "+541130082030",
+      "email": "contacto@mgabogado.com.ar",
+      "founder": {
+        "@id": "https://mgabogado.com.ar/#person"
+      },
+      "openingHours": "Mo-Fr 09:00-18:00",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Buenos Aires",
+        "addressRegion": "CABA",
+        "addressCountry": "AR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -34.6174548,
+        "longitude": -58.4005626
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "priceRange": "$$",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Servicios Jurídicos Previsionales",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Planificación Previsional"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Gestión de Jubilaciones"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Pensiones por Fallecimiento"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Reajuste de Haberes"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Retiro por Invalidez"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Amparos de Salud"
+            }
+          }
+        ]
+      }
+    }
+  ]
 }
 </script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://mgabogado.com.ar/#webpage",
+      "url": "https://mgabogado.com.ar/",
+      "name": "Abogado Previsional en CABA | Jubilaciones, Pensiones y Reajustes ANSES",
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Derecho Previsional"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Jubilaciones ANSES"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Reajuste de Haberes"
+        },
+        {
+          "@type": "Thing",
+          "name": "Moratorias Previsionales"
+        }
+      ]
+    }
+    </script>
 
 <style>
         .hero__title {
