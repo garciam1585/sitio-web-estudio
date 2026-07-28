@@ -32,7 +32,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
             const limite = parseInt(container.dataset.limit || "3");
 
-data.feed.entry.slice(0, limite).forEach(post => {
+const posts = Array.from(data.feed.entry);
+
+// Mezcla aleatoriamente el array (Fisher-Yates)
+for (let i = posts.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [posts[i], posts[j]] = [posts[j], posts[i]];
+}
+
+// Muestra solamente la cantidad indicada
+posts.slice(0, limite).forEach(post => {
 
                 const alternate = post.link.find(l => l.rel === "alternate");
                 const enlace = alternate ? alternate.href : "#";
