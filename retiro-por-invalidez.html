@@ -33,27 +33,36 @@
     <meta name="theme-color" content="#1A2E40">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Service",
-      "name": "Retiro por Invalidez ante ANSES",
-      "provider": {
-        "@type": "LegalService",
-        "name": "Dr. Martín García - Abogado Previsional",
-        "url": "https://mgabogado.com.ar",
-        "telephone": "+541130082030",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Buenos Aires",
-          "addressRegion": "CABA",
-          "addressCountry": "AR"
-        }
-      },
-      "serviceType": "Retiro por Invalidez — RTI ante ANSES y Comisiones Médicas",
-      "areaServed": "Argentina",
-      "description": "Gestión y apelación de retiros por invalidez ante ANSES, Comisiones Médicas Jurisdiccionales, Comisión Médica Central y Cuerpo Médico Forense de la CSJN."
-    }
-    </script>
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Retiro por Invalidez",
+  "provider": {
+    "@type": ["LegalService", "Attorney", "LocalBusiness"],
+    "name": "Dr. Martín García - Abogado Previsional",
+    "url": "https://mgabogado.com.ar",
+    "telephone": "+541130082030",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Buenos Aires",
+      "addressRegion": "CABA",
+      "addressCountry": "AR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -34.6174548,
+      "longitude": -58.4005626
+    },
+    "sameAs": [
+      "https://www.instagram.com/ab.martingarcia/",
+      "https://www.facebook.com/AbogadoGarciaMartin/"
+    ]
+  },
+  "serviceType": "Retiro por Invalidez",
+  "areaServed": "Argentina",
+  "description": "Asesoramiento legal y representación ante las comisiones médicas para la obtención del beneficio por incapacidad."
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -448,7 +457,15 @@
             </div>
         </div>
     </section>
+<section class="related-posts-section">
 
+    <div
+        id="blog-posts"
+        data-label="Retiro por Invalidez"
+       data-limit="3">
+    </div>
+
+</section>
     <section class="cta-section">
         <div class="container">
             <h2 style="color: #ffffff; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
@@ -517,6 +534,7 @@
     </a>
 
     <script src="script.js"></script>
+    <script src="blog-feed.js"></script>
     <script type="application/ld+json">
 {
   "@context": "https://schema.org/",

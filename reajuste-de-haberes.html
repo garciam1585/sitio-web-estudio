@@ -288,7 +288,7 @@
                             <li class="active"><a href="reajuste-de-haberes.html"><i class="fas fa-chevron-right"></i> Reajuste de haberes</a></li>
                             <li><a href="retiro-por-invalidez.html"><i class="fas fa-chevron-right"></i> Retiro por invalidez</a></li>
                             <li><a href="amparos-de-salud.html"><i class="fas fa-chevron-right"></i> Amparos de salud</a></li>
-                            <li><a href="otros-servicios.html"><i class="fas fa-chevron-right"></i> Otros servicios</a></li>
+                            <li><a href="otros-servicios-previsionales.html"><i class="fas fa-chevron-right"></i> Otros servicios</a></li>
                         </ul>
                     </div>
                     <div class="sidebar-card" style="background:#1A2E40;color:#fff;">
@@ -329,7 +329,16 @@
             </div>
         </div>
     </section>
+<section class="related-posts-section">
 
+    <div
+        id="blog-posts"
+        data-label="Reajuste"
+      
+        data-limit="3">
+    </div>
+
+</section>
     <section class="cta-section">
         <div class="container">
             <h2 style="color: #ffffff; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
@@ -368,7 +377,7 @@
                         <li><a href="reajuste-de-haberes.html" class="footer__link">Reajuste de haberes</a></li>
                         <li><a href="retiro-por-invalidez.html" class="footer__link">Retiro por invalidez</a></li>
                         <li><a href="amparos-de-salud.html" class="footer__link">Amparos de salud</a></li>
-                        <li><a href="otros-servicios.html" class="footer__link">Otros servicios</a></li>
+                        <li><a href="otros-servicios-previsionales.html" class="footer__link">Otros servicios</a></li>
                     </ul>
                 </div>
                 <div class="footer__contact">
@@ -393,21 +402,36 @@
 
     <script src="script.js"></script>
 <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Service",
-      "name": "Reajuste de Haberes Jubilatorios",
-      "provider": {
-        "@type": "LegalService",
-        "name": "Dr. Martín García - Abogado Previsional",
-        "url": "https://mgabogado.com.ar",
-        "telephone": "+541130082030"
-      },
-      "serviceType": "Reajuste de Haberes y Movilidad",
-      "areaServed": "Argentina",
-      "description": "Auditoría técnica de liquidaciones jubilatorias, reclamo de haber inicial y movilidad ante ANSES para corregir haberes mal liquidados."
-    }
-    </script>
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Reajuste de Haberes",
+  "provider": {
+    "@type": ["LegalService", "Attorney", "LocalBusiness"],
+    "name": "Dr. Martín García - Abogado Previsional",
+    "url": "https://mgabogado.com.ar",
+    "telephone": "+541130082030",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Buenos Aires",
+      "addressRegion": "CABA",
+      "addressCountry": "AR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -34.6174548,
+      "longitude": -58.4005626
+    },
+    "sameAs": [
+      "https://www.instagram.com/ab.martingarcia/",
+      "https://www.facebook.com/AbogadoGarciaMartin/"
+    ]
+  },
+  "serviceType": "Reajuste de Haberes",
+  "areaServed": "Argentina",
+  "description": "Reclamos judiciales y administrativos por movilidad jubilatoria mal liquidada y actualización de haberes previsionales."
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -424,6 +448,7 @@
     </script>
 
     <script src="script.js"></script>
+    <script src="blog-feed.js"></script>
 </body>
 </html>
 

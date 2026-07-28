@@ -33,27 +33,36 @@
     <meta name="theme-color" content="#1A2E40">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Service",
-      "name": "Planificación Previsional",
-      "provider": {
-        "@type": "LegalService",
-        "name": "Dr. Martín García - Abogado Previsional",
-        "url": "https://mgabogado.com.ar",
-        "telephone": "+541130082030",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Buenos Aires",
-          "addressRegion": "CABA",
-          "addressCountry": "AR"
-        }
-      },
-      "serviceType": "Planificación Previsional y Jubilatoria",
-      "areaServed": "Argentina",
-      "description": "Análisis integral de la historia laboral años antes de la edad jubilatoria para detectar aportes faltantes, corregir errores y diseñar la estrategia que maximiza el haber previsional."
-    }
-    </script>
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Planificación Previsional",
+  "provider": {
+    "@type": ["LegalService", "Attorney", "LocalBusiness"],
+    "name": "Dr. Martín García - Abogado Previsional",
+    "url": "https://mgabogado.com.ar",
+    "telephone": "+541130082030",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Buenos Aires",
+      "addressRegion": "CABA",
+      "addressCountry": "AR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -34.6174548,
+      "longitude": -58.4005626
+    },
+    "sameAs": [
+      "https://www.instagram.com/ab.martingarcia/",
+      "https://www.facebook.com/AbogadoGarciaMartin/"
+    ]
+  },
+  "serviceType": "Planificación Previsional",
+  "areaServed": "Argentina",
+  "description": "Análisis y proyección de aportes y historia laboral para optimizar el futuro momento de iniciar el trámite jubilatorio."
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -436,7 +445,16 @@
             </div>
         </div>
     </section>
+<section class="related-posts-section">
 
+    <div
+        id="blog-posts"
+        data-label="Planificacion"
+        
+        data-limit="3">
+    </div>
+
+</section>
     <section class="cta-section">
         <div class="container">
             <h2 style="color: #ffffff; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
@@ -504,6 +522,7 @@
     </a>
 
     <script src="script.js"></script>
+    <script src="blog-feed.js"></script>
     <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
