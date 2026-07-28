@@ -31,27 +31,36 @@
 <link rel="icon" type="image/x-icon" href="images/Logos/Martin Garcia Servicios Legales - Isotipo.ico">
 
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Service",
-      "name": "Gestión de Jubilaciones y Moratorias",
-      "provider": {
-        "@type": "LegalService",
-        "name": "Dr. Martín García - Abogado Previsional",
-        "url": "https://mgabogado.com.ar",
-        "telephone": "+541130082030",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Buenos Aires",
-          "addressRegion": "CABA",
-          "addressCountry": "AR"
-        }
-      },
-      "serviceType": "Jubilaciones y Moratorias Previsionales",
-      "areaServed": "Argentina",
-      "description": "Asesoramiento y gestión integral de jubilaciones ordinarias y por moratoria ante ANSES para personas con aportes completos o incompletos."
-    }
-    </script>
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Gestión de Jubilaciones",
+  "provider": {
+    "@type": ["LegalService", "Attorney", "LocalBusiness"],
+    "name": "Dr. Martín García - Abogado Previsional",
+    "url": "https://mgabogado.com.ar",
+    "telephone": "+541130082030",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Buenos Aires",
+      "addressRegion": "CABA",
+      "addressCountry": "AR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -34.6174548,
+      "longitude": -58.4005626
+    },
+    "sameAs": [
+      "https://www.instagram.com/ab.martingarcia/",
+      "https://www.facebook.com/AbogadoGarciaMartin/"
+    ]
+  },
+  "serviceType": "Gestión de Jubilaciones",
+  "areaServed": "Argentina",
+  "description": "Asesoramiento y tramitación integral de jubilaciones ante ANSES."
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -641,8 +650,18 @@
 
             </div>
         </div>
-    </section>
+</section>
 
+<!-- ARTÍCULOS RELACIONADOS -->
+<section class="related-posts-section">
+
+    <div
+        id="blog-posts"
+        data-label="Jubilaciones"
+        data-limit="3">
+    </div>
+
+</section>
     <!-- CTA FINAL -->
     <section class="cta-section">
         <div class="container">
@@ -714,8 +733,11 @@
         <i class="fab fa-whatsapp"></i>
     </a>
 
-    <script src="script.js"></script>
+   <script src="script.js"></script> 
+      <script src="blog-feed.js"></script>
     <script type="application/ld+json">
+   
+        
 {
   "@context": "https://schema.org/",
   "@type": "BreadcrumbList",
