@@ -30,7 +30,9 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="related-grid">
             `;
 
-            data.feed.entry.slice(0, 3).forEach(post => {
+            const limite = parseInt(container.dataset.limit || "3");
+
+data.feed.entry.slice(0, limite).forEach(post => {
 
                 const alternate = post.link.find(l => l.rel === "alternate");
                 const enlace = alternate ? alternate.href : "#";
