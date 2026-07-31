@@ -28,39 +28,214 @@
     <link rel="apple-touch-icon" href="images/Logos/Martin Garcia Servicios Legales - Isotipo.png">
     <meta name="theme-color" content="#1A2E40">
 
-    <script type="application/ld+json">
+   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
     {
-      "@context": "https://schema.org",
-      "@type": "LegalService",
+      "@type": "Person",
+      "@id": "https://mgabogado.com.ar/#person",
+      "name": "Dr. Martín García",
+      "url": "https://mgabogado.com.ar/abogado-previsional-buenos-aires",
+      "image": "https://mgabogado.com.ar/images/FotoPerfil.webp",
+      "jobTitle": "Abogado Previsional",
+      "worksFor": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "knowsAbout": [
+        "Derecho Previsional",
+        "Derecho de la Seguridad Social",
+        "Jubilaciones",
+        "Pensiones",
+        "ANSES",
+        "Reajuste de Haberes",
+        "Retiro por Invalidez",
+        "Pensiones por Fallecimiento",
+        "Planificación Previsional",
+        "Moratorias Previsionales"
+      ],
+      "sameAs": [
+        "https://www.instagram.com/ab.martingarcia/",
+        "https://www.facebook.com/AbogadoGarciaMartin/"
+      ]
+    },
+
+    {
+      "@type": [
+        "LegalService",
+        "Attorney",
+        "LocalBusiness"
+      ],
+      "@id": "https://mgabogado.com.ar/#organization",
       "name": "Dr. Martín García - Abogado Previsional en Buenos Aires",
-      "image": "https://mgabogado.com.ar/images/Logos/Martin Garcia Servicios Legales - Isotipo.jpg",
-      "url": "https://mgabogado.com.ar",
+      "url": "https://mgabogado.com.ar/abogado-previsional-buenos-aires",
+      "description": "Estudio jurídico previsional en CABA y GBA especializado en jubilaciones, pensiones, reajustes de haberes y trámites ante ANSES.",
+
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
+      },
+
+      "image": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png",
+
       "telephone": "+541130082030",
+      "email": "contacto@mgabogado.com.ar",
+
+      "founder": {
+        "@id": "https://mgabogado.com.ar/#person"
+      },
+
+      "openingHours": "Mo-Fr 09:00-18:00",
+
+      "priceRange": "$$",
+
       "address": {
         "@type": "PostalAddress",
+        "streetAddress": "San Cristóbal",
         "addressLocality": "Buenos Aires",
         "addressRegion": "CABA",
         "addressCountry": "AR"
       },
+
       "geo": {
         "@type": "GeoCoordinates",
         "latitude": -34.6174548,
         "longitude": -58.4005626
       },
+
       "areaServed": [
-        {"@type": "City", "name": "Ciudad Autónoma de Buenos Aires"},
-        {"@type": "AdministrativeArea", "name": "Gran Buenos Aires"},
-        {"@type": "Country", "name": "Argentina"}
+        {
+          "@type": "City",
+          "name": "Ciudad Autónoma de Buenos Aires"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Gran Buenos Aires"
+        }
       ],
-      "serviceType": ["Jubilaciones", "Pensiones", "Reajuste de Haberes", "Amparos de Salud", "Retiro por Invalidez"],
-      "priceRange": "$$",
+
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+541130082030",
+        "contactType": "customer service",
+        "areaServed": "AR",
+        "availableLanguage": [
+          "es"
+        ]
+      },
+
       "sameAs": [
         "https://www.instagram.com/ab.martingarcia/",
         "https://www.facebook.com/AbogadoGarciaMartin/"
-      ]
-    }
-    </script>
+      ],
 
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Servicios Jurídicos Previsionales en Buenos Aires",
+        "itemListElement": [
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Planificación Previsional en CABA"
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Gestión de Jubilaciones y ANSES"
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Pensiones por Fallecimiento"
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Reajuste de Haberes"
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Retiro por Invalidez"
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Amparos de Salud"
+            }
+          }
+
+        ]
+      }
+
+    },
+
+    {
+      "@type": "WebSite",
+      "@id": "https://mgabogado.com.ar/#website",
+      "url": "https://mgabogado.com.ar/",
+      "name": "Dr. Martín García - Abogado Previsional",
+      "publisher": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "inLanguage": "es-AR"
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://mgabogado.com.ar/abogado-previsional-buenos-aires#webpage",
+      "url": "https://mgabogado.com.ar/abogado-previsional-buenos-aires",
+      "name": "Abogado Previsional en CABA, GBA y Todo el País | Jubilaciones y ANSES - Dr. Martín García",
+      "isPartOf": {
+        "@id": "https://mgabogado.com.ar/#website"
+      },
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Derecho Previsional en Buenos Aires"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Jubilaciones ANSES CABA"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Reajuste de Haberes"
+        },
+        {
+          "@type": "Thing",
+          "name": "UDAI ANSES Buenos Aires"
+        }
+      ],
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
+      }
+    }
+
+  ]
+}
+</script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
