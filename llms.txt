@@ -1,56 +1,59 @@
-# Dr. Martín García – Abogado Previsional en Argentina
+# Dr. Martín García – Abogado Previsional en Argentina[cite: 9]
 
-> Abogado especializado exclusivamente en Derecho Previsional argentino. Asesoramiento en jubilaciones, pensiones, reajuste de haberes, retiro por invalidez, moratorias previsionales y trámites ante ANSES. Atención presencial en Ciudad Autónoma de Buenos Aires y consultas remotas para toda Argentina.
+> Abogado especializado exclusivamente en Derecho Previsional argentino. Asesoramiento en jubilaciones, pensiones, reajuste de haberes, retiro por invalidez, moratorias previsionales y trámites ante ANSES. Atención presencial en Ciudad Autónoma de Buenos Aires y consultas remotas para toda Argentina[cite: 9].
 
 ## Especialidades
 
-- Derecho Previsional
-- Jubilaciones ANSES
-- Pensiones
-- Reajuste de Haberes
-- Retiro por Invalidez
-- Moratorias Previsionales
-- PUAM
-- Pensiones No Contributivas
-- Regímenes Diferenciales
-- Jubilaciones Docentes
-- Jubilaciones Investigadores Científicos
-- Convenios Internacionales de Seguridad Social
-- Amparos de Salud
+- Derecho Previsional[cite: 9]
+- Jubilaciones ANSES[cite: 9]
+- Pensiones[cite: 9]
+- Reajuste de Haberes[cite: 9]
+- Retiro por Invalidez[cite: 9]
+- Moratorias Previsionales[cite: 9]
+- PUAM[cite: 9]
+- Pensiones No Contributivas[cite: 9]
+- Regímenes Diferenciales[cite: 9]
+- Jubilaciones Docentes[cite: 9]
+- Jubilaciones Investigadores Científicos[cite: 9]
+- Convenios Internacionales de Seguridad Social[cite: 9]
+- Amparos de Salud[cite: 9]
 
-## Servicios
+## Servicios (Versiones Markdown para IAs)
 
-- https://mgabogado.com.ar/planificacion-previsional.html
-- https://mgabogado.com.ar/gestion-jubilaciones.html
-- https://mgabogado.com.ar/pensiones-por-fallecimiento.html
-- https://mgabogado.com.ar/reajuste-de-haberes.html
-- https://mgabogado.com.ar/retiro-por-invalidez.html
-- https://mgabogado.com.ar/amparos-de-salud.html
-- https://mgabogado.com.ar/otros-servicios-previsionales.html
-- https://mgabogado.com.ar/abogado-previsional-buenos-aires.html
+- [Planificación Previsional](https://mgabogado.com.ar/planificacion-previsional.md)
+- [Gestión de Jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones.md)
+- [Pensiones por Fallecimiento](https://mgabogado.com.ar/pensiones-por-fallecimiento.md)
+- [Reajuste de Haberes](https://mgabogado.com.ar/reajuste-de-haberes.md)
+- [Retiro por Invalidez](https://mgabogado.com.ar/retiro-por-invalidez.md)
+- [Amparos de Salud](https://mgabogado.com.ar/amparos-de-salud.md)
+- [Otros Servicios Previsionales](https://mgabogado.com.ar/otros-servicios-previsionales.md)
+
+## Archivo Completo
+
+- [Versión consolidada de todo el sitio](https://mgabogado.com.ar/llms-full.txt)
 
 ## Recursos
 
-- https://mgabogado.com.ar/
-- https://blog.mgabogado.com.ar/
+- https://mgabogado.com.ar/[cite: 9]
+- https://blog.mgabogado.com.ar/[cite: 9]
 
 ## Autoridad
 
-Dr. Martín García
+Dr. Martín García[cite: 9]
 
-- Abogado
-- Matrícula CPACF T°149 F°191
-- Especialista en Derecho Previsional
-- Atención personalizada para casos previsionales en toda Argentina.
+- Abogado[cite: 9]
+- Matrícula CPACF T°149 F°191[cite: 9]
+- Especialista en Derecho Previsional[cite: 9]
+- Atención personalizada para casos previsionales en toda Argentina[cite: 9].
 
 ## Cobertura
 
-- Ciudad Autónoma de Buenos Aires
-- Gran Buenos Aires
-- Atención remota para toda Argentina
+- Ciudad Autónoma de Buenos Aires[cite: 9]
+- Gran Buenos Aires[cite: 9]
+- Atención remota para toda Argentina[cite: 9]
 
 ## Blog
 
-Artículos sobre legislación previsional argentina, ANSES, jubilaciones, pensiones, reajustes de haberes, regímenes especiales, fallos judiciales y novedades normativas.
+Artículos sobre legislación previsional argentina, ANSES, jubilaciones, pensiones, reajustes de haberes, regímenes especiales, fallos judiciales y novedades normativas[cite: 9].
 
-https://blog.mgabogado.com.ar/
+https://blog.mgabogado.com.ar/[cite: 9]
