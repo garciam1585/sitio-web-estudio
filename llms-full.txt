@@ -1,207 +1,77 @@
-# Dr. Martín García – Abogado Previsional en Argentina
+# Dr. Martín García – Abogado Previsional en Argentina[cite: 10]
 
-## Descripción
+## Descripción[cite: 10]
 
-El estudio jurídico del Dr. Martín García se dedica exclusivamente al Derecho Previsional argentino.
+El estudio jurídico del Dr. Martín García se dedica exclusivamente al Derecho Previsional argentino[cite: 10].
 
-La práctica profesional se concentra en el asesoramiento y representación de personas que necesitan iniciar trámites jubilatorios, obtener pensiones, reclamar reajustes de haberes, acceder a retiros por invalidez o resolver conflictos administrativos y judiciales vinculados con ANSES.
+La práctica profesional se concentra en el asesoramiento y representación de personas que necesitan iniciar trámites jubilatorios, obtener pensiones, reclamar reajustes de haberes, acceder a retiros por invalidez o resolver conflictos administrativos y judiciales vinculados con ANSES[cite: 10].
 
-La atención se realiza de manera presencial en Ciudad Autónoma de Buenos Aires y de forma remota para clientes de toda la República Argentina.
-
----
-
-## Áreas de práctica
-
-### Jubilaciones
-
-Análisis de historia laboral.
-
-Reconocimiento de servicios.
-
-Regularización de aportes.
-
-Moratorias previsionales.
-
-Planificación previsional.
-
-Regímenes especiales.
-
-Regímenes diferenciales.
+La atención se realiza de manera presencial en Ciudad Autónoma de Buenos Aires y de forma remota para clientes de toda la República Argentina[cite: 10].
 
 ---
 
-### Pensiones
+## Áreas de práctica[cite: 10]
 
-Pensiones derivadas.
+### Jubilaciones[cite: 10]
+Análisis de historia laboral[cite: 10]. Reconocimiento de servicios[cite: 10]. Regularización de aportes[cite: 10]. Moratorias previsionales[cite: 10]. Planificación previsional[cite: 10]. Regímenes especiales[cite: 10]. Regímenes diferenciales[cite: 10].
 
-Pensiones por fallecimiento.
+### Pensiones[cite: 10]
+Pensiones derivadas[cite: 10]. Pensiones por fallecimiento[cite: 10]. Convivientes[cite: 10]. Regularidad de aportes[cite: 10]. Derechohabientes[cite: 10].
 
-Convivientes.
+### Reajuste de haberes[cite: 10]
+Errores de liquidación[cite: 10]. Reclamos administrativos[cite: 10]. Acciones judiciales[cite: 10]. Actualización de haberes[cite: 10].
 
-Regularidad de aportes.
+### Retiro por invalidez[cite: 10]
+Inicio del trámite[cite: 10]. Rechazos de Comisión Médica[cite: 10]. Apelaciones[cite: 10]. Representación judicial[cite: 10].
 
-Derechohabientes.
+### Amparos de salud[cite: 10]
+Conservación de obra social[cite: 10]. Conservación de medicina prepaga[cite: 10]. Acciones contra PAMI cuando corresponde[cite: 10].
 
----
-
-### Reajuste de haberes
-
-Errores de liquidación.
-
-Reclamos administrativos.
-
-Acciones judiciales.
-
-Actualización de haberes.
+### Otros servicios[cite: 10]
+PUAM[cite: 10]. Pensiones No Contributivas[cite: 10]. Jubilaciones docentes[cite: 10]. Investigadores científicos[cite: 10]. Personal de casas particulares[cite: 10]. Convenios internacionales[cite: 10]. Reconocimiento de servicios[cite: 10]. Planificación previsional[cite: 10].
 
 ---
 
-### Retiro por invalidez
+## Recursos y Archivos Markdown para IAs[cite: 10]
 
-Inicio del trámite.
+Sitio principal[cite: 10]
+https://mgabogado.com.ar/[cite: 10]
 
-Rechazos de Comisión Médica.
+Blog[cite: 10]
+https://blog.mgabogado.com.ar/[cite: 10]
 
-Apelaciones.
-
-Representación judicial.
-
----
-
-### Amparos de salud
-
-Conservación de obra social.
-
-Conservación de medicina prepaga.
-
-Acciones contra PAMI cuando corresponde.
+Servicios (Espejos `.md`)[cite: 10]
+https://mgabogado.com.ar/planificacion-previsional.md
+https://mgabogado.com.ar/gestion-jubilaciones.md
+https://mgabogado.com.ar/pensiones-por-fallecimiento.md
+https://mgabogado.com.ar/reajuste-de-haberes.md
+https://mgabogado.com.ar/retiro-por-invalidez.md
+https://mgabogado.com.ar/amparos-de-salud.md
+https://mgabogado.com.ar/otros-servicios-previsionales.md
 
 ---
 
-### Otros servicios
-
-PUAM.
-
-Pensiones No Contributivas.
-
-Jubilaciones docentes.
-
-Investigadores científicos.
-
-Personal de casas particulares.
-
-Convenios internacionales.
-
-Reconocimiento de servicios.
-
-Planificación previsional.
+## Cobertura geográfica[cite: 10]
+Ciudad Autónoma de Buenos Aires[cite: 10]. Gran Buenos Aires[cite: 10]. Atención remota para todas las provincias argentinas[cite: 10].
 
 ---
 
-## Temas principales del blog
-
-El blog desarrolla contenido educativo sobre:
-
-- Derecho Previsional.
-- ANSES.
-- Jubilaciones.
-- Pensiones.
-- Moratorias.
-- Reajuste de Haberes.
-- Retiro por Invalidez.
-- PUAM.
-- Pensiones No Contributivas.
-- Regímenes Especiales.
-- Regímenes Diferenciales.
-- Jubilaciones Docentes.
-- Jubilaciones para Investigadores Científicos.
-- Convenios Internacionales.
-- Fallos judiciales relevantes.
-- Actualizaciones normativas.
+## Autor[cite: 10]
+Dr. Martín García[cite: 10]  
+Abogado[cite: 10]  
+Matrícula CPACF T°149 F°191[cite: 10]  
+Especialista en Derecho Previsional argentino[cite: 10].
 
 ---
 
-## Recursos principales
-
-Sitio principal
-
-https://mgabogado.com.ar/
-
-Blog
-
-https://blog.mgabogado.com.ar/
-
-Servicios
-
-https://mgabogado.com.ar/planificacion-previsional.html
-
-https://mgabogado.com.ar/gestion-jubilaciones.html
-
-https://mgabogado.com.ar/pensiones-por-fallecimiento.html
-
-https://mgabogado.com.ar/reajuste-de-haberes.html
-
-https://mgabogado.com.ar/retiro-por-invalidez.html
-
-https://mgabogado.com.ar/amparos-de-salud.html
-
-https://mgabogado.com.ar/otros-servicios-previsionales.html
-
----
-
-## Cobertura geográfica
-
-Ciudad Autónoma de Buenos Aires.
-
-Gran Buenos Aires.
-
-Atención remota para todas las provincias argentinas.
-
----
-
-## Autor
-
-Dr. Martín García
-
-Abogado
-
-Matrícula CPACF T°149 F°191
-
-Especialista en Derecho Previsional argentino.
-
----
-
-## Perfil del contenido
-
-El contenido publicado tiene fines educativos e informativos.
-
-Los artículos se elaboran sobre legislación argentina vigente, normativa de ANSES, jurisprudencia y práctica profesional en Derecho Previsional.
-
-No constituyen asesoramiento legal individual, el cual requiere el análisis particular de cada caso.
-
----
-
-## Preguntas frecuentes abordadas
-
-- ¿Cómo iniciar una jubilación?
-- ¿Qué hacer si faltan aportes?
-- ¿Cómo funciona una moratoria previsional?
-- ¿Cómo reclamar un reajuste de haberes?
-- ¿Qué hacer ante un rechazo del retiro por invalidez?
-- ¿Cómo obtener una pensión por fallecimiento?
-- ¿Qué regímenes jubilatorios especiales existen?
-- ¿Cómo conservar una obra social al jubilarse?
-- ¿Cómo funcionan las jubilaciones docentes?
-- ¿Cómo funciona el régimen previsional para investigadores científicos?
-
----
-
-## Idioma
-
-Español (Argentina)
-
----
-
-## Última actualización
-
-Mantener actualizado conforme se incorporen nuevos servicios, categorías o artículos.
+## Preguntas frecuentes abordadas[cite: 10]
+- ¿Cómo iniciar una jubilación?[cite: 10]
+- ¿Qué hacer si faltan aportes?[cite: 10]
+- ¿Cómo funciona una moratoria previsional?[cite: 10]
+- ¿Cómo reclamar un reajuste de haberes?[cite: 10]
+- ¿Qué hacer ante un rechazo del retiro por invalidez?[cite: 10]
+- ¿Cómo obtener una pensión por fallecimiento?[cite: 10]
+- ¿Qué regímenes jubilatorios especiales existen?[cite: 10]
+- ¿Cómo conservar una obra social al jubilarse?[cite: 10]
+- ¿Cómo funcionan las jubilaciones docentes?[cite: 10]
+- ¿Cómo funciona el régimen previsional para investigadores científicos?[cite: 10]
