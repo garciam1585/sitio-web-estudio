@@ -35,32 +35,107 @@
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Pensiones por Fallecimiento",
-  "provider": {
-    "@type": ["LegalService", "Attorney", "LocalBusiness"],
-    "name": "Dr. Martín García - Abogado Previsional",
-    "url": "https://mgabogado.com.ar",
-    "telephone": "+541130082030",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Buenos Aires",
-      "addressRegion": "CABA",
-      "addressCountry": "AR"
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://mgabogado.com.ar/#person",
+      "name": "Dr. Martín García",
+      "url": "https://mgabogado.com.ar/",
+      "image": "https://mgabogado.com.ar/images/FotoPerfil.webp",
+      "jobTitle": "Abogado Previsional",
+      "worksFor": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "knowsAbout": [
+        "Derecho Previsional",
+        "Pensiones por Fallecimiento",
+        "Pensiones Directas",
+        "Pensiones Derivadas",
+        "Convivientes ANSES"
+      ],
+      "sameAs": [
+        "https://www.instagram.com/ab.martingarcia/",
+        "https://www.facebook.com/AbogadoGarciaMartin/"
+      ]
     },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -34.6174548,
-      "longitude": -58.4005626
+    {
+      "@type": [
+        "LegalService",
+        "Attorney",
+        "LocalBusiness"
+      ],
+      "@id": "https://mgabogado.com.ar/#organization",
+      "name": "Dr. Martín García - Abogado Previsional",
+      "url": "https://mgabogado.com.ar/",
+      "description": "Estudio jurídico especializado en pensiones directas y derivadas ante ANSES, acreditación de convivencia y divergencia de domicilios.",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
+      },
+      "image": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png",
+      "telephone": "+541130082030",
+      "email": "contacto@mgabogado.com.ar",
+      "founder": {
+        "@id": "https://mgabogado.com.ar/#person"
+      },
+      "openingHours": "Mo-Fr 09:00-18:00",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "San Cristóbal",
+        "addressLocality": "Buenos Aires",
+        "addressRegion": "CABA",
+        "addressCountry": "AR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -34.6174548,
+        "longitude": -58.4005626
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+541130082030",
+        "contactType": "customer service",
+        "areaServed": "AR",
+        "availableLanguage": ["es"]
+      },
+      "sameAs": [
+        "https://www.instagram.com/ab.martingarcia/",
+        "https://www.facebook.com/AbogadoGarciaMartin/"
+      ]
     },
-    "sameAs": [
-      "https://www.instagram.com/ab.martingarcia/",
-      "https://www.facebook.com/AbogadoGarciaMartin/"
-    ]
-  },
-  "serviceType": "Pensiones por Fallecimiento",
-  "areaServed": "Argentina",
-  "description": "Gestión y tramitación de pensiones derivadas o directas ante ANSES para derechohabientes de jubilados o trabajadores fallecidos."
+    {
+      "@type": "WebSite",
+      "@id": "https://mgabogado.com.ar/#website",
+      "url": "https://mgabogado.com.ar/",
+      "name": "Dr. Martín García - Abogado Previsional",
+      "publisher": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "inLanguage": "es-AR"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://mgabogado.com.ar/pensiones-por-fallecimiento#webpage",
+      "url": "https://mgabogado.com.ar/pensiones-por-fallecimiento",
+      "name": "Pensiones por Fallecimiento ante ANSES | Abogado Previsional Buenos Aires - Dr. Martín García",
+      "isPartOf": {
+        "@id": "https://mgabogado.com.ar/#website"
+      },
+      "about": {
+        "@type": "DefinedTerm",
+        "name": "Pensiones por Fallecimiento"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
+      }
+    }
+  ]
 }
 </script>
 
