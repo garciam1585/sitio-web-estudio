@@ -46,9 +46,9 @@
       },
       "knowsAbout": [
         "Derecho Previsional",
-        "Gestión de Jubilaciones",
-        "Moratorias ANSES",
-        "Aportes Incompletos"
+        "Jubilaciones Ordinarias",
+        "Moratorias Previsionales",
+        "Trámites ANSES"
       ],
       "sameAs": [
         "https://www.instagram.com/ab.martingarcia/",
@@ -64,7 +64,7 @@
       "@id": "https://mgabogado.com.ar/#organization",
       "name": "Dr. Martín García - Abogado Previsional",
       "url": "https://mgabogado.com.ar/",
-      "description": "Estudio jurídico previsional especializado en tramitación integral de jubilaciones y moratorias ante ANSES.",
+      "description": "Estudio jurídico especializado en gestión de jubilaciones, moratorias y asesoramiento previsional integral ante ANSES.",
       "logo": {
         "@type": "ImageObject",
         "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
@@ -106,6 +106,20 @@
       ]
     },
     {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/gestion-jubilaciones#service",
+      "name": "Gestión de Jubilaciones y Moratorias",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "description": "Asesoramiento y gestión integral de expedientes jubilatorios y aplicación de moratorias previsionales ante ANSES.",
+      "serviceType": "Derecho Previsional"
+    },
+    {
       "@type": "WebSite",
       "@id": "https://mgabogado.com.ar/#website",
       "url": "https://mgabogado.com.ar/",
@@ -118,14 +132,13 @@
     {
       "@type": "WebPage",
       "@id": "https://mgabogado.com.ar/gestion-jubilaciones#webpage",
-      "url": "https://mgabogado.com.ar/gestion-jubilaciones",
-      "name": "Abogado para Jubilaciones y Moratorias ANSES en Buenos Aires | Dr. Martín García",
+      "url": "https://mgabogado.com.ar/gestion-jubilaciones.html",
+      "name": "Gestión de Jubilaciones y Moratorias | Abogado Previsional Buenos Aires - Dr. Martín García",
       "isPartOf": {
         "@id": "https://mgabogado.com.ar/#website"
       },
       "about": {
-        "@type": "DefinedTerm",
-        "name": "Gestión de Jubilaciones"
+        "@id": "https://mgabogado.com.ar/gestion-jubilaciones#service"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
@@ -135,7 +148,6 @@
   ]
 }
 </script>
-
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
