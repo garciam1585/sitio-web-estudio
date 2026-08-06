@@ -6,7 +6,7 @@
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-MPMJT2L8');</script>
+    })(window,document,'script','dataLayer','GTM-MPMJT2L8');</script>schem
     <!-- End Google Tag Manager -->
 
     <meta charset="UTF-8">
@@ -32,38 +32,111 @@
     <link rel="apple-touch-icon" href="images/Logos/Martin Garcia Servicios Legales - Isotipo.png">
     <meta name="theme-color" content="#1A2E40">
 
-    <script type="application/ld+json">
+ <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Retiro por Invalidez",
-  "provider": {
-    "@type": ["LegalService", "Attorney", "LocalBusiness"],
-    "name": "Dr. Martín García - Abogado Previsional",
-    "url": "https://mgabogado.com.ar",
-    "telephone": "+541130082030",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Buenos Aires",
-      "addressRegion": "CABA",
-      "addressCountry": "AR"
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://mgabogado.com.ar/#person",
+      "name": "Dr. Martín García",
+      "url": "https://mgabogado.com.ar/",
+      "image": "https://mgabogado.com.ar/images/FotoPerfil.webp",
+      "jobTitle": "Abogado Previsional",
+      "worksFor": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "knowsAbout": [
+        "Derecho Previsional",
+        "Retiro por Invalidez",
+        "Comisiones Médicas ANSES",
+        "Cuerpo Médico Forense"
+      ],
+      "sameAs": [
+        "https://www.instagram.com/ab.martingarcia/",
+        "https://www.facebook.com/AbogadoGarciaMartin/"
+      ]
     },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -34.6174548,
-      "longitude": -58.4005626
+    {
+      "@type": [
+        "LegalService",
+        "Attorney",
+        "LocalBusiness"
+      ],
+      "@id": "https://mgabogado.com.ar/#organization",
+      "name": "Dr. Martín García - Abogado Previsional",
+      "url": "https://mgabogado.com.ar/",
+      "description": "Estudio jurídico especializado en retiros por invalidez, comisiones médicas y apelaciones ante ANSES y la justicia federal.",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
+      },
+      "image": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png",
+      "telephone": "+541130082030",
+      "email": "contacto@mgabogado.com.ar",
+      "founder": {
+        "@id": "https://mgabogado.com.ar/#person"
+      },
+      "openingHours": "Mo-Fr 09:00-18:00",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "San Cristóbal",
+        "addressLocality": "Buenos Aires",
+        "addressRegion": "CABA",
+        "addressCountry": "AR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -34.6174548,
+        "longitude": -58.4005626
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+541130082030",
+        "contactType": "customer service",
+        "areaServed": "AR",
+        "availableLanguage": ["es"]
+      },
+      "sameAs": [
+        "https://www.instagram.com/ab.martingarcia/",
+        "https://www.facebook.com/AbogadoGarciaMartin/"
+      ]
     },
-    "sameAs": [
-      "https://www.instagram.com/ab.martingarcia/",
-      "https://www.facebook.com/AbogadoGarciaMartin/"
-    ]
-  },
-  "serviceType": "Retiro por Invalidez",
-  "areaServed": "Argentina",
-  "description": "Asesoramiento legal y representación ante las comisiones médicas para la obtención del beneficio por incapacidad."
+    {
+      "@type": "WebSite",
+      "@id": "https://mgabogado.com.ar/#website",
+      "url": "https://mgabogado.com.ar/",
+      "name": "Dr. Martín García - Abogado Previsional",
+      "publisher": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "inLanguage": "es-AR"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://mgabogado.com.ar/retiro-por-invalidez#webpage",
+      "url": "https://mgabogado.com.ar/retiro-por-invalidez",
+      "name": "Retiro por Invalidez ante ANSES | Comisiones Médicas y Apelaciones - Dr. Martín García",
+      "isPartOf": {
+        "@id": "https://mgabogado.com.ar/#website"
+      },
+      "about": {
+        "@type": "DefinedTerm",
+        "name": "Retiro por Invalidez"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
+      }
+    }
+  ]
 }
 </script>
-
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
