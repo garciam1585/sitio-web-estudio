@@ -32,7 +32,7 @@
     <link rel="apple-touch-icon" href="images/Logos/Martin Garcia Servicios Legales - Isotipo.png">
     <meta name="theme-color" content="#1A2E40">
 
- <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -50,7 +50,7 @@
         "Derecho Previsional",
         "Retiro por Invalidez",
         "Comisiones Médicas ANSES",
-        "Cuerpo Médico Forense"
+        "Apelaciones Médicas"
       ],
       "sameAs": [
         "https://www.instagram.com/ab.martingarcia/",
@@ -66,7 +66,7 @@
       "@id": "https://mgabogado.com.ar/#organization",
       "name": "Dr. Martín García - Abogado Previsional",
       "url": "https://mgabogado.com.ar/",
-      "description": "Estudio jurídico especializado en retiros por invalidez, comisiones médicas y apelaciones ante ANSES y la justicia federal.",
+      "description": "Estudio jurídico especializado en retiro por invalidez ante ANSES, apelaciones ante comisiones médicas y patrocinio letrado.",
       "logo": {
         "@type": "ImageObject",
         "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
@@ -108,6 +108,20 @@
       ]
     },
     {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/retiro-por-invalidez#service",
+      "name": "Gestión y Apelación de Retiro por Invalidez",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "description": "Asesoramiento, tramitación y apelación ante rechazos de Comisiones Médicas de ANSES para obtención de retiro por invalidez.",
+      "serviceType": "Derecho Previsional"
+    },
+    {
       "@type": "WebSite",
       "@id": "https://mgabogado.com.ar/#website",
       "url": "https://mgabogado.com.ar/",
@@ -120,14 +134,13 @@
     {
       "@type": "WebPage",
       "@id": "https://mgabogado.com.ar/retiro-por-invalidez#webpage",
-      "url": "https://mgabogado.com.ar/retiro-por-invalidez",
-      "name": "Retiro por Invalidez ante ANSES | Comisiones Médicas y Apelaciones - Dr. Martín García",
+      "url": "https://mgabogado.com.ar/retiro-por-invalidez.html",
+      "name": "Retiro por Invalidez y Apelaciones | Abogado Previsional Buenos Aires - Dr. Martín García",
       "isPartOf": {
         "@id": "https://mgabogado.com.ar/#website"
       },
       "about": {
-        "@type": "DefinedTerm",
-        "name": "Retiro por Invalidez"
+        "@id": "https://mgabogado.com.ar/retiro-por-invalidez#service"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
