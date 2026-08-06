@@ -404,32 +404,106 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Reajuste de Haberes",
-  "provider": {
-    "@type": ["LegalService", "Attorney", "LocalBusiness"],
-    "name": "Dr. Martín García - Abogado Previsional",
-    "url": "https://mgabogado.com.ar",
-    "telephone": "+541130082030",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Buenos Aires",
-      "addressRegion": "CABA",
-      "addressCountry": "AR"
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://mgabogado.com.ar/#person",
+      "name": "Dr. Martín García",
+      "url": "https://mgabogado.com.ar/",
+      "image": "https://mgabogado.com.ar/images/FotoPerfil.webp",
+      "jobTitle": "Abogado Previsional",
+      "worksFor": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "knowsAbout": [
+        "Derecho Previsional",
+        "Reajuste de Haberes",
+        "Movilidad Jubilatoria",
+        "ANSES"
+      ],
+      "sameAs": [
+        "https://www.instagram.com/ab.martingarcia/",
+        "https://www.facebook.com/AbogadoGarciaMartin/"
+      ]
     },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -34.6174548,
-      "longitude": -58.4005626
+    {
+      "@type": [
+        "LegalService",
+        "Attorney",
+        "LocalBusiness"
+      ],
+      "@id": "https://mgabogado.com.ar/#organization",
+      "name": "Dr. Martín García - Abogado Previsional",
+      "url": "https://mgabogado.com.ar/",
+      "description": "Estudio jurídico especializado en reajuste de haberes jubilatorios, movilidad y actualización de remuneraciones ante ANSES.",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
+      },
+      "image": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png",
+      "telephone": "+541130082030",
+      "email": "contacto@mgabogado.com.ar",
+      "founder": {
+        "@id": "https://mgabogado.com.ar/#person"
+      },
+      "openingHours": "Mo-Fr 09:00-18:00",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "San Cristóbal",
+        "addressLocality": "Buenos Aires",
+        "addressRegion": "CABA",
+        "addressCountry": "AR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -34.6174548,
+        "longitude": -58.4005626
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+541130082030",
+        "contactType": "customer service",
+        "areaServed": "AR",
+        "availableLanguage": ["es"]
+      },
+      "sameAs": [
+        "https://www.instagram.com/ab.martingarcia/",
+        "https://www.facebook.com/AbogadoGarciaMartin/"
+      ]
     },
-    "sameAs": [
-      "https://www.instagram.com/ab.martingarcia/",
-      "https://www.facebook.com/AbogadoGarciaMartin/"
-    ]
-  },
-  "serviceType": "Reajuste de Haberes",
-  "areaServed": "Argentina",
-  "description": "Reclamos judiciales y administrativos por movilidad jubilatoria mal liquidada y actualización de haberes previsionales."
+    {
+      "@type": "WebSite",
+      "@id": "https://mgabogado.com.ar/#website",
+      "url": "https://mgabogado.com.ar/",
+      "name": "Dr. Martín García - Abogado Previsional",
+      "publisher": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "inLanguage": "es-AR"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://mgabogado.com.ar/reajuste-de-haberes#webpage",
+      "url": "https://mgabogado.com.ar/reajuste-de-haberes",
+      "name": "Reajuste de Haberes Jubilatorios | ¿Cobrás lo que te corresponde? - Dr. Martín García",
+      "isPartOf": {
+        "@id": "https://mgabogado.com.ar/#website"
+      },
+      "about": {
+        "@type": "DefinedTerm",
+        "name": "Reajuste de Haberes"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
+      }
+    }
+  ]
 }
 </script>
 
