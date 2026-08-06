@@ -418,8 +418,8 @@
       "knowsAbout": [
         "Derecho Previsional",
         "Reajuste de Haberes",
-        "Movilidad Jubilatoria",
-        "ANSES"
+        "Juicios a ANSES",
+        "Movilidad Jubilatoria"
       ],
       "sameAs": [
         "https://www.instagram.com/ab.martingarcia/",
@@ -435,7 +435,7 @@
       "@id": "https://mgabogado.com.ar/#organization",
       "name": "Dr. Martín García - Abogado Previsional",
       "url": "https://mgabogado.com.ar/",
-      "description": "Estudio jurídico especializado en reajuste de haberes jubilatorios, movilidad y actualización de remuneraciones ante ANSES.",
+      "description": "Estudio jurídico especializado en reajuste de haberes jubilatorios, auditoría de liquidación y demandas judiciales contra ANSES.",
       "logo": {
         "@type": "ImageObject",
         "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
@@ -477,6 +477,20 @@
       ]
     },
     {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/reajuste-de-haberes#service",
+      "name": "Reajuste de Haberes Jubilatorios",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "description": "Auditoría de liquidaciones de ANSES, reclamos administrativos y demandas judiciales por actualización de haberes y movilidad.",
+      "serviceType": "Derecho Previsional"
+    },
+    {
       "@type": "WebSite",
       "@id": "https://mgabogado.com.ar/#website",
       "url": "https://mgabogado.com.ar/",
@@ -489,14 +503,13 @@
     {
       "@type": "WebPage",
       "@id": "https://mgabogado.com.ar/reajuste-de-haberes#webpage",
-      "url": "https://mgabogado.com.ar/reajuste-de-haberes",
-      "name": "Reajuste de Haberes Jubilatorios | ¿Cobrás lo que te corresponde? - Dr. Martín García",
+      "url": "https://mgabogado.com.ar/reajuste-de-haberes.html",
+      "name": "Reajuste de Haberes Jubilatorios | Abogado Previsional Buenos Aires - Dr. Martín García",
       "isPartOf": {
         "@id": "https://mgabogado.com.ar/#website"
       },
       "about": {
-        "@type": "DefinedTerm",
-        "name": "Reajuste de Haberes"
+        "@id": "https://mgabogado.com.ar/reajuste-de-haberes#service"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
