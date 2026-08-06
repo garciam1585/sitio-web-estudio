@@ -32,7 +32,7 @@
     <link rel="apple-touch-icon" href="images/Logos/Martin Garcia Servicios Legales - Isotipo.png">
     <meta name="theme-color" content="#1A2E40">
 
-   <script type="application/ld+json">
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -49,7 +49,7 @@
       "knowsAbout": [
         "Derecho Previsional",
         "Planificación Previsional",
-        "Jubilación Anticipada",
+        "Jubilaciones ANSES",
         "Moratorias Previsionales"
       ],
       "sameAs": [
@@ -66,7 +66,7 @@
       "@id": "https://mgabogado.com.ar/#organization",
       "name": "Dr. Martín García - Abogado Previsional",
       "url": "https://mgabogado.com.ar/",
-      "description": "Estudio jurídico previsional especializado en planificación previsional, análisis de historia laboral y moratorias en Argentina.",
+      "description": "Estudio jurídico especializado en planificación previsional, análisis de historia laboral y moratorias ante ANSES.",
       "logo": {
         "@type": "ImageObject",
         "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
@@ -108,6 +108,20 @@
       ]
     },
     {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/planificacion-previsional#service",
+      "name": "Planificación Previsional",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "description": "Análisis anticipado de historia laboral, detección de aportes faltantes y diseño de estrategia para maximizar el haber jubilatorio.",
+      "serviceType": "Derecho Previsional"
+    },
+    {
       "@type": "WebSite",
       "@id": "https://mgabogado.com.ar/#website",
       "url": "https://mgabogado.com.ar/",
@@ -120,14 +134,13 @@
     {
       "@type": "WebPage",
       "@id": "https://mgabogado.com.ar/planificacion-previsional#webpage",
-      "url": "https://mgabogado.com.ar/planificacion-previsional",
-      "name": "Planificación Previsional | Jubilación Anticipada y Moratorias - Dr. Martín García",
+      "url": "https://mgabogado.com.ar/planificacion-previsional.html",
+      "name": "Planificación Previsional | Abogado Previsional Buenos Aires - Dr. Martín García",
       "isPartOf": {
         "@id": "https://mgabogado.com.ar/#website"
       },
       "about": {
-        "@type": "DefinedTerm",
-        "name": "Planificación Previsional"
+        "@id": "https://mgabogado.com.ar/planificacion-previsional#service"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
