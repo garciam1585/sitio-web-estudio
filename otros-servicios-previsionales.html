@@ -49,9 +49,9 @@
       "knowsAbout": [
         "Derecho Previsional",
         "Jubilaciones Docentes",
-        "PUAM",
-        "PNC",
-        "Amparos por Mora ANSES"
+        "Regímenes Diferenciales",
+        "Convenios Internacionales",
+        "PUAM"
       ],
       "sameAs": [
         "https://www.instagram.com/ab.martingarcia/",
@@ -67,7 +67,7 @@
       "@id": "https://mgabogado.com.ar/#organization",
       "name": "Dr. Martín García - Abogado Previsional",
       "url": "https://mgabogado.com.ar/",
-      "description": "Estudio jurídico especializado en regímenes especiales, jubilaciones docentes, PUAM, PNC y trámites previsionales complejos en ANSES.",
+      "description": "Estudio jurídico especializado en regímenes diferenciales, jubilaciones docentes, convenios internacionales y prestaciones de seguridad social.",
       "logo": {
         "@type": "ImageObject",
         "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
@@ -109,6 +109,20 @@
       ]
     },
     {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/otros-servicios-previsionales#service",
+      "name": "Servicios Previsionales Especiales y Regímenes Diferenciales",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "description": "Asesoramiento en jubilaciones docentes, investigadores, regímenes diferenciales, convenios internacionales, PUAM y pensiones no contributivas.",
+      "serviceType": "Derecho Previsional"
+    },
+    {
       "@type": "WebSite",
       "@id": "https://mgabogado.com.ar/#website",
       "url": "https://mgabogado.com.ar/",
@@ -121,14 +135,13 @@
     {
       "@type": "WebPage",
       "@id": "https://mgabogado.com.ar/otros-servicios-previsionales#webpage",
-      "url": "https://mgabogado.com.ar/otros-servicios-previsionales",
-      "name": "Otros Servicios Previsionales | PUAM, PNC, Docentes, Regímenes Especiales - Dr. Martín García",
+      "url": "https://mgabogado.com.ar/otros-servicios-previsionales.html",
+      "name": "Otros Servicios Previsionales | Abogado Previsional Buenos Aires - Dr. Martín García",
       "isPartOf": {
         "@id": "https://mgabogado.com.ar/#website"
       },
       "about": {
-        "@type": "DefinedTerm",
-        "name": "Otros Servicios Previsionales"
+        "@id": "https://mgabogado.com.ar/otros-servicios-previsionales#service"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
