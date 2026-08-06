@@ -32,7 +32,7 @@
     <link rel="apple-touch-icon" href="images/Logos/Martin Garcia Servicios Legales - Isotipo.png">
     <meta name="theme-color" content="#1A2E40">
 
-    <script type="application/ld+json">
+   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -109,6 +109,20 @@
       ]
     },
     {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/pensiones-por-fallecimiento#service",
+      "name": "Gestión de Pensiones por Fallecimiento ante ANSES",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "description": "Asesoramiento y gestión integral de pensiones directas y derivadas ante ANSES, resolución de divergencia de domicilios y acreditación de convivencia.",
+      "serviceType": "Derecho Previsional"
+    },
+    {
       "@type": "WebSite",
       "@id": "https://mgabogado.com.ar/#website",
       "url": "https://mgabogado.com.ar/",
@@ -121,14 +135,13 @@
     {
       "@type": "WebPage",
       "@id": "https://mgabogado.com.ar/pensiones-por-fallecimiento#webpage",
-      "url": "https://mgabogado.com.ar/pensiones-por-fallecimiento",
+      "url": "https://mgabogado.com.ar/pensiones-por-fallecimiento.html",
       "name": "Pensiones por Fallecimiento ante ANSES | Abogado Previsional Buenos Aires - Dr. Martín García",
       "isPartOf": {
         "@id": "https://mgabogado.com.ar/#website"
       },
       "about": {
-        "@type": "DefinedTerm",
-        "name": "Pensiones por Fallecimiento"
+        "@id": "https://mgabogado.com.ar/pensiones-por-fallecimiento#service"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
