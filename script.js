@@ -104,6 +104,13 @@ const statsObserverOptions = {
 
 const animateCounter = (element) => {
     const target = parseInt(element.getAttribute('data-target'));
+
+    // Si no hay data-target o no es un número (ej: tarjetas con texto como "CABA"),
+    // no animamos nada y dejamos el texto tal cual está escrito en el HTML.
+    if (isNaN(target)) {
+        return;
+    }
+
     const duration = 2000; // 2 segundos
     const increment = target / (duration / 16); // 60 FPS
     let current = 0;
@@ -373,5 +380,3 @@ document.querySelectorAll('.btn--primary').forEach(btn => {
         trackEvent('Button', 'Click', btn.textContent.trim());
     });
 });
-
-
