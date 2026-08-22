@@ -202,6 +202,11 @@ contactForm.addEventListener('submit', (e) => {
     console.log('URL:', whatsappURL);
     console.log('Es móvil:', isMobile);
     
+    // Registrar conversión en Google Tag Manager
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+    event: 'contact_whatsapp'
+});
     // Abrir WhatsApp
     window.location.href = whatsappURL;
 
