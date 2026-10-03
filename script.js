@@ -37,10 +37,12 @@ window.addEventListener('scroll', () => {
     }
     
     // Mostrar/ocultar botón scroll to top
-    if (window.scrollY >= 560) {
-        scrollTop.classList.add('show');
-    } else {
-        scrollTop.classList.remove('show');
+    if (scrollTop) {
+        if (window.scrollY >= 560) {
+            scrollTop.classList.add('show');
+        } else {
+            scrollTop.classList.remove('show');
+        }
     }
 });
 
@@ -69,12 +71,14 @@ const scrollActive = () => {
 window.addEventListener('scroll', scrollActive);
 
 // =============== SCROLL TO TOP ===============
-scrollTop.addEventListener('click', () => {
-    window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
+if (scrollTop) {
+    scrollTop.addEventListener('click', () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
     });
-});
+}
 
 // =============== ANIMACIONES AOS (Scroll Animations) ===============
 const observerOptions = {
@@ -144,6 +148,7 @@ document.querySelectorAll('.stat-card__number').forEach(counter => {
 });
 
 // =============== FORMULARIO DE CONTACTO ===============
+if (contactForm) {
 contactForm.addEventListener('submit', (e) => {
     e.preventDefault();
 
@@ -219,6 +224,8 @@ window.dataLayer.push({
         formMessage.style.display = 'none';
     }, 3000);
 });
+
+}
 
 // Función para mostrar mensajes
 function showMessage(message, type) {
