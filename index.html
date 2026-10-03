@@ -138,9 +138,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "url": "https://mgabogado.com.ar/",
       "image": "https://mgabogado.com.ar/images/FotoPerfil.webp",
       "jobTitle": "Abogado Previsional",
-      "worksFor": {
-        "@id": "https://mgabogado.com.ar/#organization"
+      "description": "Dr. Martín García, abogado previsional matriculado en el Colegio Público de la Abogacía de la Capital Federal, dedicado al Derecho Previsional y al Derecho de la Seguridad Social.",
+      "telephone": "+541130082030",
+      "email": "contacto@mgabogado.com.ar",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Buenos Aires",
+        "addressRegion": "CABA",
+        "addressCountry": "AR"
       },
+      "areaServed": [
+        {"@type": "City", "name": "Ciudad Autónoma de Buenos Aires"},
+        {"@type": "Country", "name": "Argentina"}
+      ],
       "knowsAbout": [
         "Derecho Previsional",
         "Derecho de la Seguridad Social",
@@ -155,141 +165,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       ],
       "sameAs": [
         "https://www.instagram.com/ab.martingarcia/",
-        "https://www.facebook.com/AbogadoGarciaMartin/"
-      ]
-    },
-
-    {
-      "@type": [
-        "LegalService",
-        "Attorney",
-        "LocalBusiness"
+        "https://www.facebook.com/AbogadoGarciaMartin/",
+        "https://ar.linkedin.com/in/martin-gabriel-garcia"
       ],
-      "@id": "https://mgabogado.com.ar/#organization",
-      "name": "Dr. Martín García - Abogado Previsional",
-      "url": "https://mgabogado.com.ar/",
-      "description": "Estudio jurídico previsional especializado en jubilaciones, pensiones, reajustes de haberes y trámites ANSES en Buenos Aires y atención online para toda Argentina.",
-
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
-      },
-
-      "image": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png",
-
-      "telephone": "+541130082030",
-      "email": "contacto@mgabogado.com.ar",
-
-      "founder": {
-        "@id": "https://mgabogado.com.ar/#person"
-      },
-
-      "openingHours": "Mo-Fr 09:00-18:00",
-
-      "priceRange": "$$",
-
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Buenos Aires",
-        "addressRegion": "CABA",
-        "addressCountry": "AR"
-      },
-
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": -34.6174548,
-        "longitude": -58.4005626
-      },
-
-      "areaServed": {
-        "@type": "Country",
-        "name": "Argentina"
-      },
-
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+541130082030",
-        "contactType": "customer service",
-        "areaServed": "AR",
-        "availableLanguage": [
-          "es"
-        ]
-      },
-
-      "sameAs": [
-        "https://www.instagram.com/ab.martingarcia/",
-        "https://www.facebook.com/AbogadoGarciaMartin/"
-      ],
-
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "Servicios Jurídicos Previsionales",
         "itemListElement": [
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Planificación Previsional"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Gestión de Jubilaciones"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Pensiones por Fallecimiento"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Reajuste de Haberes"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Retiro por Invalidez"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Amparos de Salud"
-            }
-          }
-
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Planificación Previsional"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Gestión de Jubilaciones"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pensiones por Fallecimiento"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Reajuste de Haberes"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Retiro por Invalidez"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Amparos de Salud"}}
         ]
       }
-
     },
 
     {
       "@type": "WebSite",
       "@id": "https://mgabogado.com.ar/#website",
       "url": "https://mgabogado.com.ar/",
-      "name": "Martín García",
-      "alternateName": [
-        "Dr. Martín García",
-        "MG Abogado"
-      ],
+      "name": "Dr. Martín García - Abogado Previsional",
       "publisher": {
-        "@id": "https://mgabogado.com.ar/#organization"
+        "@id": "https://mgabogado.com.ar/#person"
       },
       "inLanguage": "es-AR"
     },
@@ -303,6 +202,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         "@id": "https://mgabogado.com.ar/#website"
       },
       "about": [
+        {"@id": "https://mgabogado.com.ar/#person"},
         {
           "@type": "DefinedTerm",
           "name": "Derecho Previsional"
@@ -332,7 +232,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 </script>
 
-<style>
+<!-- ENTITY-GRAPH-REPLACED --><style>
         .hero__title {
             margin-bottom: 0.3rem !important;
         }
@@ -360,7 +260,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <nav class="nav container">
             <div class="nav__brand">
                 <img src="images/Logo.webp" alt="Dr. Martín García - Abogado previsional en Buenos Aires" class="nav__logo">
-                <span class="nav__name">Abogado Martín García</span>
+                <span class="nav__name">Dr. Martín García — Abogado Previsional</span>
             </div>
             
             <div class="nav__menu" id="nav-menu">
@@ -381,7 +281,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="#faq" class="nav__link">FAQ</a>
 </li>
                     <li class="nav__item">
-                        <a href="#contacto" class="nav__link" title="Contactar con el estudio">Contacto</a>
+                        <a href="#contacto" class="nav__link" title="Contactar al Dr. Martín García">Contacto</a>
                     </li>
                     <li class="nav__item">
                         <a href="abogado-previsional-buenos-aires.html" class="nav__link" title="Dónde atendemos">Dónde atendemos</a>
@@ -491,7 +391,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="service-card__content">
                         <h3 class="service-card__title">Gestión de Jubilaciones</h3>
                         <p class="service-card__description">
-                            ¿Llegó a la edad jubilatoria pero le faltan años de aportes? Analizamos su caso y aplicamos las moratorias previsionales vigentes para que acceda al beneficio. Nos encargamos del inicio del expediente y el seguimiento riguroso del trámite.
+                            ¿Llegó a la edad jubilatoria pero le faltan años de aportes? Analizo cada caso y evalúo las alternativas previsionales vigentes según la situación particular. El asesoramiento puede comprender el inicio del expediente y su seguimiento ante ANSES.
                         </p>
                         <ul class="service-card__list">
                             <li><i class="fas fa-chevron-right"></i> Aplicación de moratorias previsionales vigentes</li>
@@ -511,7 +411,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="service-card__content">
                         <h3 class="service-card__title">Pensiones por Fallecimiento</h3>
                         <p class="service-card__description">
-                            En momentos complejos, resolvemos sus trámites de forma urgente. Gestionamos pensiones directas o derivadas para cónyuges, convivientes e hijos menores, asegurando una resolución ágil para el resguardo familiar.
+                            Brindo asesoramiento y gestión de pensiones directas o derivadas para cónyuges, convivientes e hijos, según los requisitos aplicables a cada caso.
                         </p>
                         <ul class="service-card__list">
                             <li><i class="fas fa-chevron-right"></i> Pensiones directas por fallecimiento de activo</li>
@@ -531,7 +431,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="service-card__content">
                         <h3 class="service-card__title">Reajuste de Haberes</h3>
                         <p class="service-card__description">
-                            ¿Su haber mensual no refleja los aportes reales de su etapa activa? Analizamos si ANSES liquidó incorrectamente su haber inicial o si le corresponde una actualización por fallos de la Corte Suprema (Badaro, Elliff, Blanco). Reclamamos judicialmente sus derechos.
+                            ¿Su haber mensual no refleja los aportes reales de su etapa activa? Analizamos si ANSES liquidó incorrectamente su haber inicial o si le corresponde una actualización por fallos de la Corte Suprema (Badaro, Elliff, Blanco). El asesoramiento puede incluir el reclamo administrativo o judicial, según corresponda.
                         </p>
                         <ul class="service-card__list">
                             <li><i class="fas fa-chevron-right"></i> Auditoría técnica de la liquidación inicial</li>
@@ -552,7 +452,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="service-card__content">
                         <h3 class="service-card__title">Retiros por Invalidez</h3>
                         <p class="service-card__description">
-                            Si un problema de salud le impide continuar su actividad laboral antes de la edad de jubilación, lo asesoramos de manera integral ante las Comisiones Médicas para la obtención del Retiro por Invalidez transitorio o definitivo.
+                            Si un problema de salud le impide continuar su actividad laboral antes de la edad de jubilación, brindo asesoramiento integral en las actuaciones vinculadas con el Retiro por Invalidez y la intervención de las Comisiones Médicas.
                         </p>
                         <ul class="service-card__list">
                             <li><i class="fas fa-chevron-right"></i> Evaluación de regularidad de aportes exigida</li>
@@ -573,7 +473,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="service-card__content">
                         <h3 class="service-card__title">Amparos de Salud</h3>
                         <p class="service-card__description">
-                            ¿Al jubilarse pretenden transferir su cobertura a PAMI de manera obligatoria? Interponemos acciones judiciales expeditas de amparo para que conserve su Obra Social o Prepaga de origen sin aumentos desmedidos ni pérdida de prestaciones médicas.
+                            ¿Al jubilarse pretenden transferir su cobertura a PAMI de manera obligatoria? Brindo asesoramiento en acciones de amparo vinculadas con la continuidad de la cobertura de salud, de acuerdo con las circunstancias de cada caso.
                         </p>
                         <ul class="service-card__list">
                             <li><i class="fas fa-chevron-right"></i> Interposición de acciones de amparo de salud urgentes</li>
@@ -594,7 +494,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="service-card__content">
                         <h3 class="service-card__title">Otros Servicios Previsionales</h3>
                         <p class="service-card__description">
-                            Ofrecemos un asesoramiento jurídico riguroso para estatutos diferenciales y situaciones complejas reguladas por el régimen de seguridad social argentino.
+                            Brindo asesoramiento jurídico en regímenes diferenciales y otras situaciones reguladas por el sistema de seguridad social argentino.
                         </p>
                         <ul class="service-card__list">
                             <li><i class="fas fa-chevron-right"></i> Reconocimiento de Servicios y certificación de aportes</li>
@@ -626,10 +526,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h2><span class="section__title">Sobre mí</span></h2>
                     
                     <p class="about__text">
-                        El sistema de la seguridad social en Argentina cambia constantemente y un error administrativo en los papeles puede retrasar su beneficio durante años. Como abogado matriculado, me dedico exclusivamente al derecho previsional. Ofrezco un servicio especializado tanto a clientes de forma presencial en la Ciudad de Buenos Aires como a distancia en diversas provincias, resolviendo opciones de moratorias y reajustes que un estudio generalista suele pasar por alto.
+                        Soy el Dr. Martín García, abogado matriculado en el Colegio Público de la Abogacía de la Capital Federal (T° 149 F° 191), dedicado al Derecho Previsional y al Derecho de la Seguridad Social.
                     </p>
                     <p class="about__text">
-                        Analizo minuciosamente la historia laboral de cada cliente para identificar los aportes registrados, detectar posibles inconsistencias y evaluar su situación previsional. Sé perfectamente que detrás de cada expediente ante ANSES está el esfuerzo de toda una vida; por eso, mi prioridad es traducir el laberinto burocrático de los organismos previsionales en un camino claro, previsible y exitoso hacia el cobro de su jubilación o pensión.
+                        Brindo asesoramiento en jubilaciones, pensiones, reajustes de haberes, planificación previsional y otros trámites vinculados con ANSES. Analizo la historia laboral y previsional de cada persona para identificar los aportes registrados, detectar posibles inconsistencias y evaluar las alternativas que correspondan según cada situación.
+                    </p>
+                    <p class="about__text">
+                        La atención es directa y personalizada, tanto de manera presencial en la Ciudad Autónoma de Buenos Aires como a distancia cuando el trámite o la consulta lo permiten.
                     </p>
                     
                     <div class="about__features">
@@ -648,7 +551,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
 
                     <p class="about__cta">
-                        Mi objetivo es brindar un asesoramiento previsional claro, personalizado y técnicamente riguroso, explicando cada alternativa y manteniendo al cliente informado sobre el estado de su trámite.
+                        Mi objetivo es brindar un asesoramiento previsional claro y técnicamente riguroso, explicar las alternativas disponibles y mantener al cliente informado durante las distintas etapas de su trámite o reclamo.
                     </p>
                 </div>
             </div>
@@ -735,7 +638,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <i class="fas fa-map-marker-alt"></i>
                         </div>
                         <div class="contact__info-content">
-                            <h4>Estudio Jurídico</h4>
+                            <h4>Atención presencial</h4>
                             <p>San Cristóbal, CABA</p>
                         </div>
                     </div>
@@ -746,7 +649,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="contact__info-content">
                             <h4>Teléfono Directo</h4>
-                            <p><a href="tel:+541130082030" title="Llamar al estudio">+54 11 3008-2030</a></p>
+                            <p><a href="tel:+541130082030" title="Llamar al Dr. Martín García">+54 11 3008-2030</a></p>
                         </div>
                     </div>
 
@@ -839,7 +742,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="why-us__item-content">
                                 <h4>Gestión y Atención Personalizada</h4>
-                                <p>Revisamos junto a usted sus aportes e historia laboral para detectar errores y oportunidades de mejora.</p>
+                                <p>Reviso junto a usted sus aportes e historia laboral para detectar errores y evaluar posibles inconsistencias.</p>
                             </div>
                         </div>
                         <div class="why-us__item">
@@ -919,10 +822,10 @@ loading="lazy">
                     </div>
 
                     <div class="footer__social">
-                        <a href="https://www.instagram.com/ab.martingarcia/" target="_blank" rel="noopener noreferrer" class="footer__social-link" title="Visitar nuestro perfil de Instagram">
+                        <a href="https://www.instagram.com/ab.martingarcia/" target="_blank" rel="noopener noreferrer" class="footer__social-link" title="Visitar el perfil profesional del Dr. Martín García en Instagram">
                             <i class="fab fa-instagram"></i>
                         </a>
-                        <a href="https://www.facebook.com/AbogadoGarciaMartin/" target="_blank" rel="noopener noreferrer" class="footer__social-link" title="Visitar nuestra página de Facebook">
+                        <a href="https://www.facebook.com/AbogadoGarciaMartin/" target="_blank" rel="noopener noreferrer" class="footer__social-link" title="Visitar la página profesional del Dr. Martín García en Facebook">
                             <i class="fab fa-facebook"></i>
                         </a>
                     </div>
