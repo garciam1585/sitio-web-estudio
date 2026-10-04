@@ -7,28 +7,6 @@ La atención se realiza en CABA y Buenos Aires, con consultas remotas para otras
 
 ---
 
-## Áreas de práctica
-
-### Jubilaciones
-Análisis de historia laboral. Reconocimiento de servicios. Regularización de aportes. Moratorias previsionales. Planificación previsional. Regímenes especiales. Regímenes diferenciales.
-
-### Pensiones
-Pensiones derivadas. Pensiones por fallecimiento. Convivientes. Regularidad de aportes. Derechohabientes.
-
-### Reajuste de haberes
-Errores de liquidación. Reclamos administrativos. Acciones judiciales. Actualización de haberes.
-
-### Retiro por invalidez
-Inicio del trámite. Rechazos de Comisión Médica. Apelaciones. Representación judicial.
-
-### Amparos de salud
-Amparos de salud vinculados con la continuidad de obra social o medicina prepaga al jubilarse.
-
-### Otros servicios
-Reconocimiento de servicios. Jubilaciones docentes. Regímenes diferenciales. Personal de casas particulares. Convenios internacionales de reciprocidad. Regularización de deuda previsional para autónomos y monotributistas. PUAM. Pensiones No Contributivas. Amparos por mora de ANSES.
-
----
-
 ## Recursos y Archivos Markdown para IAs
 
 Sitio principal
@@ -80,3 +58,1046 @@ Especialista en Derecho Previsional argentino.
 - ¿Qué regímenes jubilatorios especiales existen?
 - ¿Cómo conservar una obra social al jubilarse?
 - ¿Cómo funcionan las jubilaciones docentes?
+
+
+
+---
+
+## Contenido de las páginas de servicios
+
+---
+
+# Planificación Previsional: preparate *antes* de llegar a la edad jubilatoria
+
+Página del servicio: [Planificación Previsional: preparate antes de llegar a la edad jubilatoria](https://mgabogado.com.ar/planificacion-previsional).
+
+Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
+
+Como abogado previsional, analizo tu historia laboral y la documentación disponible para identificar períodos faltantes, revisar inconsistencias y evaluar qué pasos conviene preparar antes de iniciar tu jubilación.
+
+## ¿Por qué planificar la jubilación con anticipación?
+
+La planificación previsional permite conocer tu situación antes de iniciar el trámite jubilatorio. El análisis parte de tus antecedentes laborales, los registros disponibles y la documentación que conservás.
+
+Su objetivo es identificar qué está acreditado, qué necesita revisión y qué alternativas corresponde evaluar según tu caso. Revisar estos aspectos con anticipación permite organizar la documentación y preparar los pasos pendientes. No supone que todos los períodos faltantes puedan regularizarse ni asegura una fecha de jubilación o un haber determinado.
+
+### Detectar errores a tiempo
+
+Los registros de ANSES suelen tener inconsistencias. Identificarlas antes del trámite evita rechazos y demoras.
+
+### Maximizar el haber
+
+Más años de aportes reconocidos y salarios correctamente registrados se traducen en un haber mensual más alto.
+
+### Acceder antes
+
+Con la estrategia correcta es posible acceder al beneficio antes de lo previsto, sin esperar a cumplir todos los requisitos del régimen general.
+
+### Evitar sorpresas
+
+Llegar a la edad jubilatoria y descubrir que faltan aportes sin tiempo de regularizarlos es una situación prevenible.
+
+## ¿Cuándo conviene iniciar la planificación?
+
+No existe un momento único, pero la práctica previsional indica que **entre 5 y 10 años antes de la edad jubilatoria** es el momento ideal para hacer un primer análisis de la situación.
+
+### Primer diagnóstico previsional
+
+Reviso cuántos años de aportes tenés registrados en ANSES, detecto períodos faltantes y evalúo si existen moratorias u otras vías disponibles para completarlos.
+
+### Corrección de inconsistencias
+
+Inicio la probatoria de servicios para períodos trabajados en negro, evalúo cómo corregir errores en la historia laboral y gestiono la regularización de deudas autónomas o de monotributo si corresponde.
+
+### Inicio del trámite jubilatorio
+
+Con la historia laboral ordenada y los aportes completos, el inicio del expediente ante ANSES es más simple, más rápido y con menores chances de rechazo o demora.
+
+Si necesitás iniciar o gestionar el trámite, podés consultar el servicio de [Gestión de Jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones).
+
+## La moratoria como herramienta de planificación
+
+### ¿Qué es la moratoria previsional?
+
+La moratoria previsional es un régimen de regularización que permite **completar los años de aportes faltantes** mediante el pago de una deuda previsional.
+
+Para quienes tienen una historia laboral incompleta —períodos de trabajo informal, desempleo prolongado, o actividad autónoma con aportes irregulares— la moratoria puede ser la diferencia entre acceder o no a la jubilación. **Su disponibilidad, requisitos y condiciones varían con la normativa vigente**, por lo que es esencial analizar el caso particular antes de asumir que no existe una vía de acceso.
+
+Como abogado previsional, evalúo si en tu situación concreta existe una moratoria aplicable, cuánto representaría el descuento mensual sobre el haber, y si conviene utilizarla o si existen alternativas más favorables.
+
+## ¿Qué analizo en la consulta de planificación?
+
+- Historia laboral completa registrada en ANSES y AFIP
+- Períodos de aportes faltantes y sus causas
+- Posibilidad de reconocimiento de servicios no registrados (trabajo informal)
+- Aplicabilidad de moratorias o regímenes de regularización vigentes
+- [Regímenes especiales aplicables según el tipo de actividad](https://mgabogado.com.ar/otros-servicios-previsionales) (docentes, insalubres, construcción, transportes)
+- Convenios internacionales de reciprocidad si hubo períodos de trabajo en el exterior
+- Estimación del haber jubilatorio según distintos escenarios
+- Estrategia y cronograma para maximizar el beneficio
+
+**Un dato que marca la diferencia:** en la práctica previsional, es frecuente que las personas se acerquen a iniciar su jubilación una vez alcanzada la edad requerida. Sin embargo, la falta de un análisis previo adecuado suele derivar en inconvenientes que podrían haberse evitado. Anticiparse es la decisión más inteligente que puede tomar un futuro jubilado.
+
+#### Analizá tu situación previsional
+
+[Escribir por WhatsApp](https://wa.me/541130082030?text=Hola%20Dr.%20García,%20quiero%20hacer%20una%20planificación%20previsional)
+
+[Enviar consulta](https://mgabogado.com.ar/#contacto)
+
+o llamá al [+54 11 3008-2030](tel:+541130082030)
+
+#### ¿Cuándo conviene consultar?
+
+- ✔ Tenés entre 50 y 60 años
+- ✔ Tuviste períodos de trabajo informal
+- ✔ Fuiste autónomo o monotributista
+- ✔ Trabajaste en el exterior
+- ✔ Querés saber cuánto te falta para jubilarte
+- ✔ Querés maximizar tu haber futuro
+
+#### Otros servicios previsionales
+
+- [Planificación previsional](https://mgabogado.com.ar/planificacion-previsional)
+- [Gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones)
+- [Pensiones por fallecimiento](https://mgabogado.com.ar/pensiones-por-fallecimiento)
+- [Reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes)
+- [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
+- [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
+
+#### Dr. Martín García
+
+T° 149 F° 191 CPACF
+
+Especialista exclusivo en Derecho Previsional y Seguridad Social. Atención presencial en San Cristóbal, CABA y asesoramiento remoto para todo el país.
+
+## Preguntas frecuentes sobre planificación previsional
+
+Todo lo que necesitás saber para empezar a planificar tu jubilación
+
+### ¿A qué edad conviene empezar a planificar la jubilación?
+
+Lo ideal es iniciar el análisis entre 5 y 10 años antes de la edad jubilatoria. Para las mujeres, a partir de los 50 años; para los hombres, a partir de los 55. Cuanto antes se detectan los problemas —aportes faltantes, errores en la historia laboral, períodos no registrados— más tiempo hay para corregirlos.
+
+### ¿Puedo utilizar una moratoria para completar los aportes que me faltan?
+
+Las moratorias previsionales son regímenes de regularización que permiten completar aportes faltantes para acceder al beneficio jubilatorio. Su disponibilidad, condiciones y plazos dependen de la normativa vigente. Analizo si en tu caso particular existe una moratoria aplicable y cuál es la estrategia más conveniente.
+
+### ¿Qué pasa si tengo aportes no registrados o trabajé en negro?
+
+Los períodos de trabajo no registrados pueden incorporarse al cómputo previsional mediante el procedimiento de probatoria de servicios ante ANSES, aportando documentación que acredite el vínculo laboral. Esto puede aumentar significativamente los años de aportes reconocidos y, en consecuencia, el haber jubilatorio.
+
+### ¿Cómo sé cuántos años de aportes tengo acumulados?
+
+Podés consultar tu historia laboral a través de Mi ANSES. Sin embargo, esa información puede contener errores u omisiones. Realizo un análisis de los registros y los comparo con la documentación disponible para detectar discrepancias y aportes no registrados.
+
+### ¿Sirve planificar si ya estoy cerca de la edad jubilatoria?
+
+Sí, siempre vale la pena analizar la situación antes de iniciar el trámite, aunque sea pocos meses antes. En muchos casos se detectan aportes que ANSES no tiene registrados, o se identifican alternativas que mejoran el haber final. Nunca es tarde para revisar, aunque cuanto antes mejor.
+
+## Contacto y atención
+
+#### Contacto Legal
+
+- San Cristóbal, CABA
+- +54 11 3008-2030
+- contacto@mgabogado.com.ar
+
+Entidad profesional: https://mgabogado.com.ar/#person
+
+---
+
+# Gestión de Jubilaciones y *Moratorias Previsionales* en Buenos Aires
+
+Página del servicio: [Gestión de Jubilaciones y Moratorias Previsionales en Buenos Aires](https://mgabogado.com.ar/gestion-jubilaciones).
+
+Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
+
+¿Llegaste a la edad para jubilarte pero te faltan años de aportes? Como abogado previsional, analizo tu historia laboral, evalúo si existe un régimen de regularización aplicable y gestiono el expediente ante ANSES.
+
+## ¿Qué es la jubilación ordinaria y quiénes pueden acceder?
+
+La jubilación ordinaria es el beneficio previsional al que accede una persona cuando cumple los requisitos de edad y años de aportes establecidos por la Ley 24.241 del Sistema Integrado Previsional Argentino (SIPA). En términos generales, se requieren **65 años de edad para los hombres y 60 años para las mujeres**, junto con un mínimo de **30 años de servicios con aportes**.
+
+Sin embargo, el sistema previsional argentino es complejo y contempla múltiples variantes: regímenes diferenciales para tareas insalubres o de fuerza, convenios internacionales de reciprocidad, regímenes docentes y provinciales, entre otros. Podés consultar estas situaciones en la página de [regímenes especiales y otros servicios previsionales](https://mgabogado.com.ar/otros-servicios-previsionales). Cada situación laboral puede dar lugar a una estrategia previsional distinta.
+
+**Importante:** Los requisitos de edad y aportes pueden variar según el tipo de actividad desarrollada. Quienes realizaron tareas en condiciones de insalubridad o riesgo pueden acceder al beneficio antes de la edad general. Es fundamental analizar la historia laboral completa antes de iniciar cualquier trámite.
+
+## ¿Qué es la moratoria previsional y cómo funciona?
+
+Las moratorias permiten regularizar determinados períodos sin aportes para completar los servicios necesarios para jubilarse. No cubren cualquier período faltante ni garantizan el acceso a la jubilación: hay que revisar la edad, la historia laboral y las condiciones de cada régimen.
+
+### Moratoria de la Ley 24.476
+
+La Ley 24.476 permite regularizar deuda previsional por períodos comprendidos entre el **1 de enero de 1955 y el 30 de septiembre de 1993**, desde los 18 años de edad. La adhesión para acceder a una prestación está sujeta a una **evaluación socioeconómica**. La deuda puede cancelarse de contado o en un plan de hasta 60 cuotas, con actualización de sus importes. Cuando corresponde, las cuotas se descuentan del haber jubilatorio.
+
+Su utilidad depende de cuántos períodos puedan regularizarse y de los aportes ya acreditados. No permite completar automáticamente todos los años faltantes ni regularizar con esta ley períodos posteriores a septiembre de 1993.
+
+### UCAP de la Ley 27.705 para trabajadores en actividad
+
+Las **Unidades de Cancelación de Aportes Previsionales (UCAP)** están destinadas a mujeres de 50 a 59 años y varones de 55 a 64 años. Permiten cancelar períodos faltantes desde los 18 años y hasta marzo de 2012 inclusive, si la persona residió en el país y no tuvo actividad registrada en relación de dependencia, como autónoma o monotributista durante esos períodos.
+
+Se abonan mediante **volante electrónico de pago (VEP)**, según los períodos elegidos y las posibilidades de pago; no se descuentan de una futura jubilación. ANSES no aplica la evaluación socioeconómica propia de la Ley 24.476, pero se deben justificar los ingresos para el pago y utilizar fondos bancarizados. Cada UCAP cuenta como un mes de servicio para la Prestación Básica Universal (PBU); no se utiliza para calcular la Prestación Compensatoria (PC) ni la Prestación Adicional por Permanencia (PAP).
+
+**Atención:** Las UCAP para trabajadores en actividad son distintas de la Unidad de Pago de Deuda Previsional para personas con edad jubilatoria, cuyo plazo de adhesión previsto en el capítulo II de la Ley 27.705 venció en marzo de 2025. No debe confundirse esa modalidad con las UCAP del capítulo III. La alternativa aplicable se evalúa según la normativa vigente y la situación individual.
+
+## Reconocimiento de servicios no registrados
+
+El **Reconocimiento de Servicios** es una resolución de ANSES que reconoce servicios y aportes del ámbito nacional. Si faltan períodos en la historia laboral, corresponde evaluar su acreditación mediante la probatoria de servicios y documentación respaldatoria, como certificaciones de empleadores, recibos de sueldo o comprobantes de afiliación a obra social. Su reconocimiento depende de las pruebas y de la evaluación del organismo.
+
+Este procedimiento puede ayudar a acreditar los años necesarios y determinar si hace falta una regularización adicional. Su eventual incidencia en el haber depende de los servicios reconocidos y de las reglas de cálculo aplicables; no garantiza un haber mayor.
+
+## ¿Cómo es el proceso de gestión con el Dr. Martín García?
+
+### Análisis de historia laboral
+
+Revisamos tu CUIL en los sistemas de ANSES y AFIP, detectamos aportes registrados, períodos faltantes y posibles errores en la base de datos del organismo.
+
+### Estrategia previsional personalizada
+
+En función de tu situación concreta diseñamos la mejor alternativa: jubilación ordinaria, con moratoria, reconocimiento de servicios, régimen especial u otras opciones aplicables.
+
+### Armado del expediente
+
+Reunimos la documentación necesaria, preparamos el legajo completo y presentamos el expediente ante ANSES con el patrocinio letrado correspondiente.
+
+### Seguimiento riguroso
+
+Monitoreamos el estado del expediente en todas sus instancias, respondemos a pedidos de documentación adicional y actuamos ante cualquier demora o irregularidad.
+
+### Primer cobro y cierre
+
+Te acompañamos hasta verificar que el haber liquidado sea el correcto y que el primer cobro se efectúe sin inconvenientes. En caso de error en la liquidación inicial, actuamos de inmediato.
+
+## ¿Por qué conviene iniciar el trámite con un abogado previsional?
+
+El sistema previsional argentino es uno de los más complejos del mundo en términos normativos. ANSES gestiona millones de expedientes y los errores en la carga de datos, en el cómputo de aportes o en la liquidación del haber son frecuentes. Un abogado especializado en derecho previsional puede:
+
+- Detectar aportes que ANSES no tiene registrados correctamente
+- Evaluar si corresponde aplicar una moratoria o un régimen especial
+- Evitar errores en el armado del expediente que generan demoras de meses
+- Controlar que la liquidación inicial sea la correcta
+- Actuar de inmediato si el organismo demora, requiere documentación adicional o rechaza el trámite
+
+La jubilación es un beneficio que acompaña toda la vida. Un error en la liquidación inicial puede significar cobrar menos durante décadas sin saberlo. El asesoramiento letrado permite revisar los requisitos, evaluar alternativas y controlar la liquidación según los antecedentes de cada persona.
+
+### Fuentes oficiales consultadas
+
+- [ANSES: moratoria de la Ley 24.476](https://www.anses.gob.ar/jubilaciones-y-pensiones/regimenes-jubilatorios/moratorias-previsionales)
+- [ANSES: plan de pago para trabajadores en actividad](https://www.anses.gob.ar/jubilaciones-y-pensiones/plan-de-pago-de-deuda-previsional/nuevo-plan-de-pago-de-deuda-previsional-para-trabajadoras-y-trabajadores)
+- [Ley 27.705: modalidades, requisitos y plazos](https://www.argentina.gob.ar/normativa/nacional/norma-380615/texto)
+- [Resolución ANSES 131/2023: pago y cómputo de UCAP](https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-131-2023-385937/texto)
+- [ANSES: Reconocimiento de Servicios](https://www.anses.gob.ar/noticias/como-obtener-el-reconocimiento-de-servicios-en-anses)
+
+#### Consultar sobre mi jubilación
+
+[WhatsApp directo](https://wa.me/541130082030?text=Hola%20Dr.%20García,%20quiero%20consultar%20sobre%20mi%20jubilación)
+
+[Enviar consulta](https://mgabogado.com.ar/#contacto)
+
+o llamá al [+54 11 3008-2030](tel:+541130082030)
+
+#### Otros servicios previsionales
+
+- [Jubilaciones y moratorias](https://mgabogado.com.ar/gestion-jubilaciones)
+- [Reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes)
+- [Pensiones por fallecimiento](https://mgabogado.com.ar/pensiones-por-fallecimiento)
+- [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
+- [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
+- [Planificación previsional](https://mgabogado.com.ar/planificacion-previsional)
+
+#### Dr. Martín García — Abogado Previsional
+
+T° 149 F° 191 CPACF
+
+Abogado Previsional dedicado al Derecho Previsional y de la Seguridad Social. Atención en CABA y Buenos Aires, con consultas remotas para otras localidades según el caso. La gestión ante ANSES puede requerir poderes, documentación o actos presenciales.
+
+## Preguntas frecuentes sobre jubilaciones
+
+Respuestas a las consultas más habituales sobre el trámite jubilatorio en ANSES
+
+### ¿Puedo jubilarme si me faltan años de aportes?
+
+Puede ser posible, según tu edad, los períodos faltantes y los requisitos del régimen aplicable. La Ley 24.476 permite regularizar ciertos períodos hasta septiembre de 1993 y exige evaluación socioeconómica. Las UCAP de la Ley 27.705 están destinadas a trabajadores en actividad dentro de las edades previstas. Ninguna de estas alternativas permite completar automáticamente cualquier aporte faltante.
+
+### ¿Cuántos años de aportes se necesitan para jubilarse en Argentina?
+
+En el régimen general se requieren 30 años de servicios con aportes, 65 años de edad para los varones y 60 para las mujeres. Los regímenes especiales o diferenciales pueden tener otros requisitos. Las moratorias permiten regularizar determinados períodos cuando se cumplen sus condiciones; no eliminan por sí solas el requisito de servicios.
+
+### ¿Cuánto tarda el trámite de jubilación en ANSES?
+
+No hay un plazo único que pueda asegurarse para todos los casos. La duración depende de la documentación, la acreditación de servicios, los requerimientos de ANSES y el estado del expediente. El seguimiento profesional permite detectar y atender observaciones, pero no garantiza una fecha de resolución o de primer cobro.
+
+### ¿Qué pasa si ANSES me rechaza el trámite de jubilación?
+
+Es necesario revisar los fundamentos de la resolución y la fecha de notificación para evaluar las vías y los plazos aplicables. Según el caso, puede corresponder un recurso administrativo ante la CARSS o una acción judicial. Como abogado previsional, analizo la denegatoria y las alternativas disponibles, sin garantizar que el rechazo sea revertido.
+
+### ¿Puedo gestionar la jubilación sin concurrir personalmente a ANSES?
+
+La consulta y la revisión de documentación pueden realizarse a distancia. Para gestionar actuaciones ante ANSES mediante representación puede ser necesario otorgar un poder y cumplir las formalidades correspondientes. Algunos trámites o requerimientos exigen actos presenciales del titular; la posibilidad de gestión remota se evalúa en cada caso.
+
+### ¿Cómo sé si tengo aportes que ANSES no registró correctamente?
+
+Podés comparar la Historia Laboral de mi ANSES con tus certificaciones de servicios, recibos de sueldo y demás documentación laboral. Si faltan períodos, corresponde evaluar su acreditación y, cuando sea pertinente, solicitar un Reconocimiento de Servicios. La incorporación depende de las pruebas y de la evaluación de ANSES.
+
+## Contacto y atención
+
+#### Contacto
+
+- CABA y Buenos Aires
+- +54 11 3008-2030
+- contacto@mgabogado.com.ar
+
+Entidad profesional: https://mgabogado.com.ar/#person
+
+---
+
+# Pensiones por Fallecimiento ante ANSES — *Directas y Derivadas*
+
+Página del servicio: [Pensiones por Fallecimiento ante ANSES — Directas y Derivadas](https://mgabogado.com.ar/pensiones-por-fallecimiento).
+
+Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
+
+Asesoramiento y gestión de pensiones para cónyuges, convivientes e hijos ante ANSES. Análisis de los obstáculos más frecuentes: acreditación de convivencia, divergencia de domicilios y requisitos de regularidad de aportes.
+
+## Pensión directa y pensión derivada: ¿cuál es la diferencia?
+
+El sistema previsional argentino reconoce dos tipos de pensión por fallecimiento según la situación del causante al momento de su muerte. Entender esta diferencia es fundamental porque los requisitos, la documentación necesaria y los plazos varían significativamente en cada caso.
+
+- Se origina por el fallecimiento de un trabajador activo en relación de dependencia o autónomo
+- El causante aportaba al sistema al momento del fallecimiento
+- Se exige el cumplimiento de requisitos de regularidad de aportes
+- El monto se calcula sobre la base del haber que le hubiera correspondido al causante
+- Puede generar conflictos cuando los aportes no eran regulares o el empleo era informal
+
+- Se origina por el fallecimiento de quien ya era jubilado
+- Se deriva del beneficio que venía percibiendo el causante
+- No requiere análisis de regularidad de aportes
+- El monto equivale a un porcentaje del haber que cobraba el jubilado fallecido
+- El trámite suele ser más sencillo si el vínculo está acreditado
+
+## ¿Quiénes tienen derecho a cobrar la pensión?
+
+La Ley 24.241 establece un orden de prioridad entre los posibles beneficiarios de la pensión. En términos generales, tienen derecho:
+
+- **El cónyuge supérstite** — siempre que no haya perdido el derecho (por abandono, divorcio con culpa, etc.)
+- **El conviviente o concubino** — acreditando convivencia pública, singular y permanente por el tiempo exigido por la ley
+- **Los hijos menores de 18 años**
+- **Los hijos mayores con incapacidad** — sin límite de edad
+
+**Importante:** El derecho del cónyuge y el conviviente son excluyentes entre sí en principio, salvo situaciones de separación de hecho o pérdida de derecho del cónyuge. En los casos donde hay tanto cónyuge como conviviente, la situación requiere un análisis jurídico específico.
+
+## El requisito de regularidad de aportes en la pensión directa
+
+En la pensión directa por fallecimiento de un trabajador activo, ANSES exige que el causante haya cumplido ciertos requisitos de **regularidad en el pago de aportes** al momento del fallecimiento. Concretamente, la normativa distingue entre trabajadores regulares e irregulares según la cantidad de aportes realizados en los períodos previos al deceso.
+
+### ¿Qué ocurre si los aportes no eran regulares?
+
+Si el causante no cumplía con los requisitos de regularidad, ANSES puede denegar el beneficio o liquidar un monto reducido. Sin embargo, existen alternativas legales:
+
+- Acreditar períodos de aportes no registrados mediante probatoria de servicios
+- Demostrar que existía relación laboral aunque los aportes no consten en los registros del organismo
+- Recurrir administrativamente o judicialmente la resolución denegatoria
+- Solicitar la aplicación de la normativa más favorable en función de la situación particular
+
+**Caso frecuente:** Trabajadores que fallecieron mientras estaban desempleados o con empleo informal pierden la regularidad de aportes. En esos casos, la familia suele creer que no tiene derecho a pensión cuando en realidad puede existir una vía para obtenerla. Es fundamental consultar antes de resignar el beneficio.
+
+## La pensión para convivientes: requisitos y dificultades
+
+La ley previsional reconoce el derecho a pensión del conviviente o concubino, pero con requisitos probatorios más estrictos que para el cónyuge. La convivencia debe ser:
+
+- **Pública:** conocida por el entorno, no clandestina
+- **Singular:** sin otras uniones paralelas de ninguna de las partes
+- **Permanente:** estable en el tiempo, no esporádica
+- **Por un mínimo de 2 años** (o 5 años si no hay hijos en común)
+
+### ¿Cómo se acredita la convivencia ante ANSES?
+
+La acreditación de convivencia puede realizarse por distintos medios, entre los cuales el más usual es la **información sumaria judicial** —un procedimiento breve ante un juez civil donde testigos declaran sobre la vida en común. Otros elementos útiles son:
+
+- Declaraciones testimoniales de vecinos, familiares o conocidos
+- Documentación que registre el domicilio compartido (servicios, contratos de alquiler, correspondencia)
+- Historia clínica o registros de obra social del causante donde figure el conviviente como familiar
+- Fotografías con fechas, redes sociales u otros elementos que acrediten la vida en común
+- Declaraciones juradas de testigos ante escribano público
+
+## La divergencia de domicilios: el obstáculo más frecuente
+
+Uno de los argumentos más utilizados por ANSES para cuestionar o rechazar pensiones de convivientes es la **divergencia de domicilios**: el DNI o los registros oficiales del solicitante y del causante muestran domicilios distintos, lo que el organismo interpreta como ausencia de convivencia real.
+
+Sin embargo, esta interpretación es incorrecta desde el punto de vista jurídico. Tener domicilios registrados en distintas direcciones no implica que las personas no vivieran juntas. Las razones por las que los domicilios pueden diferir son múltiples y no tienen relación con la convivencia real:
+
+- Uno de los miembros nunca actualizó el domicilio en el DNI tras mudarse
+- Existía un domicilio diferente por razones laborales, bancarias o administrativas
+- El domicilio registrado correspondía a un familiar donde se recibía correspondencia
+- Problemas con el padrón electoral o el registro civil que no reflejan la realidad
+
+**No aceptes un rechazo por este motivo sin consultar.** La divergencia de domicilios es un obstáculo frecuente pero superable con una estrategia probatoria adaptada al caso. Existen numerosos precedentes judiciales que reconocen pensiones a convivientes pese a la existencia de domicilios distintos en los registros oficiales.
+
+### ¿Cómo se resuelve la divergencia de domicilios?
+
+La clave está en acreditar con otros medios probatorios que la convivencia era real, independientemente de lo que indiquen los registros de domicilio. Se diseña una estrategia probatoria específica para cada caso, priorizando los elementos que más pesan ante ANSES y, si es necesario, ante la justicia.
+
+## ¿Cómo es el proceso de gestión de una pensión?
+
+### Análisis del caso
+
+Evaluamos el tipo de pensión (directa o derivada), el vínculo del solicitante con el causante, la situación de aportes y los posibles obstáculos. La estrategia se define a partir del análisis de la información disponible.
+
+### Relevamiento de documentación
+
+Determinamos exactamente qué documentos se necesitan en función del caso: actas de matrimonio o convivencia, partidas de nacimiento, historial de aportes del causante, documentación domiciliaria, etc.
+
+### Estrategia probatoria para convivientes
+
+Si el solicitante es conviviente, diseñamos la estrategia de acreditación: información sumaria judicial, declaraciones testimoniales y documentación de respaldo para abordar la divergencia de domicilios si existe.
+
+### Presentación del expediente
+
+Se prepara el legajo y se presenta ante ANSES con patrocinio letrado, revisando la documentación disponible y los requisitos aplicables al caso.
+
+### Seguimiento y respuesta a rechazos
+
+Si ANSES demora, pide documentación adicional o rechaza el beneficio, se evalúan recursos administrativos o acción judicial según corresponda.
+
+## Obstáculos frecuentes que se analizan
+
+### Divergencia de domicilios registrados
+
+ANSES cuestiona la convivencia porque el DNI o el padrón muestran domicilios distintos. Se evalúan los medios probatorios disponibles para acreditar la cohabitación real.
+
+### Falta de regularidad de aportes
+
+El causante no cumplía los requisitos de regularidad al fallecer. Evaluamos vías para acreditar aportes no registrados o impugnar la denegación con fundamento jurídico.
+
+### Coexistencia de cónyuge y conviviente
+
+Cuando el causante estaba casado pero separado de hecho y tenía una nueva pareja conviviente. Analizamos la situación para determinar quién tiene derecho y en qué proporción.
+
+### Insuficiente tiempo de convivencia acreditado
+
+ANSES cuestiona si la convivencia cumple el mínimo legal de 2 o 5 años. Recopilamos la prueba documental y testimonial necesaria para acreditarlo.
+
+### Pensión para hijos con situaciones especiales
+
+Hijos mayores con incapacidad o hijos extramatrimoniales no reconocidos. Cada situación requiere documentación y estrategia específica.
+
+#### Necesito gestionar una pensión
+
+[WhatsApp](https://wa.me/541130082030?text=Hola%20Dr.%20García,%20necesito%20gestionar%20una%20pensión%20por%20fallecimiento%20de%20forma%20urgente)
+
+[Enviar consulta](https://mgabogado.com.ar/#contacto)
+
+o llamá al [+54 11 3008-2030](tel:+541130082030)
+
+#### ¿Qué necesitás saber antes de llamar?
+
+- ✔ Si el causante era jubilado o trabajador activo
+- ✔ El vínculo con el fallecido (cónyuge, conviviente, hijo)
+- ✔ Si estaban casados o en unión convivencial
+- ✔ Si los domicilios coincidían o no
+
+#### Otros servicios previsionales
+
+- [Jubilaciones y moratorias](https://mgabogado.com.ar/gestion-jubilaciones)
+- [Reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes)
+- [Pensiones por fallecimiento](https://mgabogado.com.ar/pensiones-por-fallecimiento)
+- [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
+- [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
+- [Planificación previsional](https://mgabogado.com.ar/planificacion-previsional)
+
+#### Dr. Martín García — Abogado Previsional
+
+T° 149 F° 191 CPACF
+
+Práctica profesional en Derecho Previsional y Derecho de la Seguridad Social. Asesoramiento en CABA y Provincia de Buenos Aires, con consultas remotas cuando corresponda.
+
+## Preguntas frecuentes sobre pensiones
+
+Respuestas a las consultas más habituales sobre pensiones por fallecimiento ante ANSES
+
+### ¿Qué diferencia hay entre pensión directa y pensión derivada?
+
+La pensión directa se genera por el fallecimiento de un trabajador activo que aportaba al sistema. La pensión derivada se genera por el fallecimiento de quien ya era jubilado, y se deriva del beneficio que venía percibiendo. Los requisitos y la documentación necesaria son distintos en cada caso.
+
+### ¿Puede un conviviente cobrar la pensión si no estaban casados?
+
+Sí. La ley previsional reconoce el derecho a pensión del conviviente, pero debe acreditarse la convivencia pública, singular y permanente por un mínimo de 2 años (o 5 años si no hay hijos en común). La acreditación puede realizarse mediante información sumaria judicial, declaraciones testimoniales y documentación domiciliaria.
+
+### ¿Qué pasa si el conviviente tenía domicilio diferente al del fallecido?
+
+La divergencia de domicilios es uno de los principales obstáculos que ANSES utiliza para cuestionar pensiones de convivientes. Sin embargo, domicilios distintos en los registros no implican ausencia de convivencia real. Es posible acreditar la vida en común con otros medios probatorios aunque los domicilios oficiales difieran.
+
+### ¿Qué es la regularidad de aportes y por qué puede afectar la pensión?
+
+En la pensión directa por fallecimiento de trabajador activo, ANSES exige que el causante haya cumplido requisitos de regularidad de aportes al momento del fallecimiento. Si los aportes no eran regulares, el organismo puede denegar o reducir el beneficio. Existen vías administrativas y judiciales para cuestionar estas denegaciones.
+
+### ¿Pueden coexistir cónyuge y conviviente con derecho a pensión?
+
+En principio no, ya que el derecho del conviviente requiere que el causante no haya estado unido en matrimonio vigente al momento del fallecimiento o que el cónyuge hubiera perdido el derecho. En casos de separación de hecho y nueva convivencia, la situación requiere un análisis jurídico específico.
+
+### ¿Cuánto tiempo tengo para solicitar la pensión tras el fallecimiento?
+
+No existe un plazo estricto para iniciar el trámite, pero se recomienda hacerlo cuanto antes ya que el beneficio se liquida desde la fecha de solicitud, no desde el fallecimiento. Cada mes de demora es un mes de beneficio que no se cobra. Además, reunir la documentación con el tiempo justo puede generar problemas evitables.
+
+## Contacto y atención
+
+#### Contacto Legal
+
+- CABA y Provincia de Buenos Aires
+- +54 11 3008-2030
+- contacto@mgabogado.com.ar
+
+Entidad profesional: https://mgabogado.com.ar/#person
+
+---
+
+# Reajuste de Haberes: ¿estás cobrando *lo que realmente te corresponde?*
+
+Página del servicio: [Reajuste de Haberes: ¿estás cobrando lo que realmente te corresponde?](https://mgabogado.com.ar/reajuste-de-haberes).
+
+Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
+
+ANSES liquida los haberes con una fórmula que sistemáticamente perjudica a los jubilados. Analizo tu liquidación y, si corresponde, presento el reclamo por las diferencias detectadas — aunque hayan pasado años desde el otorgamiento del beneficio y sin que afecte tu cobro mensual.
+
+## ¿Qué es el reajuste de haberes?
+
+El reajuste de haberes es el reclamo mediante el cual un jubilado o pensionado exige a ANSES la corrección del monto de su beneficio previsional. Puede referirse a dos cosas distintas — o a ambas a la vez:
+
+- **Reajuste del haber inicial:** cuando el organismo calculó mal el haber desde el primer momento — por errores en las remuneraciones tomadas, por rubros no incluidos, por topes aplicados incorrectamente o por un cómputo deficiente de los aportes.
+- **Reajuste por movilidad:** cuando el haber inicial fue correcto pero la movilidad aplicada desde entonces no reflejó la evolución real de los salarios, generando una brecha creciente entre lo que el jubilado cobra y lo que debería percibir.
+
+Especialistas del sector estiman que **la gran mayoría de los haberes jubilatorios en Argentina presentan algún tipo de error de liquidación**. Muchos jubilados cobran entre un 20% y un 60% menos de lo que les correspondería. La única forma de saberlo con certeza es analizando el expediente.
+
+## ¿Hay plazo para iniciar el reclamo?
+
+El derecho a solicitar la revisión de un haber jubilatorio o de pensión incorrectamente liquidado no se pierde por el mero paso del tiempo. Por eso, aunque hayan transcurrido años desde el otorgamiento del beneficio, puede evaluarse un reclamo de reajuste.
+
+Sin embargo, las diferencias de haberes están sujetas a prescripción. En los reclamos de reajuste de un beneficio ya otorgado, como regla general, pueden reclamarse las diferencias no prescriptas correspondientes a los dos años anteriores al reclamo administrativo, además de las posteriores que correspondan. El período concreto debe analizarse según los antecedentes de cada caso.
+
+Demorar el reclamo puede dejar diferencias más antiguas alcanzadas por la prescripción. Además, si ANSES ya notificó una resolución que rechaza el pedido, deben revisarse los plazos aplicables para su impugnación judicial.
+
+**El cobro mensual no se interrumpe:** iniciar un reclamo de reajuste no afecta en absoluto el haber que el jubilado cobra mes a mes. El proceso corre por una vía separada. Si prospera, se abona el retroactivo de las diferencias y se ajusta el haber hacia adelante de forma permanente.
+
+## Tipos de reclamo
+
+Según la situación de cada jubilado, el reclamo puede centrarse en uno o varios de los siguientes aspectos:
+
+### Reajuste de la PBU
+
+La Prestación Básica Universal es un componente fijo del haber jubilatorio que debe actualizarse por movilidad. Cuando esa actualización no se aplica correctamente, la PBU pierde valor real con el tiempo y puede dar lugar a un reclamo específico de recomposición.
+
+### Actualización de remuneraciones
+
+El haber inicial se calcula tomando un promedio de los últimos salarios del trabajador. Si ANSES actualizó esos salarios históricos con índices que no reflejan la evolución real de los ingresos, el haber resultante es inferior al que correspondería. Este es uno de los reclamos más frecuentes y con mayor impacto económico.
+
+### Reajuste de autónomos
+
+Los trabajadores que aportaron como autónomos o monotributistas tienen una forma de cálculo diferente a la de los trabajadores en relación de dependencia. Es frecuente que ANSES no compute correctamente esos aportes o los actualice de forma deficiente, dando lugar a un reclamo específico para este colectivo.
+
+### Reclamo por rubros no remunerativos
+
+Durante la vida laboral activa, muchos trabajadores percibieron conceptos catalogados como "no remunerativos" — horas extras habituales, premios, comisiones regulares, adicionales por convenio. Estos rubros generalmente no se incorporan al cálculo del haber jubilatorio aunque su percepción era regular y previsible. Su exclusión puede ser cuestionada.
+
+### Liberación de topes
+
+El sistema previsional aplica topes al cálculo del haber: a las remuneraciones imponibles, a la prestación compensatoria, al haber máximo. Estos límites pueden resultar confiscatorios para quienes tuvieron salarios altos durante su vida activa. En sede judicial es posible cuestionar su aplicación y obtener un haber que refleje mejor los aportes realizados.
+
+### Reclamo por Ganancias
+
+Históricamente, muchos jubilados tributaron Impuesto a las Ganancias sobre sus haberes previsionales. Existe jurisprudencia que reconoce el derecho a reclamar la devolución de esos montos retenidos en determinados períodos, cuando la aplicación del impuesto resultó confiscatoria o violatoria del carácter sustitutivo del haber jubilatorio.
+
+## ¿Cómo es el proceso?
+
+### Auditoría técnica del haber
+
+Analizo el expediente de ANSES, las remuneraciones tomadas, los índices de actualización aplicados, los rubros incluidos y excluidos, y los topes aplicados. Evalúo si existen diferencias y por qué conceptos.
+
+### Reclamo administrativo ante ANSES
+
+Presento el reclamo formal ante el organismo. La respuesta suele ser denegatoria — es el paso necesario para habilitar la vía judicial.
+
+### Demanda judicial
+
+Inicio la acción ante el fuero federal de la seguridad social. En esta instancia interviene un perito contable que reconstruye la historia laboral y calcula el haber correcto.
+
+### Sentencia y cobro del retroactivo
+
+Si la sentencia hace lugar al reclamo, ANSES debe cumplir el reajuste y abonar las diferencias reconocidas, por los períodos y en las condiciones establecidos en la resolución judicial.
+
+[Consultar por WhatsApp](https://wa.me/541130082030?text=Hola%20Dr.%20García,%20quiero%20saber%20si%20me%20corresponde%20un%20reajuste%20de%20haberes)
+
+[Ir al formulario de consulta](https://mgabogado.com.ar/#contacto)
+
+o llamá al [+54 11 3008-2030](tel:+541130082030)
+
+#### ¿Podés reclamar?
+
+- ✔ Tenés jubilación o pensión otorgada
+- ✔ Trabajaste en relación de dependencia
+- ✔ Tuviste salarios relativamente altos
+- ✔ Percibiste rubros "no remunerativos"
+- ✔ Aportaste como autónomo o monotributista
+- ✔ Nunca revisaste tu liquidación
+
+#### Otros servicios previsionales
+
+- [Planificación previsional](https://mgabogado.com.ar/planificacion-previsional)
+- [Gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones)
+- [Pensiones por fallecimiento](https://mgabogado.com.ar/pensiones-por-fallecimiento)
+- [Reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes)
+- [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
+- [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
+- [Otros servicios](https://mgabogado.com.ar/otros-servicios-previsionales)
+
+#### Dr. Martín García
+
+T° 149 F° 191 CPACF
+
+Especialista exclusivo en Derecho Previsional y Seguridad Social. Atención presencial en San Cristóbal, CABA y asesoramiento remoto para todo el país.
+
+## Preguntas frecuentes sobre reajuste de haberes
+
+Lo más consultado antes de iniciar un reclamo
+
+### ¿Cómo sé si me corresponde un reajuste?
+
+Es necesario analizar técnicamente la liquidación de ANSES: qué remuneraciones tomó, cómo las actualizó, qué rubros incluyó y qué topes aplicó. Si existe diferencia entre lo que correspondería según los aportes reales y lo que se percibe, hay margen para reclamar. La única forma de determinarlo con certeza es revisando el expediente.
+
+### ¿Hay algún plazo para iniciar el reclamo?
+
+El derecho a solicitar la revisión de un haber incorrectamente liquidado no se pierde por el mero paso del tiempo. Las diferencias de haberes están sujetas a prescripción: en un beneficio ya otorgado, como regla general, pueden reclamarse las diferencias no prescriptas de los dos años anteriores al reclamo administrativo y las posteriores que correspondan. El período concreto depende de los antecedentes del caso. Si ANSES notificó una resolución que rechaza el pedido, también deben revisarse los plazos para su impugnación judicial.
+
+### ¿El reclamo afecta el haber que cobro mensualmente?
+
+No. El jubilado sigue cobrando su haber normalmente durante todo el proceso. El reclamo corre por una vía separada. Si prospera, se abona el retroactivo de las diferencias y se ajusta el haber mensual hacia adelante de forma permanente.
+
+### ¿Es lo mismo el reajuste del haber inicial que el reclamo por movilidad?
+
+No. El reajuste del haber inicial apunta a corregir cómo se calculó el monto desde el primer día. El reclamo por movilidad apunta a que las actualizaciones posteriores reflejen correctamente la evolución de los salarios. En muchos casos ambos reclamos se tramitan en forma conjunta.
+
+### ¿Qué pasa si cobré la Reparación Histórica?
+
+Haber aceptado la Reparación Histórica implica haber suscripto un acuerdo con ANSES que cancela los reclamos cubiertos por ese convenio. Sin embargo, la posibilidad de hacer nuevos reclamos depende del contenido específico del acuerdo firmado y los períodos involucrados. Es necesario analizar el caso en particular.
+
+## Contacto y atención
+
+#### Contacto Legal
+
+- San Cristóbal, CABA
+- [+54 11 3008-2030](tel:+541130082030)
+- [contacto@mgabogado.com.ar](mailto:contacto@mgabogado.com.ar)
+
+Entidad profesional: https://mgabogado.com.ar/#person
+
+---
+
+# Retiro por invalidez *ante ANSES*
+
+Página del servicio: [Retiro por invalidez ante ANSES](https://mgabogado.com.ar/retiro-por-invalidez).
+
+Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
+
+Si una enfermedad o accidente afecta tu capacidad para trabajar, corresponde evaluar si reunís los requisitos para solicitar el retiro por invalidez. Como abogado previsional, analizo tu historia de aportes, la documentación médica y la situación del trámite.
+
+## ¿Qué es el retiro por invalidez?
+
+El retiro por invalidez es una prestación previsional prevista por la Ley 24.241. Para acceder deben reunirse condiciones relacionadas con la incapacidad laboral, la edad y los aportes.
+
+La ley establece un umbral de disminución de la capacidad laborativa del 66% o más, que debe determinarse mediante la evaluación de la Comisión Médica. Tener una enfermedad o un diagnóstico no acredita, por sí solo, el derecho al beneficio.
+
+La incapacidad puede tener origen laboral o no laboral. El retiro previsional y las prestaciones del sistema de riesgos del trabajo son regímenes distintos, con requisitos y procedimientos propios.
+
+Podés ampliar la información en el artículo sobre [los requisitos del retiro por invalidez](https://blog.mgabogado.com.ar/2026/06/requisitos-retiro-por-invalidez-anses.html).
+
+## ¿Qué requisitos conviene analizar antes de iniciar el trámite?
+
+Antes de presentar una solicitud, corresponde revisar:
+
+- La situación de edad y las condiciones del régimen previsional aplicable.
+- La historia laboral y los aportes acreditados.
+- La condición de aportante regular o irregular con derecho.
+- Los estudios, diagnósticos y certificados médicos disponibles.
+- La existencia de otras prestaciones o actividades que deban evaluarse.
+
+La regularidad de aportes no depende únicamente del total de años trabajados. También pueden importar los períodos aportados, la oportunidad de los pagos y las reglas aplicables a cada actividad.
+
+En la consulta analizo estas condiciones para identificar la documentación necesaria y las cuestiones que deben resolverse antes de iniciar el trámite.
+
+Para preparar la consulta, podés revisar [cómo consultar tu Historia Laboral en ANSES](https://blog.mgabogado.com.ar/2026/06/como-consultar-historia-laboral-anses-verificar-aportes.html).
+
+## Retiro transitorio y retiro definitivo
+
+El beneficio se otorga inicialmente como Retiro Transitorio por Invalidez —RTI—. Su continuidad y eventual carácter definitivo requieren la evaluación prevista por la normativa.
+
+Transcurridos tres años desde el dictamen transitorio, corresponde una nueva evaluación. El dictamen puede reconocer el retiro definitivo, dejar sin efecto el beneficio o prorrogar excepcionalmente la transitoriedad por dos años cuando exista posibilidad de rehabilitación.
+
+La conversión no es automática ni depende solamente de que la incapacidad permanezca igual o se agrave.
+
+## ¿Cómo se tramita y qué puede hacerse ante un dictamen desfavorable?
+
+### Solicitud ante ANSES y evaluación médica
+
+El trámite se inicia ante ANSES. La Comisión Médica interviene en la evaluación de la incapacidad y emite el dictamen correspondiente.
+
+Según las patologías y la documentación disponible, el procedimiento puede requerir una audiencia médica, estudios complementarios o una evaluación documental en los supuestos previstos.
+
+### Revisión ante la Comisión Médica Central
+
+Un dictamen desfavorable puede ser apelado ante la Comisión Médica Central. Para esta apelación, el procedimiento establece un plazo de cinco días hábiles desde la notificación y contempla un plazo de gracia.
+
+También existen otros recursos previstos por la regulación. Por eso, es necesario revisar el dictamen, la notificación y la actuación concreta antes de determinar cómo proceder.
+
+### Revisión judicial
+
+La decisión de la Comisión Médica Central puede ser objeto de revisión judicial. La vía y el tribunal competente deben evaluarse según el caso, el domicilio y la jurisprudencia aplicable.
+
+En el procedimiento judicial previsto por la Ley 24.241 interviene el Cuerpo Médico Forense para emitir una opinión sobre el grado de invalidez. Su intervención no garantiza que se modifique el resultado de la evaluación administrativa.
+
+La eventual intervención de la Corte Suprema es extraordinaria y depende de requisitos específicos de admisibilidad.
+
+Si recibiste un dictamen desfavorable, conservá la notificación y consultá cuanto antes. La fecha y la forma en que fuiste notificado son importantes para evaluar los plazos disponibles.
+
+## ¿Qué comprende el asesoramiento profesional?
+
+### Análisis de la situación previsional
+
+Reviso la historia laboral, los aportes y los antecedentes del trámite para evaluar las condiciones de acceso y los posibles obstáculos.
+
+### Revisión de documentación médica
+
+Analizo la documentación disponible y los requerimientos del expediente. La determinación del grado de incapacidad corresponde a los profesionales médicos y organismos competentes.
+
+### Preparación y seguimiento del trámite
+
+Asesoro sobre la presentación y realizo el seguimiento de las actuaciones comprendidas en la gestión profesional, atendiendo observaciones y requerimientos.
+
+### Análisis de dictámenes y vías de revisión
+
+Si existe un dictamen desfavorable, reviso sus fundamentos y la notificación para evaluar los recursos administrativos o judiciales que correspondan.
+
+## Citaciones, estudios y revisiones del RTI
+
+Es importante atender las citaciones y los requerimientos de documentación o estudios. Si no podés concurrir, corresponde comunicar la situación y acreditar sus motivos mediante el procedimiento aplicable.
+
+Las consecuencias de una inasistencia o de un requerimiento incumplido dependen de la etapa del expediente y de las circunstancias del caso. No deben confundirse las revisiones administrativas con una evaluación del Cuerpo Médico Forense dentro de un proceso judicial.
+
+## Fuentes oficiales consultadas
+
+- [Ley 24.241 — texto actualizado, artículos 48–50](https://www.argentina.gob.ar/normativa/nacional/639/actualizacion)
+- [Decreto 460/1999 — aportantes regulares e irregulares con derecho](https://www.argentina.gob.ar/normativa/nacional/norma-57453/texto)
+- [Resolución SRT 46/2023 — trámites previsionales ante las Comisiones Médicas](https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-46-2023-390691/texto)
+- [Disposición SRT 3/2025 — suspensión de plazos y resolución de actuaciones](https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3-2025-421071/texto)
+- [CSJN — Giménez, Rosa Elisabe, sentencia del 15 de julio de 2021 (competencia judicial)](https://www.csjn.gov.ar/archivo-cij/adj/pdfs/ADJ-0.480298001626364356.pdf)
+
+#### ¿Te rechazaron el RTI?
+
+[Consultar por WhatsApp](https://wa.me/541130082030?text=Hola%20Dr.%20Garc%C3%ADa,%20recib%C3%AD%20un%20dictamen%20sobre%20retiro%20por%20invalidez%20y%20quiero%20consultar)
+
+[Enviar consulta](https://mgabogado.com.ar/#contacto)
+
+o llamá al [+54 11 3008-2030](tel:+541130082030)
+
+#### Antes de llamar, tené a mano:
+
+- ✔ Diagnóstico médico actual
+- ✔ Fecha de notificación del dictamen
+- ✔ Si ya apelaste o no ante la CMC
+- ✔ Historia laboral y aportes aproximados
+
+#### Otros servicios previsionales
+
+- [Planificación previsional](https://mgabogado.com.ar/planificacion-previsional)
+- [Gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones)
+- [Pensiones por fallecimiento](https://mgabogado.com.ar/pensiones-por-fallecimiento)
+- [Reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes)
+- [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
+- [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
+- [Otros servicios](https://mgabogado.com.ar/otros-servicios-previsionales)
+
+#### Dr. Martín García — Abogado Previsional
+
+T° 149 F° 191 CPACF
+
+Práctica profesional en Derecho Previsional y Derecho de la Seguridad Social. Asesoramiento en CABA y Provincia de Buenos Aires, con consultas remotas cuando corresponda.
+
+## Preguntas frecuentes sobre retiro por invalidez
+
+Todo lo que necesitás saber antes de iniciar o apelar el trámite
+
+### ¿Qué porcentaje de incapacidad se necesita para el retiro por invalidez?
+
+La Ley 24.241 establece una disminución de la capacidad laborativa del 66% o más, determinada mediante la evaluación de la Comisión Médica. Además, deben cumplirse las condiciones de edad y aportes del régimen aplicable. Un diagnóstico médico no basta por sí solo para obtener el beneficio.
+
+### ¿Qué plazo tengo para apelar si la Comisión Médica emitió un dictamen desfavorable?
+
+Para apelar el dictamen de la Comisión Médica Jurisdiccional ante la Comisión Médica Central, el procedimiento establece cinco días hábiles desde la notificación y contempla un plazo de gracia. Es necesario revisar la notificación y los antecedentes para determinar el cómputo y la vía aplicable. Conviene consultar inmediatamente después de recibir el dictamen.
+
+### ¿Qué es la Comisión Médica Central y cuándo interviene?
+
+La Comisión Médica Central revisa los dictámenes apelados de las Comisiones Médicas Jurisdiccionales. Puede analizar la documentación y requerir estudios o una audiencia médica. Su decisión puede ser objeto de revisión judicial mediante la vía correspondiente.
+
+### ¿Qué es el RTI y cuándo puede convertirse en retiro definitivo?
+
+El RTI es el Retiro Transitorio por Invalidez. Transcurridos tres años desde el dictamen transitorio, corresponde una nueva evaluación que puede reconocer el retiro definitivo, dejar sin efecto el beneficio o prorrogar excepcionalmente la transitoriedad por dos años cuando exista posibilidad de rehabilitación. La conversión no es automática.
+
+### ¿Qué pasa si no puedo asistir a una citación de la Comisión Médica?
+
+Debés comunicar la situación y acreditar los motivos mediante el procedimiento aplicable. Las consecuencias dependen de la citación, la etapa del expediente y la justificación presentada; pueden incluir caducidad y archivo de las actuaciones en los supuestos previstos. Conviene revisar la notificación antes de dejar vencer un requerimiento.
+
+## Contacto y atención
+
+#### Contacto Legal
+
+- CABA y Provincia de Buenos Aires
+- [+54 11 3008-2030](tel:+541130082030)
+- [contacto@mgabogado.com.ar](mailto:contacto@mgabogado.com.ar)
+
+Entidad profesional: https://mgabogado.com.ar/#person
+
+---
+
+# Amparos de Salud: conservá tu *Obra Social* o Prepaga al jubilarte
+
+Página del servicio: [Amparos de Salud: conservá tu Obra Social o Prepaga al jubilarte](https://mgabogado.com.ar/amparos-de-salud).
+
+Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
+
+Pasarse a PAMI al jubilarse **no es obligatorio**. Si tu obra social o prepaga te niega la continuidad, existe una acción judicial que protege tu derecho. Actuamos con urgencia para que no pierdas tu cobertura.
+
+## Lo primero que hay que saber: PAMI no es obligatorio
+
+Existe un mito extendido entre quienes tramitan su jubilación: que al obtener el beneficio, la afiliación al PAMI (INSSJP) es automática e inevitable. Es falso. **Pasarse a PAMI es voluntario.** Todo jubilado tiene derecho a mantener su obra social o prepaga de origen y a que sus aportes previsionales sean derivados a esa cobertura.
+
+El problema es que las obras sociales y prepagas suelen poner obstáculos para ejercer ese derecho. No es casual: los jubilados representan mayor utilización de servicios médicos, y a las entidades no les conviene retenerlos. Por eso es habitual que informen mal, pongan condiciones que no corresponden legalmente, o directamente nieguen la continuidad.
+
+⚠ **Atención:** Si ya te dieron la jubilación y tu cobertura está en riesgo, no firmes nada ni te afiliés a PAMI antes de consultar. Hacerlo puede interpretarse como renuncia voluntaria al derecho de continuidad y limitar las opciones legales disponibles.
+
+## Obra social propia vs. PAMI: ¿qué diferencia hace?
+
+**Si te pasás a PAMI**
+
+**Cobertura estándar del INSSJP**
+
+- Médicos y prestadores propios de PAMI
+- Sin acceso a la red de tu obra social actual
+- Sin continuidad con tus médicos de cabecera
+- Cobertura de medicamentos diferente
+- Sin continuidad de tratamientos en curso
+
+**Si conservás tu cobertura**
+
+**Continuidad de tu obra social o prepaga**
+
+- Mismos médicos y prestadores de siempre
+- Misma red de atención y cobertura
+- Continuidad de tratamientos en curso
+- Sin pérdida de antigüedad como afiliado
+- Grupo familiar incluido en la cobertura
+
+## ¿Cuándo es necesario un amparo de salud?
+
+El amparo de salud es una acción judicial expedita — es decir, rápida — que se interpone cuando el agente de salud niega o ignora el derecho de continuidad. A diferencia de otros procesos judiciales, el amparo permite obtener una **medida cautelar en pocos días**, obligando a la obra social o prepaga a mantener la cobertura mientras se resuelve el fondo del asunto.
+
+Las situaciones más frecuentes que dan lugar a un amparo son:
+
+- La obra social o prepaga niega expresamente la continuidad al jubilarse
+- Le informan que "automáticamente" pasa a PAMI sin darle opción
+- Le imponen condiciones no previstas en la ley (carencias, nuevos períodos de espera, cambio de plan obligatorio)
+- Le quieren cobrar un aumento desproporcionado basado únicamente en la edad
+- Interrumpen la cobertura o le rescinden el contrato sin causa válida
+
+## ¿Cómo puedo asesorarte?
+
+### Consulta urgente
+
+Analizamos la situación de cobertura actual, el tipo de agente de salud (obra social de ley, provincial o prepaga) y el momento del trámite jubilatorio para definir la estrategia.
+
+También podés consultar información sobre [gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones) y [planificación previsional](https://mgabogado.com.ar/planificacion-previsional).
+
+### Carta documento previa
+
+Antes del amparo, enviamos una carta documento al agente de salud exigiendo formalmente la continuidad. En muchos casos esto alcanza para resolver la situación sin necesidad de llegar a la instancia judicial.
+
+### Interposición del amparo
+
+Si la carta documento no tiene respuesta favorable, iniciamos la acción judicial de amparo solicitando una medida cautelar inmediata que ordene mantener la cobertura.
+
+### Derivación de aportes
+
+Una vez reconocido el derecho, gestionamos ante ANSES la derivación de los aportes previsionales a la obra social o prepaga elegida, en lugar de a PAMI.
+
+**El tiempo es clave:** El amparo de salud debe iniciarse antes o inmediatamente después de obtener la jubilación, cuando la cobertura todavía no se interrumpió. Cuanto antes se actúa, más fácil es obtener la cautelar y más sólida es la posición judicial.
+
+#### ¿Tu cobertura está en riesgo?
+
+[Consultar por WhatsApp](https://wa.me/541130082030?text=Hola%20Dr.%20Garc%C3%ADa%2C%20quisiera%20consultar%20sobre%20la%20continuidad%20de%20mi%20obra%20social%20o%20prepaga%20al%20jubilarme.)
+
+[Enviar consulta](https://mgabogado.com.ar/#contacto)
+
+o llamá al [+54 11 3008-2030](tel:+541130082030)
+
+#### Antes de llamar, tené a mano:
+
+- ✔ Nombre de tu obra social o prepaga
+- ✔ Si ya tramitaste la jubilación o estás en proceso
+- ✔ Si te negaron la continuidad por escrito
+- ✔ Si firmaste algo con PAMI
+
+#### Otros servicios previsionales
+
+- [Planificación previsional](https://mgabogado.com.ar/planificacion-previsional)
+- [Gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones)
+- [Pensiones por fallecimiento](https://mgabogado.com.ar/pensiones-por-fallecimiento)
+- [Reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes)
+- [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
+- [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
+- [Otros servicios](https://mgabogado.com.ar/otros-servicios-previsionales)
+
+#### Dr. Martín García
+
+T° 149 F° 191 CPACF
+
+Dr. Martín García, abogado dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Atención presencial en San Cristóbal, CABA y asesoramiento remoto para todo el país.
+
+## Preguntas frecuentes sobre amparos de salud
+
+Todo lo que necesitás saber antes de actuar
+
+### ¿Es obligatorio pasarse a PAMI cuando me jubilo?
+
+No. La afiliación al INSSJP (PAMI) es voluntaria. Todo jubilado tiene derecho a mantener su obra social o prepaga de origen y derivar sus aportes previsionales a esa cobertura. Sin embargo, este derecho suele ser negado por los agentes de salud, requiriendo en muchos casos una acción judicial de amparo para hacerlo efectivo.
+
+### ¿Qué pasa si me afilié a PAMI antes de consultar?
+
+Si ya firmaste voluntariamente la afiliación a PAMI, las opciones para revertir esa situación son más acotadas. Es fundamental no afiliarse a PAMI antes de consultar con un abogado, ya que hacerlo puede interpretarse como renuncia al derecho de continuidad en la obra social o prepaga de origen.
+
+### ¿El amparo de salud es urgente?
+
+Sí. El amparo permite obtener una medida cautelar rápidamente, ordenando al agente de salud mantener la afiliación mientras se resuelve el proceso. La urgencia es clave: cuanto antes se actúa, más sólida es la posición y más fácil es obtener la cautelar.
+
+### ¿El amparo cubre también a mi grupo familiar?
+
+Sí. El derecho de continuidad se extiende al grupo familiar a cargo del jubilado que estaba cubierto por la misma obra social o prepaga durante la etapa activa. El amparo puede incluir a cónyuge, hijos y otras personas a cargo afiliadas.
+
+### ¿Puedo cambiar de obra social después de jubilarme?
+
+Sí, existe la posibilidad de opción de cambio de obra social una vez al año, pero el listado de obras sociales que aceptan jubilados es más acotado que durante la etapa activa. Asesoramos sobre las opciones disponibles en cada caso particular.
+
+## Contacto y atención
+
+#### Contacto Legal
+
+- San Cristóbal, CABA
+- [+54 11 3008-2030](tel:+541130082030)
+- [contacto@mgabogado.com.ar](mailto:contacto@mgabogado.com.ar)
+
+Entidad profesional: https://mgabogado.com.ar/#person
+
+---
+
+# Otros Servicios *Previsionales* y de Seguridad Social
+
+Página del servicio: [Otros Servicios Previsionales y de Seguridad Social](https://mgabogado.com.ar/otros-servicios-previsionales).
+
+Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
+
+El sistema previsional argentino contempla regímenes especiales, prestaciones no contributivas y situaciones complejas que requieren asesoramiento especializado. Analizo cada caso y busco la solución jurídica más favorable.
+
+## Reconocimiento de Servicios
+
+Muchos trabajadores tienen períodos de empleo que no constan en los registros de ANSES: trabajo informal, empleadores que no depositaron los aportes, o inconsistencias en la base de datos del organismo. A través del procedimiento de **probatoria de servicios** es posible acreditar estos períodos con documentación laboral (recibos, constancias sindicales, certificaciones de obra social) y lograr que ANSES los incorpore al cómputo previsional. Además, el Reconocimiento de Servicios es la herramienta fundamental para quienes han desempeñado actividades bajo distintos regímenes. Este trámite permite unificar los años de **aportes realizados en diferentes cajas** (ANSES, cajas provinciales, cajas de profesionales, etc.), otorgando validez a la historia laboral completa para que pueda ser presentada ante el organismo donde finalmente se gestionará el beneficio jubilatorio.
+
+Si necesitás acreditar períodos para iniciar una jubilación, consultá el servicio de [gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones).
+
+## Jubilaciones Docentes
+
+El régimen jubilatorio docente tiene particularidades que lo distinguen del régimen general: requisitos de edad diferenciados, cómputo especial de los años de servicio frente al aula y, en muchos casos, cajas previsionales provinciales propias que se rigen por normas distintas a las de ANSES.
+
+- **Docentes nacionales:** tramitan ante ANSES bajo el régimen de la Ley 24.016, que reconoce condiciones preferenciales de acceso.
+- **Docentes provinciales:** en las provincias con caja previsional propia (Buenos Aires, Córdoba, Entre Ríos, Corrientes, entre otras), el trámite se gestiona ante el organismo provincial correspondiente.
+- **Docentes universitarios:** según el tipo de designación y la universidad, pueden corresponder diferentes encuadres. Asesoro en la determinación del régimen aplicable y la maximización del haber.
+
+## Regímenes Diferenciales
+
+Determinadas actividades habilitan el acceso a la jubilación antes de la edad general, en reconocimiento del desgaste físico o del riesgo propio de esas tareas. Los principales regímenes diferenciales son:
+
+- **Tareas insalubres:** permiten jubilarse con menor edad y/o menos años de aportes, mediante el sistema de prorrateo de servicios comunes e insalubres.
+- **Industria de la construcción:** régimen propio a través de IERIC, con cómputo diferencial de los años de actividad.
+- **Transporte automotor:** choferes de larga distancia y transporte urbano tienen condiciones especiales de acceso.
+
+## Personal de Casas Particulares
+
+El personal doméstico tiene un régimen previsional propio regulado por la Ley 26.844. Sus aportes se realizan a través del formulario 102/RT y el sistema de AFIP, y con frecuencia presentan inconsistencias: empleadores que no registraron correctamente al trabajador, períodos no declarados o diferencias entre los aportes realizados y los efectivamente acreditados en ANSES.
+
+Gestiono el reconocimiento de servicios no registrados, la corrección de la historia laboral y el inicio del trámite jubilatorio ante ANSES para este colectivo, que muchas veces desconoce sus derechos previsionales.
+
+## Convenios Internacionales de Reciprocidad
+
+Argentina tiene acuerdos de reciprocidad previsional con varios países (España, Italia, Uruguay, Chile, Brasil, entre otros) que permiten acumular años de aportes realizados en distintos países para alcanzar los requisitos jubilatorios. Esto es especialmente relevante para personas que vivieron o trabajaron en el exterior durante parte de su vida laboral.
+
+Analizo qué convenio aplica en cada caso, cómo se articulan los aportes de ambos países y gestiono el trámite tanto ante ANSES como ante el organismo extranjero cuando corresponde.
+
+## Regularización de Deuda Previsional para Autónomos y Monotributistas
+
+Los trabajadores autónomos y monotributistas con períodos de deuda previsional pueden regularizarla para incorporar esos años al cómputo jubilatorio. El análisis de la deuda, las cuotas y el impacto en el haber final requiere un asesoramiento técnico que combine el aspecto impositivo con el previsional para encontrar la alternativa más conveniente en cada caso.
+
+Para revisar tu historia laboral y las alternativas antes de iniciar el trámite, consultá el servicio de [planificación previsional](https://mgabogado.com.ar/planificacion-previsional).
+
+## PUAM — Pensión Universal para el Adulto Mayor
+
+La PUAM es una prestación no contributiva destinada a personas de **65 años o más** que no tienen acceso a una jubilación o pensión contributiva. Equivale al 80% del haber mínimo jubilatorio e incluye cobertura de salud a través de PAMI.
+
+Especialmente tras el fin de la moratoria previsional, la PUAM se ha convertido en la principal alternativa para quienes no completan los años de aportes. Sin embargo, tiene limitaciones importantes respecto de la jubilación ordinaria: no genera derecho a pensión derivada para el cónyuge o hijos, y su monto es inferior al haber mínimo jubilatorio.
+
+## PNC — Pensiones No Contributivas
+
+Las Pensiones No Contributivas son prestaciones económicas para personas en situación de vulnerabilidad social que no tienen acceso a beneficios contributivos. ANSES otorga tres tipos principales:
+
+- **PNC por Invalidez:** para personas con incapacidad laboral del 66% o más, acreditada mediante Certificado Médico Oficial (CMO), menores de 65 años y en situación de vulnerabilidad social.
+- **PNC por Vejez:** para personas de 70 años o más, sin jubilación ni pensión, sin bienes o ingresos suficientes para subsistir.
+- **PNC para Madre de 7 Hijos:** para mujeres que tengan o hayan tenido 7 hijos o más, sin otros ingresos ni beneficios previsionales.
+
+La PNC por invalidez y el [retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez) son prestaciones distintas, con requisitos y procedimientos propios. La alternativa aplicable requiere analizar cada caso.
+
+## Amparos por Mora de ANSES
+
+Cuando ANSES demora injustificadamente la resolución de un expediente de jubilación, pensión u otro trámite previsional, existe una acción judicial específica: el **amparo por mora**. Esta herramienta obliga al organismo a expedirse en un plazo determinado perentorio, bajo apercibimiento de aplicación de multas diarias.
+
+Es habitual que los expedientes ante ANSES queden paralizados durante meses o años sin resolución. El amparo por mora es la vía más efectiva para destrabar esa situación y obtener una respuesta formal del organismo.
+
+#### ¿Tu caso está en esta lista?
+
+[Consultar por WhatsApp](https://wa.me/541130082030?text=Hola%20Dr.%20García,%20quiero%20consultar%20sobre%20un%20servicio%20previsional%20especial)
+
+[Completar formulario de consulta](https://mgabogado.com.ar/#contacto)
+
+El formulario permite preparar tu consulta y continuar por WhatsApp.
+
+o llamá al [+54 11 3008-2030](tel:+541130082030)
+
+#### Servicios principales
+
+- [Planificación previsional](https://mgabogado.com.ar/planificacion-previsional)
+- [Gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones)
+- [Pensiones por fallecimiento](https://mgabogado.com.ar/pensiones-por-fallecimiento)
+- [Reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes)
+- [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
+- [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
+- [Otros servicios](https://mgabogado.com.ar/otros-servicios-previsionales)
+
+#### Dr. Martín García
+
+T° 149 F° 191 CPACF
+
+Especialista exclusivo en Derecho Previsional y Seguridad Social. Atención en CABA y Buenos Aires. Consultas remotas cuando corresponda.
+
+## Contacto y atención
+
+#### Contacto Legal
+
+- Cobertura: CABA y Buenos Aires
+- +54 11 3008-2030
+- contacto@mgabogado.com.ar
+
+Entidad profesional: https://mgabogado.com.ar/#person
+

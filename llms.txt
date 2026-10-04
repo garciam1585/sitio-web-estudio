@@ -27,7 +27,7 @@
 - [Abogado Previsional en CABA y GBA](https://mgabogado.com.ar/abogado-previsional-buenos-aires.md)
 
 ## Archivo Completo
-- [Versión consolidada de todo el sitio](https://mgabogado.com.ar/llms-full.txt)
+- [Contenido de servicios y datos profesionales del sitio](https://mgabogado.com.ar/llms-full.txt)
 
 ## Recursos
 - https://mgabogado.com.ar/
@@ -48,3 +48,4 @@ Dr. Martín García
 ## Blog
 Artículos sobre legislación previsional argentina, ANSES, jubilaciones, pensiones, reajustes de haberes, regímenes especiales, fallos judiciales y novedades normativas.
 https://blog.mgabogado.com.ar/
+
