@@ -12,7 +12,7 @@ La jubilación ordinaria es el beneficio previsional al que accede una persona c
 
 Sin embargo, el sistema previsional argentino es complejo y contempla múltiples variantes: regímenes diferenciales para tareas insalubres o de fuerza, convenios internacionales de reciprocidad, regímenes docentes y provinciales, entre otros. Podés consultar estas situaciones en la página de [regímenes especiales y otros servicios previsionales](https://mgabogado.com.ar/otros-servicios-previsionales). Cada situación laboral puede dar lugar a una estrategia previsional distinta.
 
-**Importante:** Los requisitos de edad y aportes pueden variar según el tipo de actividad desarrollada. Quienes realizaron tareas en condiciones de insalubridad o riesgo pueden acceder al beneficio antes de la edad general. Es fundamental analizar la historia laboral completa antes de iniciar cualquier trámite.
+**Importante:** Los requisitos de edad y aportes pueden variar según el tipo de actividad desarrollada. Quienes realizaron tareas en condiciones de insalubridad o riesgo pueden acceder al beneficio antes de la edad general. Es fundamental [analizar la historia laboral](https://mgabogado.com.ar/planificacion-previsional) completa antes de iniciar cualquier trámite.
 
 ## ¿Qué es la moratoria previsional y cómo funciona?
 
@@ -58,7 +58,7 @@ Monitoreamos el estado del expediente en todas sus instancias, respondemos a ped
 
 ### Primer cobro y cierre
 
-Te acompañamos hasta verificar que el haber liquidado sea el correcto y que el primer cobro se efectúe sin inconvenientes. En caso de error en la liquidación inicial, actuamos de inmediato.
+Te acompañamos hasta verificar que el haber liquidado sea el correcto y que el primer cobro se efectúe sin inconvenientes. En caso de [error en la liquidación inicial](https://mgabogado.com.ar/reajuste-de-haberes), actuamos de inmediato.
 
 ## ¿Por qué conviene iniciar el trámite con un abogado previsional?
 
@@ -71,6 +71,8 @@ El sistema previsional argentino es uno de los más complejos del mundo en térm
 - Actuar de inmediato si el organismo demora, requiere documentación adicional o rechaza el trámite
 
 La jubilación es un beneficio que acompaña toda la vida. Un error en la liquidación inicial puede significar cobrar menos durante décadas sin saberlo. El asesoramiento letrado permite revisar los requisitos, evaluar alternativas y controlar la liquidación según los antecedentes de cada persona.
+
+Si al jubilarte surge un problema de continuidad de tu obra social o prepaga, podés consultar el servicio de [amparos de salud](https://mgabogado.com.ar/amparos-de-salud).
 
 ### Fuentes oficiales consultadas
 
@@ -96,6 +98,7 @@ o llamá al [+54 11 3008-2030](tel:+541130082030)
 - [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
 - [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
 - [Planificación previsional](https://mgabogado.com.ar/planificacion-previsional)
+- [Otros servicios previsionales](https://mgabogado.com.ar/otros-servicios-previsionales)
 
 #### Dr. Martín García — Abogado Previsional
 

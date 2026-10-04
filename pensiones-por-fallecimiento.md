@@ -41,7 +41,7 @@ En la pensión directa por fallecimiento de un trabajador activo, ANSES exige qu
 
 Si el causante no cumplía con los requisitos de regularidad, ANSES puede denegar el beneficio o liquidar un monto reducido. Sin embargo, existen alternativas legales:
 
-- Acreditar períodos de aportes no registrados mediante probatoria de servicios
+- Acreditar períodos de aportes no registrados mediante [probatoria de servicios](https://mgabogado.com.ar/otros-servicios-previsionales#reconocimiento-de-servicios)
 - Demostrar que existía relación laboral aunque los aportes no consten en los registros del organismo
 - Recurrir administrativamente o judicialmente la resolución denegatoria
 - Solicitar la aplicación de la normativa más favorable en función de la situación particular
@@ -106,6 +106,8 @@ Se prepara el legajo y se presenta ante ANSES con patrocinio letrado, revisando 
 
 Si ANSES demora, pide documentación adicional o rechaza el beneficio, se evalúan recursos administrativos o acción judicial según corresponda.
 
+Para demoras sin respuesta, podés consultar el apartado de [amparos por mora de ANSES](https://mgabogado.com.ar/otros-servicios-previsionales#amparo-por-mora). Si la pensión ya fue otorgada y la consulta se refiere al monto liquidado, revisá el servicio de [reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes).
+
 ## Obstáculos frecuentes que se analizan
 
 ### Divergencia de domicilios registrados
@@ -151,6 +153,7 @@ o llamá al [+54 11 3008-2030](tel:+541130082030)
 - [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
 - [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
 - [Planificación previsional](https://mgabogado.com.ar/planificacion-previsional)
+- [Otros servicios previsionales](https://mgabogado.com.ar/otros-servicios-previsionales)
 
 #### Dr. Martín García — Abogado Previsional
 

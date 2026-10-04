@@ -94,6 +94,7 @@ o llamá al [+54 11 3008-2030](tel:+541130082030)
 - [Reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes)
 - [Retiro por invalidez](https://mgabogado.com.ar/retiro-por-invalidez)
 - [Amparos de salud](https://mgabogado.com.ar/amparos-de-salud)
+- [Otros servicios previsionales](https://mgabogado.com.ar/otros-servicios-previsionales)
 
 #### Dr. Martín García
 
