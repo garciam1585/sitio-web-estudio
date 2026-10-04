@@ -32,17 +32,13 @@
 {
   "@context": "https://schema.org",
   "@graph": [
-
     {
       "@type": "Person",
       "@id": "https://mgabogado.com.ar/#person",
       "name": "Dr. Martín García",
-      "url": "https://mgabogado.com.ar/abogado-previsional-buenos-aires",
+      "url": "https://mgabogado.com.ar/",
       "image": "https://mgabogado.com.ar/images/FotoPerfil.webp",
       "jobTitle": "Abogado Previsional",
-      "worksFor": {
-        "@id": "https://mgabogado.com.ar/#organization"
-      },
       "knowsAbout": [
         "Derecho Previsional",
         "Derecho de la Seguridad Social",
@@ -58,147 +54,27 @@
       "sameAs": [
         "https://www.instagram.com/ab.martingarcia/",
         "https://www.facebook.com/AbogadoGarciaMartin/"
-      ]
-    },
-
-    {
-      "@type": [
-        "LegalService",
-        "Attorney",
-        "LocalBusiness"
       ],
-      "@id": "https://mgabogado.com.ar/#organization",
-      "name": "Dr. Martín García - Abogado Previsional en Buenos Aires",
-      "url": "https://mgabogado.com.ar/abogado-previsional-buenos-aires",
-      "description": "Estudio jurídico previsional en CABA y GBA especializado en jubilaciones, pensiones, reajustes de haberes y trámites ante ANSES.",
-
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
-      },
-
-      "image": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png",
-
+      "description": "Abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social en CABA y Buenos Aires.",
       "telephone": "+541130082030",
       "email": "contacto@mgabogado.com.ar",
-
-      "founder": {
-        "@id": "https://mgabogado.com.ar/#person"
-      },
-
-      "openingHours": "Mo-Fr 09:00-18:00",
-
-      "priceRange": "$$",
-
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "San Cristóbal",
         "addressLocality": "Buenos Aires",
         "addressRegion": "CABA",
         "addressCountry": "AR"
-      },
-
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": -34.6174548,
-        "longitude": -58.4005626
-      },
-
-      "areaServed": [
-        {
-          "@type": "City",
-          "name": "Ciudad Autónoma de Buenos Aires"
-        },
-        {
-          "@type": "AdministrativeArea",
-          "name": "Gran Buenos Aires"
-        }
-      ],
-
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+541130082030",
-        "contactType": "customer service",
-        "areaServed": "AR",
-        "availableLanguage": [
-          "es"
-        ]
-      },
-
-      "sameAs": [
-        "https://www.instagram.com/ab.martingarcia/",
-        "https://www.facebook.com/AbogadoGarciaMartin/"
-      ],
-
-      "hasOfferCatalog": {
-        "@type": "OfferCatalog",
-        "name": "Servicios Jurídicos Previsionales en Buenos Aires",
-        "itemListElement": [
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Planificación Previsional en CABA"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Gestión de Jubilaciones y ANSES"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Pensiones por Fallecimiento"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Reajuste de Haberes"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Retiro por Invalidez"
-            }
-          },
-
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Amparos de Salud"
-            }
-          }
-
-        ]
       }
-
     },
-
     {
       "@type": "WebSite",
       "@id": "https://mgabogado.com.ar/#website",
       "url": "https://mgabogado.com.ar/",
       "name": "Dr. Martín García - Abogado Previsional",
       "publisher": {
-        "@id": "https://mgabogado.com.ar/#organization"
+        "@id": "https://mgabogado.com.ar/#person"
       },
       "inLanguage": "es-AR"
     },
-
     {
       "@type": "WebPage",
       "@id": "https://mgabogado.com.ar/abogado-previsional-buenos-aires#webpage",
@@ -208,6 +84,9 @@
         "@id": "https://mgabogado.com.ar/#website"
       },
       "about": [
+        {
+          "@id": "https://mgabogado.com.ar/#person"
+        },
         {
           "@type": "DefinedTerm",
           "name": "Derecho Previsional en Buenos Aires"
@@ -230,44 +109,47 @@
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
-      }
+      },
+      "mainEntity": {
+        "@id": "https://mgabogado.com.ar/#person"
+      },
+      "inLanguage": "es-AR"
     }
-
   ]
 }
 </script>
     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "¿El Dr. Martín García atiende consultas en todo el Gran Buenos Aires?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Sí. Las consultas y el seguimiento de los casos se realizan de forma remota, por lo que atendemos a clientes en toda la Ciudad de Buenos Aires y el Gran Buenos Aires sin necesidad de trasladarse. Para quienes prefieren atención presencial, atendemos en San Cristóbal y en la zona de Tribunales, siempre con cita previa coordinada."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "¿Qué ventaja tiene contratar un abogado previsional en CABA para gestionar un trámite ante ANSES?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Los expedientes previsionales se tramitan principalmente ante las dependencias de ANSES en la Ciudad de Buenos Aires, incluyendo la sede central y las UDAI de la región. Contar con un abogado con presencia en CABA permite un seguimiento directo y ágil de los expedientes, reduciendo tiempos y evitando demoras burocráticas."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "¿Puedo iniciar el trámite de jubilación desde el Gran Buenos Aires sin ir a ANSES?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Sí. Con patrocinio letrado es posible gestionar gran parte del trámite de forma remota. Nos encargamos de las presentaciones ante ANSES en nombre del cliente, reduciendo al mínimo la necesidad de concurrir personalmente a las dependencias del organismo."
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "¿El Dr. Martín García atiende consultas en todo el Gran Buenos Aires?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí. Las consultas y el seguimiento de los casos se realizan de forma remota, por lo que atendemos a clientes en toda la Ciudad de Buenos Aires y el Gran Buenos Aires sin necesidad de trasladarse. Para quienes prefieren atención presencial, atendemos en San Cristóbal y en la zona de Tribunales, siempre con cita previa coordinada."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué ventaja tiene contratar un abogado previsional con base en CABA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los expedientes previsionales se tramitan principalmente ante las dependencias de ANSES en la Ciudad de Buenos Aires. Contar con un abogado con conocimiento directo del funcionamiento de esas dependencias permite un seguimiento más ágil y eficiente de los expedientes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Puedo iniciar el trámite de jubilación desde el GBA sin ir a ANSES?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí. Con patrocinio letrado es posible gestionar gran parte del trámite de forma remota. Nos encargamos de las presentaciones ante ANSES en nombre del cliente, reduciendo al mínimo la necesidad de concurrir personalmente al organismo."
+      }
     }
-    </script>
+  ]
+}
+</script>
 
     <link rel="preload" as="image" href="images/Logo.webp">
     <link rel="stylesheet" href="styles.css">
