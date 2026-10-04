@@ -69,4 +69,9 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Versión inglesa de la página principal -->
+  <url>
+    <loc>https://mgabogado.com.ar/en/</loc>
+  </url>
+
 </urlset>
