@@ -14,6 +14,8 @@ La ley establece un umbral de disminución de la capacidad laborativa del 66% o 
 
 La incapacidad puede tener origen laboral o no laboral. El retiro previsional y las prestaciones del sistema de riesgos del trabajo son regímenes distintos, con requisitos y procedimientos propios.
 
+Para consultas sobre [pensiones no contributivas](https://mgabogado.com.ar/otros-servicios-previsionales#pensiones-no-contributivas), revisá el apartado correspondiente en Otros Servicios Previsionales.
+
 Podés ampliar la información en el artículo sobre [los requisitos del retiro por invalidez](https://blog.mgabogado.com.ar/2026/06/requisitos-retiro-por-invalidez-anses.html).
 
 ## ¿Qué requisitos conviene analizar antes de iniciar el trámite?

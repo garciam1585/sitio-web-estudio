@@ -15,6 +15,8 @@ El reajuste de haberes es el reclamo mediante el cual un jubilado o pensionado e
 
 Especialistas del sector estiman que **la gran mayoría de los haberes jubilatorios en Argentina presentan algún tipo de error de liquidación**. Muchos jubilados cobran entre un 20% y un 60% menos de lo que les correspondería. La única forma de saberlo con certeza es analizando el expediente.
 
+Para solicitar un beneficio, consultá [gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones) o [pensiones por fallecimiento](https://mgabogado.com.ar/pensiones-por-fallecimiento), según el trámite que necesites iniciar.
+
 ## ¿Hay plazo para iniciar el reclamo?
 
 El derecho a solicitar la revisión de un haber jubilatorio o de pensión incorrectamente liquidado no se pierde por el mero paso del tiempo. Por eso, aunque hayan transcurrido años desde el otorgamiento del beneficio, puede evaluarse un reclamo de reajuste.
