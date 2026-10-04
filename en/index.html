@@ -41,26 +41,19 @@
     
     <!-- Schema.org JSON-LD for Google -->
     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-      "@context": "https://schema.org",
-      "@type": "Attorney",
+      "@type": "Person",
+      "@id": "https://mgabogado.com.ar/#person",
       "name": "Dr. Martín García",
-      "description": "Attorney specializing in Social Security Law in Buenos Aires",
-      "image": "https://mgabogado.com.ar/images/Logos/Martin Garcia Servicios Legales - Isotipo.jpg",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "San Cristóbal",
-        "addressRegion": "Buenos Aires",
-        "addressCountry": "AR"
-      },
-      "telephone": "+54-11-3008-2030",
-      "email": "garciam@gmail.com",
-      "url": "https://mgabogado.com.ar",
-      "priceRange": "$$",
-      "areaServed": {
-        "@type": "City",
-        "name": "Buenos Aires"
-      },
+      "url": "https://mgabogado.com.ar/",
+      "description": "Independent attorney practising Social Security Law in CABA and Buenos Aires. Consultations are primarily remote; in-person arrangements are assessed according to the matter.",
+      "jobTitle": "Social Security Attorney",
+      "image": "https://mgabogado.com.ar/images/FotoPerfil.webp",
+      "telephone": "+541130082030",
+      "email": "contacto@mgabogado.com.ar",
       "knowsAbout": [
         "Social Security Law",
         "Retirement Benefits",
@@ -71,9 +64,35 @@
       ],
       "sameAs": [
         "https://www.instagram.com/ab.martingarcia/",
-        "https://www.facebook.com/AbogadoGarciaMartin/"
+        "https://www.facebook.com/AbogadoGarciaMartin/",
+        "https://ar.linkedin.com/in/martin-gabriel-garcia"
       ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mgabogado.com.ar/#website",
+      "url": "https://mgabogado.com.ar/",
+      "name": "Dr. Martín García - Abogado Previsional",
+      "publisher": {
+        "@id": "https://mgabogado.com.ar/#person"
+      },
+      "inLanguage": "es-AR"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://mgabogado.com.ar/en#webpage",
+      "url": "https://mgabogado.com.ar/en",
+      "name": "Dr. Martín García - Social Security Attorney | Retirement Benefits & Pensions in Buenos Aires",
+      "isPartOf": {
+        "@id": "https://mgabogado.com.ar/#website"
+      },
+      "about": {
+        "@id": "https://mgabogado.com.ar/#person"
+      },
+      "inLanguage": "en"
     }
+  ]
+}
     </script>
 </head>
 <body>
@@ -121,7 +140,7 @@
                         <span class="hero__title-sub">Social Security Attorney</span>
                     </h1>
                     <p class="hero__description">
-                        We defend the value of your hard work. <br>Effective and practical legal solutions for Retirees and Pensioners. Your case, in expert hands.
+                        I provide legal advice on retirement benefits, pensions and matters before ANSES. <br>Consultations are primarily remote. In-person arrangements are assessed according to the matter.
                     </p>
                     <div class="hero__buttons">
                         <a href="#contacto" class="btn btn--primary">
@@ -130,7 +149,7 @@
                         </a>
                         <a href="#servicios" class="btn btn--secondary">
                             <i class="fas fa-info-circle"></i>
-                            Our Services
+                            Services
                         </a>
                     </div>
                 </div>
@@ -189,7 +208,7 @@
     <section class="services" id="servicios">
         <div class="container">
             <div class="section__header" data-aos="fade-up">
-                <span class="section__subtitle">Specialists in Social Security Law</span>
+                <span class="section__subtitle">Social Security Law</span>
                 <h2 class="section__title">Services</h2>
                 <p class="section__description">
                     Specialized legal advice on the Argentine pension system. 
@@ -377,7 +396,7 @@
                     <span class="section__subtitle">Specialized experience</span>
                     <h2 class="section__title">About Me:</h2>
                     <p class="about__text">
-                        In a regulatory context that is constantly changing, improvisation is costly. My professional practice 
+                        I practise independently as a social security attorney in Buenos Aires. My professional practice 
                         focuses exclusively on the <strong>Argentine pension system</strong>, which allows me to identify 
                         readjustment opportunities and retirement strategies that a generalist might overlook.
                     </p>
@@ -437,8 +456,8 @@
                             <i class="fas fa-map-marker-alt"></i>
                         </div>
                         <div class="contact__info-content">
-                            <h4>Location</h4>
-                            <p>San Cristóbal, Ciudad de Buenos Aires</p>
+                            <h4>Consultation arrangements</h4>
+                            <p>Primarily remote, serving CABA and Buenos Aires. In-person arrangements are assessed according to the matter and coordinated in advance.</p>
                         </div>
                     </div>
 
@@ -458,7 +477,7 @@
                         </div>
                         <div class="contact__info-content">
                             <h4>Email</h4>
-                            <p><a href="mailto:garciam@gmail.com">garciam@gmail.com</a></p>
+                            <p><a href="mailto:contacto@mgabogado.com.ar">contacto@mgabogado.com.ar</a></p>
                         </div>
                     </div>
 
@@ -519,18 +538,7 @@
                 </form>
             </div>
 
-            <!-- Map -->
-            <div class="contact__map" data-aos="fade-up">
-                <iframe 
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13139.344851089397!2d-58.40945!3d-34.62216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccb1c92e6bb8d%3A0x85b40f5e5ae3f2de!2sSan%20Crist%C3%B3bal%2C%20CABA!5e0!3m2!1ses!2sar!4v1234567890123!5m2!1ses!2sar"
-                    width="100%" 
-                    height="400" 
-                    style="border:0;" 
-                    allowfullscreen="" 
-                    loading="lazy" 
-                    referrerpolicy="no-referrer-when-downgrade">
-                </iframe>
-            </div>
+
         </div>
     </section>
 
@@ -618,7 +626,7 @@
                 <div class="footer__brand">
                     <img src="../images/Logo.webp" alt="Martín García Logo" class="footer__logo">
                     <p class="footer__text">
-                        Personalized, transparent, and effective legal service
+                        Independent social security attorney. Primarily remote consultations; in-person arrangements assessed according to the matter.
                     </p>
                     <div class="footer__social">
                         <a href="https://www.instagram.com/ab.martingarcia/" target="_blank" rel="noopener noreferrer" class="footer__social-link">
@@ -656,9 +664,9 @@
                 <div class="footer__contact">
                     <h4 class="footer__title">Contact</h4>
                     <ul class="footer__list">
-                        <li><i class="fas fa-map-marker-alt"></i> San Cristóbal, CABA</li>
+                        <li><i class="fas fa-map-marker-alt"></i> Service area: CABA and Buenos Aires</li>
                         <li><i class="fas fa-phone"></i> +54 11 3008-2030</li>
-                        <li><i class="fas fa-envelope"></i> garciam@gmail.com</li>
+                        <li><i class="fas fa-envelope"></i> contacto@mgabogado.com.ar</li>
                     </ul>
                 </div>
             </div>
