@@ -4,7 +4,7 @@
   <!-- Página principal -->
   <url>
     <loc>https://mgabogado.com.ar/</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -22,49 +22,49 @@
   <!-- Páginas de servicios -->
   <url>
     <loc>https://mgabogado.com.ar/planificacion-previsional</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mgabogado.com.ar/gestion-jubilaciones</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mgabogado.com.ar/pensiones-por-fallecimiento</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mgabogado.com.ar/reajuste-de-haberes</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mgabogado.com.ar/retiro-por-invalidez</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mgabogado.com.ar/amparos-de-salud</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mgabogado.com.ar/otros-servicios-previsionales</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -72,6 +72,7 @@
   <!-- Versión inglesa de la página principal -->
   <url>
     <loc>https://mgabogado.com.ar/en/</loc>
+    <lastmod>2026-10-04</lastmod>
   </url>
 
 </urlset>

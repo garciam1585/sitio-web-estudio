@@ -130,7 +130,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {
   "@context": "https://schema.org",
   "@graph": [
-
     {
       "@type": "Person",
       "@id": "https://mgabogado.com.ar/#person",
@@ -150,10 +149,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         "addressRegion": "CABA",
         "addressCountry": "AR"
       },
-      "areaServed": [
-        {"@type": "City", "name": "Ciudad Autónoma de Buenos Aires"},
-        {"@type": "Country", "name": "Argentina"}
-      ],
       "knowsAbout": [
         "Derecho Previsional",
         "Derecho de la Seguridad Social",
@@ -175,16 +170,121 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         "@type": "OfferCatalog",
         "name": "Servicios Jurídicos Previsionales",
         "itemListElement": [
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Planificación Previsional"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Gestión de Jubilaciones"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pensiones por Fallecimiento"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Reajuste de Haberes"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Retiro por Invalidez"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Amparos de Salud"}}
+          {
+            "@type": "Offer",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Ciudad Autónoma de Buenos Aires"
+              },
+              {
+                "@type": "Country",
+                "name": "Argentina"
+              }
+            ],
+            "itemOffered": {
+              "@id": "https://mgabogado.com.ar/planificacion-previsional#service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Ciudad Autónoma de Buenos Aires"
+              },
+              {
+                "@type": "Country",
+                "name": "Argentina"
+              }
+            ],
+            "itemOffered": {
+              "@id": "https://mgabogado.com.ar/gestion-jubilaciones#service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Ciudad Autónoma de Buenos Aires"
+              },
+              {
+                "@type": "Country",
+                "name": "Argentina"
+              }
+            ],
+            "itemOffered": {
+              "@id": "https://mgabogado.com.ar/pensiones-por-fallecimiento#service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Ciudad Autónoma de Buenos Aires"
+              },
+              {
+                "@type": "Country",
+                "name": "Argentina"
+              }
+            ],
+            "itemOffered": {
+              "@id": "https://mgabogado.com.ar/reajuste-de-haberes#service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Ciudad Autónoma de Buenos Aires"
+              },
+              {
+                "@type": "Country",
+                "name": "Argentina"
+              }
+            ],
+            "itemOffered": {
+              "@id": "https://mgabogado.com.ar/retiro-por-invalidez#service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Ciudad Autónoma de Buenos Aires"
+              },
+              {
+                "@type": "Country",
+                "name": "Argentina"
+              }
+            ],
+            "itemOffered": {
+              "@id": "https://mgabogado.com.ar/amparos-de-salud#service"
+            }
+          },
+          {
+            "@type": "Offer",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Ciudad Autónoma de Buenos Aires"
+              },
+              {
+                "@type": "Country",
+                "name": "Argentina"
+              }
+            ],
+            "itemOffered": {
+              "@id": "https://mgabogado.com.ar/otros-servicios-previsionales#service"
+            }
+          }
         ]
       }
     },
-
     {
       "@type": "WebSite",
       "@id": "https://mgabogado.com.ar/#website",
@@ -195,7 +295,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       },
       "inLanguage": "es-AR"
     },
-
     {
       "@type": "WebPage",
       "@id": "https://mgabogado.com.ar/#webpage",
@@ -205,7 +304,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         "@id": "https://mgabogado.com.ar/#website"
       },
       "about": [
-        {"@id": "https://mgabogado.com.ar/#person"},
+        {
+          "@id": "https://mgabogado.com.ar/#person"
+        },
         {
           "@type": "DefinedTerm",
           "name": "Derecho Previsional"
@@ -229,8 +330,70 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         "@type": "ImageObject",
         "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
       }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/planificacion-previsional#service",
+      "name": "Planificación Previsional",
+      "url": "https://mgabogado.com.ar/planificacion-previsional",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#person"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/gestion-jubilaciones#service",
+      "name": "Gestión de Jubilaciones y Moratorias",
+      "url": "https://mgabogado.com.ar/gestion-jubilaciones",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#person"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/pensiones-por-fallecimiento#service",
+      "name": "Gestión de Pensiones por Fallecimiento ante ANSES",
+      "url": "https://mgabogado.com.ar/pensiones-por-fallecimiento",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#person"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/reajuste-de-haberes#service",
+      "name": "Reajuste de Haberes Jubilatorios",
+      "url": "https://mgabogado.com.ar/reajuste-de-haberes",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#person"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/retiro-por-invalidez#service",
+      "name": "Gestión y Apelación de Retiro por Invalidez",
+      "url": "https://mgabogado.com.ar/retiro-por-invalidez",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#person"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/amparos-de-salud#service",
+      "name": "Amparos de Salud y Conservación de Cobertura",
+      "url": "https://mgabogado.com.ar/amparos-de-salud",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#person"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mgabogado.com.ar/otros-servicios-previsionales#service",
+      "name": "Otros Servicios Previsionales y de Seguridad Social",
+      "url": "https://mgabogado.com.ar/otros-servicios-previsionales",
+      "provider": {
+        "@id": "https://mgabogado.com.ar/#person"
+      }
     }
-
   ]
 }
 </script>
