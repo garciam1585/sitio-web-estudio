@@ -43,11 +43,10 @@
       "url": "https://mgabogado.com.ar/",
       "image": "https://mgabogado.com.ar/images/FotoPerfil.webp",
       "jobTitle": "Abogado Previsional",
-      "worksFor": {
-        "@id": "https://mgabogado.com.ar/#organization"
-      },
       "knowsAbout": [
         "Derecho Previsional",
+        "Derecho de la Seguridad Social",
+        "Gestión ante ANSES",
         "Jubilaciones Docentes",
         "Regímenes Diferenciales",
         "Convenios Internacionales",
@@ -55,72 +54,33 @@
       ],
       "sameAs": [
         "https://www.instagram.com/ab.martingarcia/",
-        "https://www.facebook.com/AbogadoGarciaMartin/"
-      ]
-    },
-    {
-      "@type": [
-        "LegalService",
-        "Attorney",
-        "LocalBusiness"
+        "https://www.facebook.com/AbogadoGarciaMartin/",
+        "https://ar.linkedin.com/in/martin-gabriel-garcia"
       ],
-      "@id": "https://mgabogado.com.ar/#organization",
-      "name": "Dr. Martín García - Abogado Previsional",
-      "url": "https://mgabogado.com.ar/",
-      "description": "Estudio jurídico especializado en regímenes diferenciales, jubilaciones docentes, convenios internacionales y prestaciones de seguridad social.",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
-      },
-      "image": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png",
+      "description": "Abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social en CABA y Buenos Aires.",
       "telephone": "+541130082030",
-      "email": "contacto@mgabogado.com.ar",
-      "founder": {
-        "@id": "https://mgabogado.com.ar/#person"
-      },
-      "openingHours": "Mo-Fr 09:00-18:00",
-      "priceRange": "$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "San Cristóbal",
-        "addressLocality": "Buenos Aires",
-        "addressRegion": "CABA",
-        "addressCountry": "AR"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": -34.6174548,
-        "longitude": -58.4005626
-      },
-      "areaServed": {
-        "@type": "Country",
-        "name": "Argentina"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+541130082030",
-        "contactType": "customer service",
-        "areaServed": "AR",
-        "availableLanguage": ["es"]
-      },
-      "sameAs": [
-        "https://www.instagram.com/ab.martingarcia/",
-        "https://www.facebook.com/AbogadoGarciaMartin/"
-      ]
+      "email": "contacto@mgabogado.com.ar"
     },
     {
       "@type": "Service",
       "@id": "https://mgabogado.com.ar/otros-servicios-previsionales#service",
       "name": "Servicios Previsionales Especiales y Regímenes Diferenciales",
       "provider": {
-        "@id": "https://mgabogado.com.ar/#organization"
+        "@id": "https://mgabogado.com.ar/#person"
       },
-      "areaServed": {
-        "@type": "Country",
-        "name": "Argentina"
-      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Ciudad Autónoma de Buenos Aires"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Provincia de Buenos Aires"
+        }
+      ],
       "description": "Asesoramiento en jubilaciones docentes, investigadores, regímenes diferenciales, convenios internacionales, PUAM y pensiones no contributivas.",
-      "serviceType": "Derecho Previsional"
+      "serviceType": "Derecho Previsional",
+      "url": "https://mgabogado.com.ar/otros-servicios-previsionales"
     },
     {
       "@type": "WebSite",
@@ -128,7 +88,7 @@
       "url": "https://mgabogado.com.ar/",
       "name": "Dr. Martín García - Abogado Previsional",
       "publisher": {
-        "@id": "https://mgabogado.com.ar/#organization"
+        "@id": "https://mgabogado.com.ar/#person"
       },
       "inLanguage": "es-AR"
     },
@@ -146,7 +106,11 @@
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://mgabogado.com.ar/images/Logos/Martin%20Garcia%20Servicios%20Legales%20-%20Isotipo.png"
-      }
+      },
+      "mainEntity": {
+        "@id": "https://mgabogado.com.ar/otros-servicios-previsionales#service"
+      },
+      "inLanguage": "es-AR"
     }
   ]
 }
@@ -264,7 +228,7 @@
     Otros Servicios<br><em>Previsionales</em> y de<br>Seguridad Social
 </h1>
             <p class="page-hero__desc">
-                El sistema previsional argentino contempla regímenes especiales, prestaciones no contributivas y situaciones complejas que requieren asesoramiento especializado. Analizamos cada caso y buscamos la solución jurídica más favorable.
+                El sistema previsional argentino contempla regímenes especiales, prestaciones no contributivas y situaciones complejas que requieren asesoramiento especializado. Analizo cada caso y busco la solución jurídica más favorable.
             </p>
             <div class="page-hero__badges">
                 <span class="badge-item"><i class="fas fa-check"></i> Jubilaciones docentes</span>
@@ -307,7 +271,7 @@ Además, el Reconocimiento de Servicios es la herramienta fundamental para quien
                             <ul>
                                 <li><strong>Docentes nacionales:</strong> tramitan ante ANSES bajo el régimen de la Ley 24.016, que reconoce condiciones preferenciales de acceso.</li>
                                 <li><strong>Docentes provinciales:</strong> en las provincias con caja previsional propia (Buenos Aires, Córdoba, Entre Ríos, Corrientes, entre otras), el trámite se gestiona ante el organismo provincial correspondiente.</li>
-                                <li><strong>Docentes universitarios:</strong> según el tipo de designación y la universidad, pueden corresponder diferentes encuadres. Asesoramos en la determinación del régimen aplicable y la maximización del haber.</li>
+                                <li><strong>Docentes universitarios:</strong> según el tipo de designación y la universidad, pueden corresponder diferentes encuadres. Asesoro en la determinación del régimen aplicable y la maximización del haber.</li>
                             </ul>
                             <div class="servicio-nota"><strong>Atención:</strong> Tener aportes en más de un régimen (nacional y provincial, o universitario y no universitario) requiere un análisis de compatibilidad y posible acumulación de beneficios.</div>
                         </div>
@@ -339,7 +303,7 @@ Además, el Reconocimiento de Servicios es la herramienta fundamental para quien
                         </div>
                         <div class="servicio-body">
                             <p>El personal doméstico tiene un régimen previsional propio regulado por la Ley 26.844. Sus aportes se realizan a través del formulario 102/RT y el sistema de AFIP, y con frecuencia presentan inconsistencias: empleadores que no registraron correctamente al trabajador, períodos no declarados o diferencias entre los aportes realizados y los efectivamente acreditados en ANSES.</p>
-                            <p>Gestionamos el reconocimiento de servicios no registrados, la corrección de la historia laboral y el inicio del trámite jubilatorio ante ANSES para este colectivo, que muchas veces desconoce sus derechos previsionales.</p>
+                            <p>Gestiono el reconocimiento de servicios no registrados, la corrección de la historia laboral y el inicio del trámite jubilatorio ante ANSES para este colectivo, que muchas veces desconoce sus derechos previsionales.</p>
                         </div>
                     </div>
 
@@ -351,7 +315,7 @@ Además, el Reconocimiento de Servicios es la herramienta fundamental para quien
                         </div>
                         <div class="servicio-body">
                             <p>Argentina tiene acuerdos de reciprocidad previsional con varios países (España, Italia, Uruguay, Chile, Brasil, entre otros) que permiten acumular años de aportes realizados en distintos países para alcanzar los requisitos jubilatorios. Esto es especialmente relevante para personas que vivieron o trabajaron en el exterior durante parte de su vida laboral.</p>
-                            <p>Analizamos qué convenio aplica en cada caso, cómo se articulan los aportes de ambos países y gestionamos el trámite tanto ante ANSES como ante el organismo extranjero cuando corresponde.</p>
+                            <p>Analizo qué convenio aplica en cada caso, cómo se articulan los aportes de ambos países y gestiono el trámite tanto ante ANSES como ante el organismo extranjero cuando corresponde.</p>
                         </div>
                     </div>
 
@@ -392,7 +356,7 @@ Además, el Reconocimiento de Servicios es la herramienta fundamental para quien
                                 <li><strong>PNC por Vejez:</strong> para personas de 70 años o más, sin jubilación ni pensión, sin bienes o ingresos suficientes para subsistir.</li>
                                 <li><strong>PNC para Madre de 7 Hijos:</strong> para mujeres que tengan o hayan tenido 7 hijos o más, sin otros ingresos ni beneficios previsionales.</li>
                             </ul>
-                            <div class="servicio-nota"><strong>Importante:</strong> Las PNC son incompatibles con otros beneficios previsionales y están sujetas a evaluación socioeconómica. Asesoramos sobre los requisitos específicos de cada tipo y gestionamos el trámite ante ANSES.</div>
+                            <div class="servicio-nota"><strong>Importante:</strong> Las PNC son incompatibles con otros beneficios previsionales y están sujetas a evaluación socioeconómica. Asesoro sobre los requisitos específicos de cada tipo y gestiono el trámite ante ANSES.</div>
                         </div>
                     </div>
 
@@ -405,7 +369,7 @@ Además, el Reconocimiento de Servicios es la herramienta fundamental para quien
                         <div class="servicio-body">
                             <p>Cuando ANSES demora injustificadamente la resolución de un expediente de jubilación, pensión u otro trámite previsional, existe una acción judicial específica: el <strong>amparo por mora</strong>. Esta herramienta obliga al organismo a expedirse en un plazo determinado perentorio, bajo apercibimiento de aplicación de multas diarias.</p>
                             <p>Es habitual que los expedientes ante ANSES queden paralizados durante meses o años sin resolución. El amparo por mora es la vía más efectiva para destrabar esa situación y obtener una respuesta formal del organismo.</p>
-                            <div class="servicio-nota"><strong>¿Cuándo corresponde?</strong> Cuando el organismo supera los plazos legales de resolución sin emitir acto administrativo y sin justificación válida. Analizamos cada caso antes de iniciar la acción.</div>
+                            <div class="servicio-nota"><strong>¿Cuándo corresponde?</strong> Cuando el organismo supera los plazos legales de resolución sin emitir acto administrativo y sin justificación válida. Analizo cada caso antes de iniciar la acción.</div>
                         </div>
                     </div>
 
@@ -440,7 +404,7 @@ Además, el Reconocimiento de Servicios es la herramienta fundamental para quien
                     <div class="sidebar-card" style="background:#1A2E40;color:#fff;">
                         <h4 style="color:#C9A84C;">Dr. Martín García</h4>
                         <p style="font-size:.88rem;color:#b8cede;line-height:1.6;margin-bottom:.5rem;">T° 149 F° 191 CPACF</p>
-                        <p style="font-size:.88rem;color:#b8cede;line-height:1.6;">Especialista exclusivo en Derecho Previsional y Seguridad Social. Atención presencial en San Cristóbal, CABA y asesoramiento remoto para todo el país.</p>
+                        <p style="font-size:.88rem;color:#b8cede;line-height:1.6;">Especialista exclusivo en Derecho Previsional y Seguridad Social. Atención en CABA y Buenos Aires. Consultas remotas cuando corresponda.</p>
                     </div>
                 </aside>
 
@@ -462,7 +426,7 @@ Además, el Reconocimiento de Servicios es la herramienta fundamental para quien
             <h2 style="color: #ffffff; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
             ¿Tu situación es <em>compleja</em>?
         </h2>
-            <p>Analizamos tu caso y te asesoramos sobre las opciones disponibles en el sistema previsional argentino.</p>
+            <p>Analizo tu caso y te asesoro sobre las opciones disponibles en el sistema previsional argentino.</p>
             <div class="cta-buttons">
                 <a href="https://wa.me/541130082030?text=Hola%20Dr.%20García,%20tengo%20una%20consulta%20sobre%20un%20servicio%20previsional%20especial" target="_blank" rel="noopener noreferrer" class="cta-btn-wsp">
                     <i class="fab fa-whatsapp"></i> Escribir por WhatsApp
@@ -483,7 +447,7 @@ Además, el Reconocimiento de Servicios es la herramienta fundamental para quien
                         <p><strong>Dr. Martín García — Abogado</strong></p>
                         <p>T° 149 F° 191 CPACF</p>
                         <p>Abogado previsional en Buenos Aires especializado en jubilaciones, pensiones, reajustes y trámites ANSES.</p>
-                        <p>Atención presencial en CABA y consultas online para toda Argentina.</p>
+                        <p>Atención en CABA y Buenos Aires. Consultas remotas cuando corresponda.</p>
                     </div>
                     <div class="footer__social">
                         <a href="https://www.instagram.com/ab.martingarcia/" target="_blank" rel="noopener noreferrer" class="footer__social-link" title="Instagram"><i class="fab fa-instagram"></i></a>
@@ -505,7 +469,7 @@ Además, el Reconocimiento de Servicios es la herramienta fundamental para quien
                 <div class="footer__contact">
                     <h4 class="footer__title">Contacto Legal</h4>
                     <ul class="footer__list">
-                        <li><i class="fas fa-map-marker-alt"></i> San Cristóbal, CABA</li>
+                        <li><i class="fas fa-map-marker-alt"></i> Cobertura: CABA y Buenos Aires</li>
                         <li><i class="fas fa-phone"></i> +54 11 3008-2030</li>
                         <li><i class="fas fa-envelope"></i> contacto@mgabogado.com.ar</li>
                     </ul>
