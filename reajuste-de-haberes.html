@@ -35,7 +35,7 @@
         .badge-item{background:rgba(201,168,76,.15);border:1px solid rgba(201,168,76,.35);color:#C9A84C;font-size:.8rem;padding:.3rem .9rem;border-radius:20px}
         .page-content{padding:3.5rem 0}
         .content-grid{display:grid;grid-template-columns:1fr 320px;gap:3rem;align-items:start}
-        @media(max-width:768px){.content-grid{grid-template-columns:1fr}.sidebar{order:-1}}
+        @media(max-width:768px){.content-grid{grid-template-columns:1fr}.content-grid > .sidebar { order:0; position:static; }}
         .article h2{font-family:'Merriweather',Georgia,serif;font-size:1.4rem;font-weight:700;color:#1A2E40;margin:2rem 0 .8rem;padding-bottom:.5rem;border-bottom:2px solid #C9A84C;display:inline-block}
         .article p{font-size:1rem;line-height:1.8;color:#444;margin-bottom:1rem}
         .article ul{margin:.5rem 0 1rem 1.2rem;color:#444}
@@ -51,12 +51,12 @@
         .reclamo-item{background:#fff;border:1px solid #e4e8ec;border-radius:10px;padding:1rem 1.2rem;display:flex;gap:1rem;align-items:flex-start}
         .reclamo-icon{min-width:36px;height:36px;background:#1A2E40;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
         .reclamo-icon i{color:#C9A84C;font-size:.95rem}
-        .reclamo-body h4{font-size:.95rem;font-weight:700;color:#1A2E40;margin-bottom:.25rem}
+        .reclamo-body h3 {font-size:.95rem;font-weight:700;color:#1A2E40;margin-bottom:.25rem; margin-top:0; }
         .reclamo-body p{font-size:.9rem;color:#555;line-height:1.65;margin:0}
         .steps{margin:1.5rem 0}
         .step{display:flex;gap:1.2rem;margin-bottom:1rem;align-items:flex-start}
         .step__num{min-width:34px;height:34px;background:#1A2E40;color:#C9A84C;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:.88rem;flex-shrink:0}
-        .step__text h4{font-size:.96rem;font-weight:700;color:#1A2E40;margin-bottom:.2rem}
+        .step__text h3 {font-size:.96rem;font-weight:700;color:#1A2E40;margin-bottom:.2rem; margin-top:0; }
         .step__text p{font-size:.92rem;color:#555;line-height:1.6;margin:0}
         .sidebar{display:flex;flex-direction:column;gap:1.2rem;position:sticky;top:100px}
         .sidebar-card{background:#fff;border:1px solid #e4e8ec;border-radius:12px;padding:1.4rem;box-shadow:0 2px 12px rgba(0,0,0,.05)}
@@ -179,42 +179,42 @@
                         <div class="reclamo-item">
                             <div class="reclamo-icon"><i class="fas fa-calculator"></i></div>
                             <div class="reclamo-body">
-                                <h4>Reajuste de la PBU</h4>
+                                <h3>Reajuste de la PBU</h3>
                                 <p>La Prestación Básica Universal es un componente fijo del haber jubilatorio que debe actualizarse por movilidad. Cuando esa actualización no se aplica correctamente, la PBU pierde valor real con el tiempo y puede dar lugar a un reclamo específico de recomposición.</p>
                             </div>
                         </div>
                         <div class="reclamo-item">
                             <div class="reclamo-icon"><i class="fas fa-chart-bar"></i></div>
                             <div class="reclamo-body">
-                                <h4>Actualización de remuneraciones</h4>
+                                <h3>Actualización de remuneraciones</h3>
                                 <p>El haber inicial se calcula tomando un promedio de los últimos salarios del trabajador. Si ANSES actualizó esos salarios históricos con índices que no reflejan la evolución real de los ingresos, el haber resultante es inferior al que correspondería. Este es uno de los reclamos más frecuentes y con mayor impacto económico.</p>
                             </div>
                         </div>
                         <div class="reclamo-item">
                             <div class="reclamo-icon"><i class="fas fa-user-tie"></i></div>
                             <div class="reclamo-body">
-                                <h4>Reajuste de autónomos</h4>
+                                <h3>Reajuste de autónomos</h3>
                                 <p>Los trabajadores que aportaron como autónomos o monotributistas tienen una forma de cálculo diferente a la de los trabajadores en relación de dependencia. Es frecuente que ANSES no compute correctamente esos aportes o los actualice de forma deficiente, dando lugar a un reclamo específico para este colectivo.</p>
                             </div>
                         </div>
                         <div class="reclamo-item">
                             <div class="reclamo-icon"><i class="fas fa-file-invoice-dollar"></i></div>
                             <div class="reclamo-body">
-                                <h4>Reclamo por rubros no remunerativos</h4>
+                                <h3>Reclamo por rubros no remunerativos</h3>
                                 <p>Durante la vida laboral activa, muchos trabajadores percibieron conceptos catalogados como "no remunerativos" — horas extras habituales, premios, comisiones regulares, adicionales por convenio. Estos rubros generalmente no se incorporan al cálculo del haber jubilatorio aunque su percepción era regular y previsible. Su exclusión puede ser cuestionada.</p>
                             </div>
                         </div>
                         <div class="reclamo-item">
                             <div class="reclamo-icon"><i class="fas fa-unlock"></i></div>
                             <div class="reclamo-body">
-                                <h4>Liberación de topes</h4>
+                                <h3>Liberación de topes</h3>
                                 <p>El sistema previsional aplica topes al cálculo del haber: a las remuneraciones imponibles, a la prestación compensatoria, al haber máximo. Estos límites pueden resultar confiscatorios para quienes tuvieron salarios altos durante su vida activa. En sede judicial es posible cuestionar su aplicación y obtener un haber que refleje mejor los aportes realizados.</p>
                             </div>
                         </div>
                         <div class="reclamo-item">
                             <div class="reclamo-icon"><i class="fas fa-percentage"></i></div>
                             <div class="reclamo-body">
-                                <h4>Reclamo por Ganancias</h4>
+                                <h3>Reclamo por Ganancias</h3>
                                 <p>Históricamente, muchos jubilados tributaron Impuesto a las Ganancias sobre sus haberes previsionales. Existe jurisprudencia que reconoce el derecho a reclamar la devolución de esos montos retenidos en determinados períodos, cuando la aplicación del impuesto resultó confiscatoria o violatoria del carácter sustitutivo del haber jubilatorio.</p>
                             </div>
                         </div>
@@ -225,28 +225,28 @@
                         <div class="step">
                             <div class="step__num">1</div>
                             <div class="step__text">
-                                <h4>Auditoría técnica del haber</h4>
+                                <h3>Auditoría técnica del haber</h3>
                                 <p>Analizo el expediente de ANSES, las remuneraciones tomadas, los índices de actualización aplicados, los rubros incluidos y excluidos, y los topes aplicados. Evalúo si existen diferencias y por qué conceptos.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">2</div>
                             <div class="step__text">
-                                <h4>Reclamo administrativo ante ANSES</h4>
+                                <h3>Reclamo administrativo ante ANSES</h3>
                                 <p>Presento el reclamo formal ante el organismo. La respuesta suele ser denegatoria — es el paso necesario para habilitar la vía judicial.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">3</div>
                             <div class="step__text">
-                                <h4>Demanda judicial</h4>
+                                <h3>Demanda judicial</h3>
                                 <p>Inicio la acción ante el fuero federal de la seguridad social. En esta instancia interviene un perito contable que reconstruye la historia laboral y calcula el haber correcto.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">4</div>
                             <div class="step__text">
-                                <h4>Sentencia y cobro del retroactivo</h4>
+                                <h3>Sentencia y cobro del retroactivo</h3>
                                 <p>Si la sentencia hace lugar al reclamo, ANSES debe cumplir el reajuste y abonar las diferencias reconocidas, por los períodos y en las condiciones establecidos en la resolución judicial.</p>
                             </div>
                         </div>

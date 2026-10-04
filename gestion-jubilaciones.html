@@ -234,7 +234,7 @@
         }
         @media (max-width: 768px) {
             .content-grid { grid-template-columns: 1fr; }
-            .sidebar { order: -1; }
+            .content-grid > .sidebar { order:0; position:static; }
         }
 
         /* ── Texto del artículo ── */
@@ -312,7 +312,7 @@
             font-size: 0.9rem;
             flex-shrink: 0;
         }
-        .step__text h4 { font-size: 0.97rem; font-weight: 700; color: #1A2E40; margin-bottom: 0.2rem; }
+        .step__text h3 {font-size: 0.97rem; font-weight: 700; color: #1A2E40; margin-bottom: 0.2rem; margin-top:0; }
         .step__text p { font-size: 0.93rem; color: #555; line-height: 1.6; margin: 0; }
 
         /* ── Sidebar ── */
@@ -475,7 +475,7 @@
         <nav class="nav container">
             <div class="nav__brand">
                 <img src="images/Logo.webp" alt="Dr. Martín García - Abogado previsional en Buenos Aires" class="nav__logo">
-                <span class="nav__name">Dr. Martín García — Abogado Previsional</span>
+                <span class="nav__name">Abogado Martín García</span>
             </div>
             <div class="nav__menu" id="nav-menu">
                 <ul class="nav__list">
@@ -581,35 +581,35 @@
                         <div class="step">
                             <div class="step__num">1</div>
                             <div class="step__text">
-                                <h4>Análisis de historia laboral</h4>
+                                <h3>Análisis de historia laboral</h3>
                                 <p>Revisamos tu CUIL en los sistemas de ANSES y AFIP, detectamos aportes registrados, períodos faltantes y posibles errores en la base de datos del organismo.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">2</div>
                             <div class="step__text">
-                                <h4>Estrategia previsional personalizada</h4>
+                                <h3>Estrategia previsional personalizada</h3>
                                 <p>En función de tu situación concreta diseñamos la mejor alternativa: jubilación ordinaria, con moratoria, reconocimiento de servicios, régimen especial u otras opciones aplicables.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">3</div>
                             <div class="step__text">
-                                <h4>Armado del expediente</h4>
+                                <h3>Armado del expediente</h3>
                                 <p>Reunimos la documentación necesaria, preparamos el legajo completo y presentamos el expediente ante ANSES con el patrocinio letrado correspondiente.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">4</div>
                             <div class="step__text">
-                                <h4>Seguimiento riguroso</h4>
+                                <h3>Seguimiento riguroso</h3>
                                 <p>Monitoreamos el estado del expediente en todas sus instancias, respondemos a pedidos de documentación adicional y actuamos ante cualquier demora o irregularidad.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">5</div>
                             <div class="step__text">
-                                <h4>Primer cobro y cierre</h4>
+                                <h3>Primer cobro y cierre</h3>
                                 <p>Te acompañamos hasta verificar que el haber liquidado sea el correcto y que el primer cobro se efectúe sin inconvenientes. En caso de error en la liquidación inicial, actuamos de inmediato.</p>
                             </div>
                         </div>

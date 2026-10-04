@@ -191,7 +191,7 @@
 
         .page-content { padding:3.5rem 0; }
         .content-grid { display:grid; grid-template-columns:1fr 320px; gap:3rem; align-items:start; }
-        @media(max-width:768px){ .content-grid{grid-template-columns:1fr;} .sidebar{order:-1;} }
+        @media(max-width:768px){ .content-grid{grid-template-columns:1fr;} .content-grid > .sidebar { order:0; position:static; } }
 
         .article h2 { font-family:'Merriweather',Georgia,serif; font-size:1.4rem; font-weight:700; color:#1A2E40; margin:2rem 0 .8rem; padding-bottom:.5rem; border-bottom:2px solid #C9A84C; display:inline-block; }
         .article h3 { font-size:1.05rem; font-weight:700; color:#1A2E40; margin:1.5rem 0 .5rem; }
@@ -225,13 +225,13 @@
         .obstacle-list { display:flex; flex-direction:column; gap:.8rem; margin:1.2rem 0; }
         .obstacle-item { background:#fff; border:1px solid #e4e8ec; border-radius:10px; padding:1rem 1.2rem; display:flex; gap:1rem; align-items:flex-start; }
         .obstacle-icon { font-size:1.3rem; flex-shrink:0; margin-top:.1rem; }
-        .obstacle-text h4 { font-size:.95rem; font-weight:700; color:#1A2E40; margin-bottom:.3rem; }
+        .obstacle-text h3 {font-size:.95rem; font-weight:700; color:#1A2E40; margin-bottom:.3rem; margin-top:0; }
         .obstacle-text p { font-size:.9rem; color:#555; line-height:1.65; margin:0; }
 
         .steps { margin:1.5rem 0; }
         .step { display:flex; gap:1.2rem; margin-bottom:1.2rem; align-items:flex-start; }
         .step__num { min-width:36px; height:36px; background:#1A2E40; color:#C9A84C; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:.9rem; flex-shrink:0; }
-        .step__text h4 { font-size:.97rem; font-weight:700; color:#1A2E40; margin-bottom:.2rem; }
+        .step__text h3 {font-size:.97rem; font-weight:700; color:#1A2E40; margin-bottom:.2rem; margin-top:0; }
         .step__text p { font-size:.93rem; color:#555; line-height:1.6; margin:0; }
 
         .sidebar { display:flex; flex-direction:column; gap:1.2rem; position:sticky; top:100px; }
@@ -282,7 +282,7 @@
         <nav class="nav container">
             <div class="nav__brand">
                 <img src="images/Logo.webp" alt="Dr. Martín García - Abogado previsional en Buenos Aires" class="nav__logo">
-                <span class="nav__name">Dr. Martín García — Abogado Previsional</span>
+                <span class="nav__name">Abogado Martín García</span>
             </div>
             <div class="nav__menu" id="nav-menu">
                 <ul class="nav__list">
@@ -450,35 +450,35 @@
                         <div class="step">
                             <div class="step__num">1</div>
                             <div class="step__text">
-                                <h4>Análisis del caso</h4>
+                                <h3>Análisis del caso</h3>
                                 <p>Evaluamos el tipo de pensión (directa o derivada), el vínculo del solicitante con el causante, la situación de aportes y los posibles obstáculos. La estrategia se define a partir del análisis de la información disponible.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">2</div>
                             <div class="step__text">
-                                <h4>Relevamiento de documentación</h4>
+                                <h3>Relevamiento de documentación</h3>
                                 <p>Determinamos exactamente qué documentos se necesitan en función del caso: actas de matrimonio o convivencia, partidas de nacimiento, historial de aportes del causante, documentación domiciliaria, etc.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">3</div>
                             <div class="step__text">
-                                <h4>Estrategia probatoria para convivientes</h4>
+                                <h3>Estrategia probatoria para convivientes</h3>
                                 <p>Si el solicitante es conviviente, diseñamos la estrategia de acreditación: información sumaria judicial, declaraciones testimoniales y documentación de respaldo para abordar la divergencia de domicilios si existe.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">4</div>
                             <div class="step__text">
-                                <h4>Presentación del expediente</h4>
+                                <h3>Presentación del expediente</h3>
                                 <p>Se prepara el legajo y se presenta ante ANSES con patrocinio letrado, revisando la documentación disponible y los requisitos aplicables al caso.</p>
                             </div>
                         </div>
                         <div class="step">
                             <div class="step__num">5</div>
                             <div class="step__text">
-                                <h4>Seguimiento y respuesta a rechazos</h4>
+                                <h3>Seguimiento y respuesta a rechazos</h3>
                                 <p>Si ANSES demora, pide documentación adicional o rechaza el beneficio, se evalúan recursos administrativos o acción judicial según corresponda.</p>
                             </div>
                         </div>
@@ -489,35 +489,35 @@
                         <div class="obstacle-item">
                             <div class="obstacle-icon">🏠</div>
                             <div class="obstacle-text">
-                                <h4>Divergencia de domicilios registrados</h4>
+                                <h3>Divergencia de domicilios registrados</h3>
                                 <p>ANSES cuestiona la convivencia porque el DNI o el padrón muestran domicilios distintos. Se evalúan los medios probatorios disponibles para acreditar la cohabitación real.</p>
                             </div>
                         </div>
                         <div class="obstacle-item">
                             <div class="obstacle-icon">📋</div>
                             <div class="obstacle-text">
-                                <h4>Falta de regularidad de aportes</h4>
+                                <h3>Falta de regularidad de aportes</h3>
                                 <p>El causante no cumplía los requisitos de regularidad al fallecer. Evaluamos vías para acreditar aportes no registrados o impugnar la denegación con fundamento jurídico.</p>
                             </div>
                         </div>
                         <div class="obstacle-item">
                             <div class="obstacle-icon">💍</div>
                             <div class="obstacle-text">
-                                <h4>Coexistencia de cónyuge y conviviente</h4>
+                                <h3>Coexistencia de cónyuge y conviviente</h3>
                                 <p>Cuando el causante estaba casado pero separado de hecho y tenía una nueva pareja conviviente. Analizamos la situación para determinar quién tiene derecho y en qué proporción.</p>
                             </div>
                         </div>
                         <div class="obstacle-item">
                             <div class="obstacle-icon">⏱</div>
                             <div class="obstacle-text">
-                                <h4>Insuficiente tiempo de convivencia acreditado</h4>
+                                <h3>Insuficiente tiempo de convivencia acreditado</h3>
                                 <p>ANSES cuestiona si la convivencia cumple el mínimo legal de 2 o 5 años. Recopilamos la prueba documental y testimonial necesaria para acreditarlo.</p>
                             </div>
                         </div>
                         <div class="obstacle-item">
                             <div class="obstacle-icon">👶</div>
                             <div class="obstacle-text">
-                                <h4>Pensión para hijos con situaciones especiales</h4>
+                                <h3>Pensión para hijos con situaciones especiales</h3>
                                 <p>Hijos mayores con incapacidad o hijos extramatrimoniales no reconocidos. Cada situación requiere documentación y estrategia específica.</p>
                             </div>
                         </div>

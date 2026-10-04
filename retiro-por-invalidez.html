@@ -190,7 +190,7 @@
 
         .page-content { padding:3.5rem 0; }
         .content-grid { display:grid; grid-template-columns:1fr 320px; gap:3rem; align-items:start; }
-        @media(max-width:768px){ .content-grid{grid-template-columns:1fr;} .sidebar{order:-1;} }
+        @media(max-width:768px){ .content-grid{grid-template-columns:1fr;} .content-grid > .sidebar { order:0; position:static; } }
 
         .article h2 { font-family:'Merriweather',Georgia,serif; font-size:1.4rem; font-weight:700; color:#1A2E40; margin:2rem 0 .8rem; padding-bottom:.5rem; border-bottom:2px solid #C9A84C; display:inline-block; }
         .article h3 { font-size:1.05rem; font-weight:700; color:#1A2E40; margin:1.5rem 0 .5rem; }

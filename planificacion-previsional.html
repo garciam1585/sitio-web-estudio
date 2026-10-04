@@ -215,7 +215,7 @@
 
         .page-content { padding:3.5rem 0; }
         .content-grid { display:grid; grid-template-columns:1fr 320px; gap:3rem; align-items:start; }
-        @media(max-width:768px){ .content-grid{grid-template-columns:1fr;} .sidebar{order:-1;} }
+        @media(max-width:768px){ .content-grid{grid-template-columns:1fr;} .content-grid > .sidebar { order:0; position:static; } }
 
         .article h2 { font-family:'Merriweather',Georgia,serif; font-size:1.4rem; font-weight:700; color:#1A2E40; margin:2rem 0 .8rem; padding-bottom:.5rem; border-bottom:2px solid #C9A84C; display:inline-block; }
         .article h3 { font-size:1.05rem; font-weight:700; color:#1A2E40; margin:1.5rem 0 .5rem; }
@@ -237,7 +237,7 @@
         .tl-dot { min-width:38px; height:38px; border-radius:50%; background:#1A2E40; border:3px solid #C9A84C; display:flex; align-items:center; justify-content:center; flex-shrink:0; z-index:1; }
         .tl-dot i { color:#C9A84C; font-size:.9rem; }
         .tl-content { padding-top:.4rem; }
-        .tl-content h4 { font-size:.97rem; font-weight:700; color:#1A2E40; margin-bottom:.3rem; }
+        .tl-content h3 {font-size:.97rem; font-weight:700; color:#1A2E40; margin-bottom:.3rem; margin-top:0; }
         .tl-content p { font-size:.92rem; color:#555; line-height:1.65; margin:0; }
         .tl-age { display:inline-block; font-size:.75rem; font-weight:700; background:#C9A84C; color:#1A2E40; padding:.1rem .6rem; border-radius:10px; margin-bottom:.4rem; }
 
@@ -246,7 +246,7 @@
         @media(max-width:500px){ .benefits-grid{grid-template-columns:1fr;} }
         .benefit-card { background:#f8fafb; border:1px solid #e4e8ec; border-radius:10px; padding:1rem 1.1rem; }
         .benefit-card i { color:#C9A84C; font-size:1.2rem; margin-bottom:.5rem; display:block; }
-        .benefit-card h4 { font-size:.9rem; font-weight:700; color:#1A2E40; margin-bottom:.3rem; }
+        .benefit-card h3 {font-size:.9rem; font-weight:700; color:#1A2E40; margin-bottom:.3rem; margin-top:0; }
         .benefit-card p { font-size:.85rem; color:#666; line-height:1.6; margin:0; }
 
         /* Moratoria highlight */
@@ -366,22 +366,22 @@
                     <div class="benefits-grid">
                         <div class="benefit-card">
                             <i class="fas fa-search"></i>
-                            <h4>Detectar errores a tiempo</h4>
+                            <h3>Detectar errores a tiempo</h3>
                             <p>Los registros de ANSES suelen tener inconsistencias. Identificarlas antes del trámite evita rechazos y demoras.</p>
                         </div>
                         <div class="benefit-card">
                             <i class="fas fa-chart-line"></i>
-                            <h4>Maximizar el haber</h4>
+                            <h3>Maximizar el haber</h3>
                             <p>Más años de aportes reconocidos y salarios correctamente registrados se traducen en un haber mensual más alto.</p>
                         </div>
                         <div class="benefit-card">
                             <i class="fas fa-calendar-check"></i>
-                            <h4>Acceder antes</h4>
+                            <h3>Acceder antes</h3>
                             <p>Con la estrategia correcta es posible acceder al beneficio antes de lo previsto, sin esperar a cumplir todos los requisitos del régimen general.</p>
                         </div>
                         <div class="benefit-card">
                             <i class="fas fa-shield-alt"></i>
-                            <h4>Evitar sorpresas</h4>
+                            <h3>Evitar sorpresas</h3>
                             <p>Llegar a la edad jubilatoria y descubrir que faltan aportes sin tiempo de regularizarlos es una situación prevenible.</p>
                         </div>
                     </div>
@@ -396,7 +396,7 @@
                             <div class="tl-dot"><i class="fas fa-flag"></i></div>
                             <div class="tl-content">
                                 <span class="tl-age">Mujeres ~50 años · Hombres ~55 años</span>
-                                <h4>Primer diagnóstico previsional</h4>
+                                <h3>Primer diagnóstico previsional</h3>
                                 <p>Revisamos cuántos años de aportes tenés registrados en ANSES, detectamos períodos faltantes y evaluamos si existen moratorias u otras vías disponibles para completarlos.</p>
                             </div>
                         </div>
@@ -404,7 +404,7 @@
                             <div class="tl-dot"><i class="fas fa-tools"></i></div>
                             <div class="tl-content">
                                 <span class="tl-age">3 a 5 años antes</span>
-                                <h4>Corrección de inconsistencias</h4>
+                                <h3>Corrección de inconsistencias</h3>
                                 <p>Iniciamos la probatoria de servicios para períodos trabajados en negro, corregimos errores en la historia laboral y gestionamos la regularización de deudas autónomas o de monotributo si corresponde.</p>
                             </div>
                         </div>
@@ -412,7 +412,7 @@
                             <div class="tl-dot"><i class="fas fa-rocket"></i></div>
                             <div class="tl-content">
                                 <span class="tl-age">Al alcanzar la edad</span>
-                                <h4>Inicio del trámite jubilatorio</h4>
+                                <h3>Inicio del trámite jubilatorio</h3>
                                 <p>Con la historia laboral ordenada y los aportes completos, el inicio del expediente ante ANSES es más simple, más rápido y con menores chances de rechazo o demora.</p>
                             </div>
                         </div>
