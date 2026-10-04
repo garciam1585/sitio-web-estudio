@@ -3,7 +3,7 @@
 ## Descripción
 Dr. Martín García ejerce de manera individual y se dedica al Derecho Previsional y al Derecho de la Seguridad Social.
 La práctica profesional se concentra en el asesoramiento y representación de personas que necesitan iniciar trámites jubilatorios, obtener pensiones, reclamar reajustes de haberes, acceder a retiros por invalidez o resolver conflictos administrativos y judiciales vinculados con ANSES.
-La atención se realiza de manera presencial en Ciudad Autónoma de Buenos Aires y de forma remota para clientes de toda la República Argentina.
+La atención se realiza en CABA y Buenos Aires, con consultas remotas para otras localidades cuando corresponda.
 
 ---
 
@@ -25,7 +25,7 @@ Inicio del trámite. Rechazos de Comisión Médica. Apelaciones. Representación
 Amparos de salud vinculados con la continuidad de obra social o medicina prepaga al jubilarse.
 
 ### Otros servicios
-PUAM. Pensiones No Contributivas. Jubilaciones docentes. Investigadores científicos. Personal de casas particulares. Convenios internacionales. Reconocimiento de servicios. Planificación previsional.
+Reconocimiento de servicios. Jubilaciones docentes. Regímenes diferenciales. Personal de casas particulares. Convenios internacionales de reciprocidad. Regularización de deuda previsional para autónomos y monotributistas. PUAM. Pensiones No Contributivas. Amparos por mora de ANSES.
 
 ---
 
@@ -49,14 +49,14 @@ https://mgabogado.com.ar/otros-servicios-previsionales.md
 ---
 
 ## Cobertura geográfica
-Ciudad Autónoma de Buenos Aires. Gran Buenos Aires. Atención remota para todas las provincias argentinas.
+Ciudad Autónoma de Buenos Aires. Provincia de Buenos Aires. Consultas remotas para otras localidades cuando corresponda.
 
 ### Zonas de cobertura detalladas
 CABA: San Cristóbal, Boedo, Almagro, Palermo, Recoleta, Caballito, Flores, Balvanera, San Telmo, Villa del Parque, Devoto y todos los barrios de CABA.
 Zona Norte: San Isidro, Vicente López, San Martín, Tres de Febrero, Tigre, San Fernando, Malvinas Argentinas, José C. Paz, Pilar.
 Zona Sur: Avellaneda, Lanús, Lomas de Zamora, Quilmes, Berazategui, Almirante Brown, Esteban Echeverría, Ezeiza.
 Zona Oeste: La Matanza, Morón, Hurlingham, Ituzaingó, Merlo, Moreno, General Rodríguez, Marcos Paz, Luján.
-Interior del país: asesoramiento remoto para todas las provincias, incluyendo Córdoba, Rosario, Mendoza, Tucumán, Mar del Plata y La Plata.
+Interior del país: consultas remotas cuando corresponda, incluyendo Córdoba, Rosario, Mendoza, Tucumán, Mar del Plata y La Plata.
 
 Página completa sobre cobertura CABA/GBA: https://mgabogado.com.ar/abogado-previsional-buenos-aires.md
 
@@ -80,4 +80,3 @@ Especialista en Derecho Previsional argentino.
 - ¿Qué regímenes jubilatorios especiales existen?
 - ¿Cómo conservar una obra social al jubilarse?
 - ¿Cómo funcionan las jubilaciones docentes?
-- ¿Cómo funciona el régimen previsional para investigadores científicos?

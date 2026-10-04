@@ -1,6 +1,6 @@
 # Dr. Martín García – Abogado Previsional en Argentina
 
-> Abogado especializado exclusivamente en Derecho Previsional argentino. Asesoramiento en jubilaciones, pensiones, reajuste de haberes, retiro por invalidez, moratorias previsionales y trámites ante ANSES. Atención presencial en Ciudad Autónoma de Buenos Aires y consultas remotas para toda Argentina.
+> Dr. Martín García, abogado que ejerce de manera individual y se dedica al Derecho Previsional y al Derecho de la Seguridad Social. Asesoramiento en jubilaciones, pensiones, reajuste de haberes, retiro por invalidez, moratorias previsionales y trámites ante ANSES. Atención en CABA y Buenos Aires. Consultas remotas cuando corresponda.
 
 ## Especialidades
 - Derecho Previsional
@@ -13,7 +13,6 @@
 - Pensiones No Contributivas
 - Regímenes Diferenciales
 - Jubilaciones Docentes
-- Jubilaciones Investigadores Científicos
 - Convenios Internacionales de Seguridad Social
 - Amparos de Salud
 
@@ -44,7 +43,7 @@ Dr. Martín García
 ## Cobertura
 - Ciudad Autónoma de Buenos Aires
 - Gran Buenos Aires
-- Atención remota para toda Argentina
+- Consultas remotas para otras localidades cuando corresponda
 
 ## Blog
 Artículos sobre legislación previsional argentina, ANSES, jubilaciones, pensiones, reajustes de haberes, regímenes especiales, fallos judiciales y novedades normativas.
