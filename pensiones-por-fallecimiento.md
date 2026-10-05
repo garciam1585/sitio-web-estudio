@@ -31,7 +31,7 @@ La Ley 24.241 establece un orden de prioridad entre los posibles beneficiarios d
 - **Los hijos menores de 18 años**
 - **Los hijos mayores con incapacidad** — sin límite de edad
 
-**Importante:** El derecho del cónyuge y el conviviente son excluyentes entre sí en principio, salvo situaciones de separación de hecho o pérdida de derecho del cónyuge. En los casos donde hay tanto cónyuge como conviviente, la situación requiere un análisis jurídico específico.
+**Importante:** El cónyuge y el conviviente pueden tener derecho a compartir la pensión en los supuestos previstos legalmente. Si existen ambos vínculos, corresponde analizar los requisitos de cada solicitante y los antecedentes del caso antes de determinar una exclusión o distribución del beneficio.
 
 ## El requisito de regularidad de aportes en la pensión directa
 
@@ -161,6 +161,12 @@ T° 149 F° 191 CPACF
 
 Práctica profesional en Derecho Previsional y Derecho de la Seguridad Social. Asesoramiento en CABA y Provincia de Buenos Aires, con consultas remotas cuando corresponda.
 
+## Fuentes oficiales consultadas
+
+- [Decreto 300/2001, artículo 3: devengamiento de la pensión](https://www.argentina.gob.ar/normativa/nacional/norma-66402/texto).
+- [Ley 24.241, artículos 53 y 168: derechohabientes y subsistencia del artículo 82 de la Ley 18.037](https://www.argentina.gob.ar/normativa/nacional/639/actualizacion).
+- [Ley 18.037, texto ordenado en 1976, artículo 82: prescripción de haberes](https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-522-1976-154617/actualizacion).
+
 ## Preguntas frecuentes sobre pensiones
 
 Respuestas a las consultas más habituales sobre pensiones por fallecimiento ante ANSES
@@ -183,11 +189,11 @@ En la pensión directa por fallecimiento de trabajador activo, ANSES exige que e
 
 ### ¿Pueden coexistir cónyuge y conviviente con derecho a pensión?
 
-En principio no, ya que el derecho del conviviente requiere que el causante no haya estado unido en matrimonio vigente al momento del fallecimiento o que el cónyuge hubiera perdido el derecho. En casos de separación de hecho y nueva convivencia, la situación requiere un análisis jurídico específico.
+Sí, pueden concurrir cuando se reúnen las condiciones legales. La existencia de un matrimonio no excluye automáticamente el derecho del conviviente, ni la convivencia desplaza siempre al cónyuge. El artículo 53 de la Ley 24.241 contempla supuestos de concurrencia. Es necesario analizar la situación matrimonial, la separación de hecho, la convivencia acreditada, los antecedentes alimentarios y las demás circunstancias relevantes para determinar quiénes tienen derecho y cómo corresponde distribuir la prestación.
 
 ### ¿Cuánto tiempo tengo para solicitar la pensión tras el fallecimiento?
 
-No existe un plazo estricto para iniciar el trámite, pero se recomienda hacerlo cuanto antes ya que el beneficio se liquida desde la fecha de solicitud, no desde el fallecimiento. Cada mes de demora es un mes de beneficio que no se cobra. Además, reunir la documentación con el tiempo justo puede generar problemas evitables.
+Conviene iniciar la solicitud cuanto antes. Como regla general, la pensión por fallecimiento se devenga desde el día siguiente a la muerte del causante, pero eso no significa que siempre puedan cobrarse todos los haberes acumulados desde entonces. El derecho al beneficio debe distinguirse del cobro de haberes retroactivos, que está sujeto a reglas de prescripción. Para determinar qué períodos pueden reclamarse, corresponde revisar la fecha del fallecimiento, la solicitud y los antecedentes del caso.
 
 ## Contacto y atención
 
