@@ -18,7 +18,7 @@ El régimen jubilatorio docente tiene particularidades que lo distinguen del ré
 
 - **Docentes nacionales:** tramitan ante ANSES bajo el régimen de la Ley 24.016, que reconoce condiciones preferenciales de acceso.
 - **Docentes provinciales:** en las provincias con caja previsional propia (Buenos Aires, Córdoba, Entre Ríos, Corrientes, entre otras), el trámite se gestiona ante el organismo provincial correspondiente.
-- **Docentes universitarios:** según el tipo de designación y la universidad, pueden corresponder diferentes encuadres. Asesoro en la determinación del régimen aplicable y la maximización del haber.
+- **Docentes universitarios:** según el tipo de designación y la universidad, pueden corresponder diferentes encuadres. Asesoro en la determinación del régimen aplicable y en el análisis de los servicios y remuneraciones computables para calcular el haber.
 
 ## Regímenes Diferenciales
 
