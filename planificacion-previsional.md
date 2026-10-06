@@ -65,7 +65,7 @@ Como abogado previsional, evalúo si en tu situación concreta existe una morato
 - [Regímenes especiales aplicables según el tipo de actividad](https://mgabogado.com.ar/otros-servicios-previsionales) (docentes, insalubres, construcción, transportes)
 - Convenios internacionales de reciprocidad si hubo períodos de trabajo en el exterior
 - Estimación del haber jubilatorio según distintos escenarios
-- Estrategia y cronograma para maximizar el beneficio
+- Plan de acción y cronograma según los requisitos pendientes y las alternativas previsionales aplicables
 
 **Un dato que marca la diferencia:** en la práctica previsional, es frecuente que las personas se acerquen a iniciar su jubilación una vez alcanzada la edad requerida. Sin embargo, la falta de un análisis previo adecuado suele derivar en inconvenientes que podrían haberse evitado. Anticiparse es la decisión más inteligente que puede tomar un futuro jubilado.
 
@@ -84,7 +84,7 @@ o llamá al [+54 11 3008-2030](tel:+541130082030)
 - ✔ Fuiste autónomo o monotributista
 - ✔ Trabajaste en el exterior
 - ✔ Querés saber cuánto te falta para jubilarte
-- ✔ Querés maximizar tu haber futuro
+- ✔ Querés evaluar cómo tus aportes pueden influir en tu jubilación
 
 #### Otros servicios previsionales
 
