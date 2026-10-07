@@ -147,10 +147,66 @@ document.querySelectorAll('.stat-card__number').forEach(counter => {
     statsObserver.observe(counter);
 });
 
+// =============== CONTEXTO DE CONTACTO PARA GTM ===============
+const contactServicePaths = [
+    'gestion-jubilaciones', 'pensiones-por-fallecimiento',
+    'reajuste-de-haberes', 'planificacion-previsional',
+    'retiro-por-invalidez', 'amparos-de-salud',
+    'otros-servicios-previsionales'
+];
+
+function contactPageService() {
+    const page = window.location.pathname.replace(/\/$/, '').split('/').pop().replace(/\.html$/, '');
+    return contactServicePaths.includes(page) ? page : 'general';
+}
+
+function contactSelectedService(value) {
+    const services = {
+        'Planificación Previsional': 'planificacion-previsional',
+        'Gestión de Jubilaciones': 'gestion-jubilaciones',
+        'Pensiones por Fallecimiento': 'pensiones-por-fallecimiento',
+        'Reajuste de Haberes': 'reajuste-de-haberes',
+        'Retiros por Invalidez': 'retiro-por-invalidez',
+        'Amparos de Salud': 'amparos-de-salud',
+        'Otro': 'otros-servicios-previsionales'
+    };
+    return services[value] || 'general';
+}
+
+function contactLinkContext(link) {
+    let location = 'other';
+    if (link.classList.contains('whatsapp-button')) location = 'floating';
+    else if (link.closest('.sidebar')) location = 'sidebar';
+    else if (link.closest('.cta-section')) location = 'bottom';
+    else if (link.closest('.footer')) location = 'footer';
+    else if (link.closest('#contacto')) location = 'contact_section';
+
+    return {
+        contact_origin: 'direct_link',
+        cta_location: location,
+        service: contactPageService(),
+        form_id: ''
+    };
+}
+
+// Captura el contexto antes de que GTM procese gtm.linkClick.
+// No emite otro evento: las etiquetas actuales siguen registrando el clic.
+document.addEventListener('click', (event) => {
+    const link = event.target.closest ? event.target.closest('a[href]') : null;
+    if (!link) return;
+    const href = link.getAttribute('href') || '';
+    if (!/^tel:/i.test(href) && !/^mailto:/i.test(href) &&
+        !/^https:\/\/wa\.me\//i.test(href)) return;
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(contactLinkContext(link));
+}, true);
+
 // =============== FORMULARIO DE CONTACTO ===============
 if (contactForm) {
+let contactFormPending = false;
 contactForm.addEventListener('submit', (e) => {
     e.preventDefault();
+    if (contactFormPending) return;
 
     // Obtener valores del formulario
     const name = document.getElementById('name').value.trim();
@@ -202,29 +258,39 @@ contactForm.addEventListener('submit', (e) => {
         whatsappURL = 'https://api.whatsapp.com/send?phone=' + phoneNumber + '&text=' + encodedMessage;
     }
     
-    // Log para debugging
-    console.log('Mensaje WhatsApp:', whatsappMessage);
-    console.log('URL:', whatsappURL);
-    console.log('Es móvil:', isMobile);
-    
-    // Registrar conversión en Google Tag Manager
-window.dataLayer = window.dataLayer || [];
-window.dataLayer.push({
-    event: 'contact_whatsapp'
-});
-    // Abrir WhatsApp
-    window.location.href = whatsappURL;
+    contactFormPending = true;
+    showMessage('Abriendo WhatsApp. Para completar el contacto, envíe allí el mensaje preparado.', 'success');
 
-    // Mostrar mensaje de éxito
-    showMessage('¡Redirigiendo a WhatsApp! Si no se abre automáticamente, haga clic en el botón de WhatsApp flotante.', 'success');
-
-    // Limpiar formulario después de un momento
+    // Liberar el formulario también si WhatsApp no puede abrirse.
     setTimeout(() => {
+        contactFormPending = false;
         contactForm.reset();
         formMessage.style.display = 'none';
     }, 3000);
-});
 
+    let redirected = false;
+    const openWhatsApp = () => {
+        if (redirected) return;
+        redirected = true;
+        window.location.href = whatsappURL;
+    };
+
+    // Dar tiempo a la etiqueta sin impedir el contacto si GTM está bloqueado.
+    const redirectFallback = setTimeout(openWhatsApp, 1200);
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        event: 'contact_whatsapp',
+        contact_origin: 'validated_form',
+        cta_location: 'contact_form',
+        service: contactSelectedService(service),
+        form_id: 'contact-form',
+        eventCallback: () => {
+            clearTimeout(redirectFallback);
+            openWhatsApp();
+        },
+        eventTimeout: 1000
+    });
+});
 }
 
 // Función para mostrar mensajes
@@ -374,21 +440,3 @@ formInputs.forEach(input => {
 
 // =============== PROTECCIÓN CONTRA SPAM EN FORMULARIO ===============
 // Se maneja dentro del event listener principal del formulario
-
-// =============== ANALYTICS (Opcional - Google Analytics) ===============
-// Puedes agregar eventos de tracking
-function trackEvent(category, action, label) {
-    if (typeof gtag !== 'undefined') {
-        gtag('event', action, {
-            'event_category': category,
-            'event_label': label
-        });
-    }
-}
-
-// Ejemplo de uso:
-document.querySelectorAll('.btn--primary').forEach(btn => {
-    btn.addEventListener('click', () => {
-        trackEvent('Button', 'Click', btn.textContent.trim());
-    });
-});
