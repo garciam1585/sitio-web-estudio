@@ -207,13 +207,13 @@ Entidad profesional: https://mgabogado.com.ar/#person
 
 ---
 
-# Gestión de Jubilaciones y *Moratorias Previsionales* en Buenos Aires
+# Asesoramiento y Gestión de *Jubilaciones* ante ANSES
 
-Página del servicio: [Gestión de Jubilaciones y Moratorias Previsionales en Buenos Aires](https://mgabogado.com.ar/gestion-jubilaciones).
+Página del servicio: [Asesoramiento y Gestión de Jubilaciones ante ANSES](https://mgabogado.com.ar/gestion-jubilaciones).
 
 Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
 
-¿Llegaste a la edad para jubilarte pero te faltan años de aportes? Como abogado previsional, analizo tu historia laboral, evalúo si existe un régimen de regularización aplicable y gestiono el expediente ante ANSES.
+Como abogado previsional, brindo asesoramiento y gestión de jubilaciones ante ANSES. Analizo tu historia laboral, los aportes registrados y la documentación disponible para evaluar las alternativas que correspondan e iniciar el trámite jubilatorio según tu situación.
 
 ## ¿Qué es la jubilación ordinaria y quiénes pueden acceder?
 
@@ -251,23 +251,23 @@ Este procedimiento puede ayudar a acreditar los años necesarios y determinar si
 
 ### Análisis de historia laboral
 
-Revisamos tu CUIL en los sistemas de ANSES y AFIP, detectamos aportes registrados, períodos faltantes y posibles errores en la base de datos del organismo.
+Reviso tu CUIL en los sistemas de ANSES y AFIP, detecto aportes registrados, períodos faltantes y posibles errores en la base de datos del organismo.
 
 ### Estrategia previsional personalizada
 
-En función de tu situación concreta diseñamos la mejor alternativa: jubilación ordinaria, con moratoria, reconocimiento de servicios, régimen especial u otras opciones aplicables.
+En función de tu situación concreta diseño la mejor alternativa: jubilación ordinaria, con moratoria, reconocimiento de servicios, régimen especial u otras opciones aplicables.
 
 ### Armado del expediente
 
-Reunimos la documentación necesaria, preparamos el legajo completo y presentamos el expediente ante ANSES con el patrocinio letrado correspondiente.
+Reúno la documentación necesaria, preparo el legajo completo y presento el expediente ante ANSES con el patrocinio letrado correspondiente.
 
 ### Seguimiento riguroso
 
-Monitoreamos el estado del expediente en todas sus instancias, respondemos a pedidos de documentación adicional y actuamos ante cualquier demora o irregularidad.
+Monitoreo el estado del expediente en todas sus instancias, respondo a pedidos de documentación adicional y actúo ante cualquier demora o irregularidad.
 
 ### Primer cobro y cierre
 
-Te acompañamos hasta verificar que el haber liquidado sea el correcto y que el primer cobro se efectúe sin inconvenientes. En caso de [error en la liquidación inicial](https://mgabogado.com.ar/reajuste-de-haberes), actuamos de inmediato.
+Te acompaño hasta verificar que el haber liquidado sea el correcto y que el primer cobro se efectúe sin inconvenientes. En caso de [error en la liquidación inicial](https://mgabogado.com.ar/reajuste-de-haberes), actúo de inmediato.
 
 ## ¿Por qué conviene iniciar el trámite con un abogado previsional?
 
@@ -445,23 +445,23 @@ La clave está en acreditar con otros medios probatorios que la convivencia era 
 
 ### Análisis del caso
 
-Evaluamos el tipo de pensión (directa o derivada), el vínculo del solicitante con el causante, la situación de aportes y los posibles obstáculos. La estrategia se define a partir del análisis de la información disponible.
+Analizo el tipo de pensión —directa o derivada—, el vínculo con la persona fallecida, sus antecedentes previsionales y los posibles obstáculos. A partir de esa información, evalúo los requisitos aplicables y la forma de iniciar o continuar el trámite.
 
 ### Relevamiento de documentación
 
-Determinamos exactamente qué documentos se necesitan en función del caso: actas de matrimonio o convivencia, partidas de nacimiento, historial de aportes del causante, documentación domiciliaria, etc.
+Reviso la documentación disponible y determino qué elementos corresponde reunir según el caso: partidas, documentación que acredite el vínculo, antecedentes laborales y previsionales de la persona fallecida y otros documentos pertinentes.
 
-### Estrategia probatoria para convivientes
+### Acreditación de convivencia
 
-Si el solicitante es conviviente, diseñamos la estrategia de acreditación: información sumaria judicial, declaraciones testimoniales y documentación de respaldo para abordar la divergencia de domicilios si existe.
+Si quien solicita la pensión es conviviente, evalúo los medios de prueba disponibles para acreditar la vida en común durante el período exigido. Cuando existen diferencias de domicilio u otras inconsistencias, analizo si corresponde incorporar documentación adicional u otras medidas probatorias.
 
 ### Presentación del expediente
 
-Se prepara el legajo y se presenta ante ANSES con patrocinio letrado, revisando la documentación disponible y los requisitos aplicables al caso.
+Preparo la presentación ante ANSES a partir de los antecedentes y la documentación reunida, conforme a los requisitos aplicables al caso.
 
-### Seguimiento y respuesta a rechazos
+### Seguimiento y respuesta a observaciones o rechazos
 
-Si ANSES demora, pide documentación adicional o rechaza el beneficio, se evalúan recursos administrativos o acción judicial según corresponda.
+Realizo el seguimiento del expediente. Si ANSES solicita documentación adicional, demora su resolución o rechaza el beneficio, analizo la situación y evalúo las alternativas administrativas o judiciales que puedan corresponder.
 
 Para demoras sin respuesta, podés consultar el apartado de [amparos por mora de ANSES](https://mgabogado.com.ar/otros-servicios-previsionales#amparo-por-mora). Si la pensión ya fue otorgada y la consulta se refiere al monto liquidado, revisá el servicio de [reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes).
 
@@ -473,15 +473,15 @@ ANSES cuestiona la convivencia porque el DNI o el padrón muestran domicilios di
 
 ### Falta de regularidad de aportes
 
-El causante no cumplía los requisitos de regularidad al fallecer. Evaluamos vías para acreditar aportes no registrados o impugnar la denegación con fundamento jurídico.
+Analizo la historia laboral de la persona fallecida para determinar si reunía los requisitos previsionales aplicables. Si existen períodos no registrados o una denegación, evalúo la documentación disponible y las posibles vías de reclamo.
 
 ### Coexistencia de cónyuge y conviviente
 
-Cuando el causante estaba casado pero separado de hecho y tenía una nueva pareja conviviente. Analizamos la situación para determinar quién tiene derecho y en qué proporción.
+Cuando existen un cónyuge y una pareja conviviente, analizo los requisitos de cada solicitante y los antecedentes del caso para determinar si corresponde una exclusión o concurrencia al beneficio y cómo debe distribuirse la prestación.
 
 ### Insuficiente tiempo de convivencia acreditado
 
-ANSES cuestiona si la convivencia cumple el mínimo legal de 2 o 5 años. Recopilamos la prueba documental y testimonial necesaria para acreditarlo.
+Reviso si la documentación permite acreditar la convivencia durante el período legalmente exigido y evalúo qué elementos adicionales corresponde reunir.
 
 ### Pensión para hijos con situaciones especiales
 
@@ -879,7 +879,7 @@ Página del servicio: [Amparos de Salud: conservá tu Obra Social o Prepaga al j
 
 Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
 
-Pasarse a PAMI al jubilarse **no es obligatorio**. Si tu obra social o prepaga te niega la continuidad, existe una acción judicial que protege tu derecho. Actuamos con urgencia para que no pierdas tu cobertura.
+Pasarse a PAMI al jubilarse **no es obligatorio**. Si tu obra social o prepaga te niega la continuidad, existe una acción judicial que protege tu derecho. Actúo con urgencia para que no pierdas tu cobertura.
 
 ## Lo primero que hay que saber: PAMI no es obligatorio
 
@@ -927,21 +927,21 @@ Las situaciones más frecuentes que dan lugar a un amparo son:
 
 ### Consulta urgente
 
-Analizamos la situación de cobertura actual, el tipo de agente de salud (obra social de ley, provincial o prepaga) y el momento del trámite jubilatorio para definir la estrategia.
+Analizo la situación de cobertura actual, el tipo de agente de salud (obra social de ley, provincial o prepaga) y el momento del trámite jubilatorio para definir la estrategia.
 
 También podés consultar información sobre [gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones) y [planificación previsional](https://mgabogado.com.ar/planificacion-previsional).
 
 ### Carta documento previa
 
-Antes del amparo, enviamos una carta documento al agente de salud exigiendo formalmente la continuidad. En muchos casos esto alcanza para resolver la situación sin necesidad de llegar a la instancia judicial.
+Antes del amparo, evalúo si corresponde enviar una carta documento al agente de salud exigiendo formalmente la continuidad. En muchos casos esto alcanza para resolver la situación sin necesidad de llegar a la instancia judicial.
 
 ### Interposición del amparo
 
-Si la carta documento no tiene respuesta favorable, iniciamos la acción judicial de amparo solicitando una medida cautelar inmediata que ordene mantener la cobertura.
+Si la carta documento no tiene respuesta favorable y corresponde acudir a la vía judicial, interpongo la acción de amparo solicitando una medida cautelar inmediata que ordene mantener la cobertura.
 
 ### Derivación de aportes
 
-Una vez reconocido el derecho, gestionamos ante ANSES la derivación de los aportes previsionales a la obra social o prepaga elegida, en lugar de a PAMI.
+Una vez reconocido el derecho, gestiono ante ANSES la derivación de los aportes previsionales a la obra social o prepaga elegida, en lugar de a PAMI.
 
 **Consultá ante una comunicación de baja o un cambio de condiciones** Revisar la situación a tiempo permite identificar los plazos aplicables, reunir documentación y evaluar las medidas disponibles. Si la cobertura ya fue interrumpida, también corresponde analizar las vías de reclamo. La urgencia debe valorarse especialmente cuando existen tratamientos, medicación o prestaciones pendientes.
 
@@ -998,7 +998,7 @@ Sí. El derecho de continuidad se extiende al grupo familiar a cargo del jubilad
 
 ### ¿Puedo cambiar de obra social después de jubilarme?
 
-Sí, existe la posibilidad de opción de cambio de obra social una vez al año, pero el listado de obras sociales que aceptan jubilados es más acotado que durante la etapa activa. Asesoramos sobre las opciones disponibles en cada caso particular.
+Sí, existe la posibilidad de opción de cambio de obra social una vez al año, pero el listado de obras sociales que aceptan jubilados es más acotado que durante la etapa activa. Asesoro sobre las opciones disponibles en cada caso particular.
 
 ## Contacto y atención
 
@@ -1066,6 +1066,8 @@ La PUAM es una prestación no contributiva destinada a personas de **65 años o 
 
 Especialmente tras el fin de la moratoria previsional, la PUAM se ha convertido en la principal alternativa para quienes no completan los años de aportes. Sin embargo, tiene limitaciones importantes respecto de la jubilación ordinaria: no genera derecho a pensión derivada para el cónyuge o hijos, y su monto es inferior al haber mínimo jubilatorio.
 
+**Requisitos principales:** tener 65 años o más. Las personas argentinas naturalizadas deben acreditar 10 años de residencia en el país anteriores a la solicitud; las extranjeras, al menos 20 años, de los cuales los últimos 10 deben ser inmediatamente anteriores a la solicitud. También es necesario mantener la residencia en Argentina y revisar las incompatibilidades con jubilaciones, pensiones y la Prestación por Desempleo, junto con los demás requisitos aplicables.
+
 ## PNC — Pensiones No Contributivas
 
 Las Pensiones No Contributivas son prestaciones económicas para personas en situación de vulnerabilidad social que no tienen acceso a beneficios contributivos. ANSES otorga tres tipos principales:
@@ -1117,4 +1119,5 @@ Especialista exclusivo en Derecho Previsional y Seguridad Social. Atención en C
 - contacto@mgabogado.com.ar
 
 Entidad profesional: https://mgabogado.com.ar/#person
+
 

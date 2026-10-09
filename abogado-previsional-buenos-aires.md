@@ -12,7 +12,7 @@ Sin necesidad de trasladarse: la mayoría de las gestiones ante ANSES se realiza
 
 ## Cobertura en toda el área metropolitana
 
-Atendemos clientes en toda la Ciudad de Buenos Aires y los partidos del Gran Buenos Aires:
+Atiendo clientes en toda la Ciudad de Buenos Aires y los partidos del Gran Buenos Aires, incluyendo:
 
 **CABA**: San Cristóbal, Boedo, Almagro, Palermo, Recoleta, Caballito, Flores, Balvanera, San Telmo, Villa del Parque, Devoto y todos los barrios de CABA.
 
@@ -73,3 +73,4 @@ Se atiende a clientes de todo el país de forma remota. Córdoba, Rosario, Mendo
 - Email: contacto@mgabogado.com.ar
 - Dirección: San Cristóbal, CABA, Argentina
 - Matrícula: CPACF T° 149 F° 191
+

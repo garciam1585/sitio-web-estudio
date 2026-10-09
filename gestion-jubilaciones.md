@@ -1,10 +1,10 @@
-# Gestión de Jubilaciones y *Moratorias Previsionales* en Buenos Aires
+# Asesoramiento y Gestión de *Jubilaciones* ante ANSES
 
-Página del servicio: [Gestión de Jubilaciones y Moratorias Previsionales en Buenos Aires](https://mgabogado.com.ar/gestion-jubilaciones).
+Página del servicio: [Asesoramiento y Gestión de Jubilaciones ante ANSES](https://mgabogado.com.ar/gestion-jubilaciones).
 
 Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
 
-¿Llegaste a la edad para jubilarte pero te faltan años de aportes? Como abogado previsional, analizo tu historia laboral, evalúo si existe un régimen de regularización aplicable y gestiono el expediente ante ANSES.
+Como abogado previsional, brindo asesoramiento y gestión de jubilaciones ante ANSES. Analizo tu historia laboral, los aportes registrados y la documentación disponible para evaluar las alternativas que correspondan e iniciar el trámite jubilatorio según tu situación.
 
 ## ¿Qué es la jubilación ordinaria y quiénes pueden acceder?
 
@@ -42,23 +42,23 @@ Este procedimiento puede ayudar a acreditar los años necesarios y determinar si
 
 ### Análisis de historia laboral
 
-Revisamos tu CUIL en los sistemas de ANSES y AFIP, detectamos aportes registrados, períodos faltantes y posibles errores en la base de datos del organismo.
+Reviso tu CUIL en los sistemas de ANSES y AFIP, detecto aportes registrados, períodos faltantes y posibles errores en la base de datos del organismo.
 
 ### Estrategia previsional personalizada
 
-En función de tu situación concreta diseñamos la mejor alternativa: jubilación ordinaria, con moratoria, reconocimiento de servicios, régimen especial u otras opciones aplicables.
+En función de tu situación concreta diseño la mejor alternativa: jubilación ordinaria, con moratoria, reconocimiento de servicios, régimen especial u otras opciones aplicables.
 
 ### Armado del expediente
 
-Reunimos la documentación necesaria, preparamos el legajo completo y presentamos el expediente ante ANSES con el patrocinio letrado correspondiente.
+Reúno la documentación necesaria, preparo el legajo completo y presento el expediente ante ANSES con el patrocinio letrado correspondiente.
 
 ### Seguimiento riguroso
 
-Monitoreamos el estado del expediente en todas sus instancias, respondemos a pedidos de documentación adicional y actuamos ante cualquier demora o irregularidad.
+Monitoreo el estado del expediente en todas sus instancias, respondo a pedidos de documentación adicional y actúo ante cualquier demora o irregularidad.
 
 ### Primer cobro y cierre
 
-Te acompañamos hasta verificar que el haber liquidado sea el correcto y que el primer cobro se efectúe sin inconvenientes. En caso de [error en la liquidación inicial](https://mgabogado.com.ar/reajuste-de-haberes), actuamos de inmediato.
+Te acompaño hasta verificar que el haber liquidado sea el correcto y que el primer cobro se efectúe sin inconvenientes. En caso de [error en la liquidación inicial](https://mgabogado.com.ar/reajuste-de-haberes), actúo de inmediato.
 
 ## ¿Por qué conviene iniciar el trámite con un abogado previsional?
 
@@ -143,3 +143,4 @@ Podés comparar la Historia Laboral de mi ANSES con tus certificaciones de servi
 - contacto@mgabogado.com.ar
 
 Entidad profesional: https://mgabogado.com.ar/#person
+

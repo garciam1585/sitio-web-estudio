@@ -88,23 +88,23 @@ La clave está en acreditar con otros medios probatorios que la convivencia era 
 
 ### Análisis del caso
 
-Evaluamos el tipo de pensión (directa o derivada), el vínculo del solicitante con el causante, la situación de aportes y los posibles obstáculos. La estrategia se define a partir del análisis de la información disponible.
+Analizo el tipo de pensión —directa o derivada—, el vínculo con la persona fallecida, sus antecedentes previsionales y los posibles obstáculos. A partir de esa información, evalúo los requisitos aplicables y la forma de iniciar o continuar el trámite.
 
 ### Relevamiento de documentación
 
-Determinamos exactamente qué documentos se necesitan en función del caso: actas de matrimonio o convivencia, partidas de nacimiento, historial de aportes del causante, documentación domiciliaria, etc.
+Reviso la documentación disponible y determino qué elementos corresponde reunir según el caso: partidas, documentación que acredite el vínculo, antecedentes laborales y previsionales de la persona fallecida y otros documentos pertinentes.
 
-### Estrategia probatoria para convivientes
+### Acreditación de convivencia
 
-Si el solicitante es conviviente, diseñamos la estrategia de acreditación: información sumaria judicial, declaraciones testimoniales y documentación de respaldo para abordar la divergencia de domicilios si existe.
+Si quien solicita la pensión es conviviente, evalúo los medios de prueba disponibles para acreditar la vida en común durante el período exigido. Cuando existen diferencias de domicilio u otras inconsistencias, analizo si corresponde incorporar documentación adicional u otras medidas probatorias.
 
 ### Presentación del expediente
 
-Se prepara el legajo y se presenta ante ANSES con patrocinio letrado, revisando la documentación disponible y los requisitos aplicables al caso.
+Preparo la presentación ante ANSES a partir de los antecedentes y la documentación reunida, conforme a los requisitos aplicables al caso.
 
-### Seguimiento y respuesta a rechazos
+### Seguimiento y respuesta a observaciones o rechazos
 
-Si ANSES demora, pide documentación adicional o rechaza el beneficio, se evalúan recursos administrativos o acción judicial según corresponda.
+Realizo el seguimiento del expediente. Si ANSES solicita documentación adicional, demora su resolución o rechaza el beneficio, analizo la situación y evalúo las alternativas administrativas o judiciales que puedan corresponder.
 
 Para demoras sin respuesta, podés consultar el apartado de [amparos por mora de ANSES](https://mgabogado.com.ar/otros-servicios-previsionales#amparo-por-mora). Si la pensión ya fue otorgada y la consulta se refiere al monto liquidado, revisá el servicio de [reajuste de haberes](https://mgabogado.com.ar/reajuste-de-haberes).
 
@@ -116,15 +116,15 @@ ANSES cuestiona la convivencia porque el DNI o el padrón muestran domicilios di
 
 ### Falta de regularidad de aportes
 
-El causante no cumplía los requisitos de regularidad al fallecer. Evaluamos vías para acreditar aportes no registrados o impugnar la denegación con fundamento jurídico.
+Analizo la historia laboral de la persona fallecida para determinar si reunía los requisitos previsionales aplicables. Si existen períodos no registrados o una denegación, evalúo la documentación disponible y las posibles vías de reclamo.
 
 ### Coexistencia de cónyuge y conviviente
 
-Cuando el causante estaba casado pero separado de hecho y tenía una nueva pareja conviviente. Analizamos la situación para determinar quién tiene derecho y en qué proporción.
+Cuando existen un cónyuge y una pareja conviviente, analizo los requisitos de cada solicitante y los antecedentes del caso para determinar si corresponde una exclusión o concurrencia al beneficio y cómo debe distribuirse la prestación.
 
 ### Insuficiente tiempo de convivencia acreditado
 
-ANSES cuestiona si la convivencia cumple el mínimo legal de 2 o 5 años. Recopilamos la prueba documental y testimonial necesaria para acreditarlo.
+Reviso si la documentación permite acreditar la convivencia durante el período legalmente exigido y evalúo qué elementos adicionales corresponde reunir.
 
 ### Pensión para hijos con situaciones especiales
 
@@ -204,3 +204,4 @@ Conviene iniciar la solicitud cuanto antes. Como regla general, la pensión por 
 - contacto@mgabogado.com.ar
 
 Entidad profesional: https://mgabogado.com.ar/#person
+

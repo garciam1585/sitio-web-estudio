@@ -4,7 +4,7 @@ Página del servicio: [Amparos de Salud: conservá tu Obra Social o Prepaga al j
 
 Profesional: Dr. Martín García — abogado que ejerce de manera individual, dedicado al Derecho Previsional y al Derecho de la Seguridad Social. Matrícula CPACF T° 149 F° 191.
 
-Pasarse a PAMI al jubilarse **no es obligatorio**. Si tu obra social o prepaga te niega la continuidad, existe una acción judicial que protege tu derecho. Actuamos con urgencia para que no pierdas tu cobertura.
+Pasarse a PAMI al jubilarse **no es obligatorio**. Si tu obra social o prepaga te niega la continuidad, existe una acción judicial que protege tu derecho. Actúo con urgencia para que no pierdas tu cobertura.
 
 ## Lo primero que hay que saber: PAMI no es obligatorio
 
@@ -52,21 +52,21 @@ Las situaciones más frecuentes que dan lugar a un amparo son:
 
 ### Consulta urgente
 
-Analizamos la situación de cobertura actual, el tipo de agente de salud (obra social de ley, provincial o prepaga) y el momento del trámite jubilatorio para definir la estrategia.
+Analizo la situación de cobertura actual, el tipo de agente de salud (obra social de ley, provincial o prepaga) y el momento del trámite jubilatorio para definir la estrategia.
 
 También podés consultar información sobre [gestión de jubilaciones](https://mgabogado.com.ar/gestion-jubilaciones) y [planificación previsional](https://mgabogado.com.ar/planificacion-previsional).
 
 ### Carta documento previa
 
-Antes del amparo, enviamos una carta documento al agente de salud exigiendo formalmente la continuidad. En muchos casos esto alcanza para resolver la situación sin necesidad de llegar a la instancia judicial.
+Antes del amparo, evalúo si corresponde enviar una carta documento al agente de salud exigiendo formalmente la continuidad. En muchos casos esto alcanza para resolver la situación sin necesidad de llegar a la instancia judicial.
 
 ### Interposición del amparo
 
-Si la carta documento no tiene respuesta favorable, iniciamos la acción judicial de amparo solicitando una medida cautelar inmediata que ordene mantener la cobertura.
+Si la carta documento no tiene respuesta favorable y corresponde acudir a la vía judicial, interpongo la acción de amparo solicitando una medida cautelar inmediata que ordene mantener la cobertura.
 
 ### Derivación de aportes
 
-Una vez reconocido el derecho, gestionamos ante ANSES la derivación de los aportes previsionales a la obra social o prepaga elegida, en lugar de a PAMI.
+Una vez reconocido el derecho, gestiono ante ANSES la derivación de los aportes previsionales a la obra social o prepaga elegida, en lugar de a PAMI.
 
 **Consultá ante una comunicación de baja o un cambio de condiciones** Revisar la situación a tiempo permite identificar los plazos aplicables, reunir documentación y evaluar las medidas disponibles. Si la cobertura ya fue interrumpida, también corresponde analizar las vías de reclamo. La urgencia debe valorarse especialmente cuando existen tratamientos, medicación o prestaciones pendientes.
 
@@ -123,7 +123,7 @@ Sí. El derecho de continuidad se extiende al grupo familiar a cargo del jubilad
 
 ### ¿Puedo cambiar de obra social después de jubilarme?
 
-Sí, existe la posibilidad de opción de cambio de obra social una vez al año, pero el listado de obras sociales que aceptan jubilados es más acotado que durante la etapa activa. Asesoramos sobre las opciones disponibles en cada caso particular.
+Sí, existe la posibilidad de opción de cambio de obra social una vez al año, pero el listado de obras sociales que aceptan jubilados es más acotado que durante la etapa activa. Asesoro sobre las opciones disponibles en cada caso particular.
 
 ## Contacto y atención
 
@@ -134,3 +134,4 @@ Sí, existe la posibilidad de opción de cambio de obra social una vez al año, 
 - [contacto@mgabogado.com.ar](mailto:contacto@mgabogado.com.ar)
 
 Entidad profesional: https://mgabogado.com.ar/#person
+

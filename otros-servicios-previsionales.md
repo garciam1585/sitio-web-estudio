@@ -52,6 +52,8 @@ La PUAM es una prestación no contributiva destinada a personas de **65 años o 
 
 Especialmente tras el fin de la moratoria previsional, la PUAM se ha convertido en la principal alternativa para quienes no completan los años de aportes. Sin embargo, tiene limitaciones importantes respecto de la jubilación ordinaria: no genera derecho a pensión derivada para el cónyuge o hijos, y su monto es inferior al haber mínimo jubilatorio.
 
+**Requisitos principales:** tener 65 años o más. Las personas argentinas naturalizadas deben acreditar 10 años de residencia en el país anteriores a la solicitud; las extranjeras, al menos 20 años, de los cuales los últimos 10 deben ser inmediatamente anteriores a la solicitud. También es necesario mantener la residencia en Argentina y revisar las incompatibilidades con jubilaciones, pensiones y la Prestación por Desempleo, junto con los demás requisitos aplicables.
+
 ## PNC — Pensiones No Contributivas
 
 Las Pensiones No Contributivas son prestaciones económicas para personas en situación de vulnerabilidad social que no tienen acceso a beneficios contributivos. ANSES otorga tres tipos principales:
@@ -103,3 +105,4 @@ Especialista exclusivo en Derecho Previsional y Seguridad Social. Atención en C
 - contacto@mgabogado.com.ar
 
 Entidad profesional: https://mgabogado.com.ar/#person
+
