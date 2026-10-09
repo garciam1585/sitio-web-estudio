@@ -8,7 +8,7 @@ Como abogado previsional, analizo tu historia laboral y la documentación dispon
 
 ## ¿Por qué planificar la jubilación con anticipación?
 
-La planificación previsional permite conocer tu situación antes de iniciar el trámite jubilatorio. El análisis parte de tus antecedentes laborales, los registros disponibles y la documentación que conservás.
+La [planificación previsional](https://blog.mgabogado.com.ar/2026/07/planificacion-previsional-anticiparse-jubilacion.html) permite conocer tu situación antes de iniciar el trámite jubilatorio. El análisis parte de tus antecedentes laborales, los registros disponibles y la documentación que conservás.
 
 Su objetivo es identificar qué está acreditado, qué necesita revisión y qué alternativas corresponde evaluar según tu caso. Revisar estos aspectos con anticipación permite organizar la documentación y preparar los pasos pendientes. No supone que todos los períodos faltantes puedan regularizarse ni asegura una fecha de jubilación o un haber determinado.
 

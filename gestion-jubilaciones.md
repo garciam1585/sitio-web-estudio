@@ -16,7 +16,7 @@ Sin embargo, el sistema previsional argentino es complejo y contempla múltiples
 
 ## ¿Qué es la moratoria previsional y cómo funciona?
 
-Las moratorias permiten regularizar determinados períodos sin aportes para completar los servicios necesarios para jubilarse. No cubren cualquier período faltante ni garantizan el acceso a la jubilación: hay que revisar la edad, la historia laboral y las condiciones de cada régimen.
+Las [moratorias](https://blog.mgabogado.com.ar/2026/08/moratoria-previsional-24476-27705-requisitos.html) permiten regularizar determinados períodos sin aportes para completar los servicios necesarios para jubilarse. No cubren cualquier período faltante ni garantizan el acceso a la jubilación: hay que revisar la edad, la historia laboral y las condiciones de cada régimen.
 
 ### Moratoria de la Ley 24.476
 
@@ -68,7 +68,7 @@ El sistema previsional argentino es uno de los más complejos del mundo en térm
 - Evaluar si corresponde aplicar una moratoria o un régimen especial
 - Evitar errores en el armado del expediente que generan demoras de meses
 - Controlar que la liquidación inicial sea la correcta
-- Actuar de inmediato si el organismo demora, requiere documentación adicional o rechaza el trámite
+- Actuar de inmediato si el organismo demora, requiere documentación adicional o [rechaza el trámite](https://blog.mgabogado.com.ar/2026/07/anses-rechazo-jubilacion-que-hacer.html)
 
 La jubilación es un beneficio que acompaña toda la vida. Un error en la liquidación inicial puede significar cobrar menos durante décadas sin saberlo. El asesoramiento letrado permite revisar los requisitos, evaluar alternativas y controlar la liquidación según los antecedentes de cada persona.
 
